@@ -1,0 +1,150 @@
+{
+  "version": "3.0",
+  "timestamp": "2026-02-28T22:39:07.607260",
+  "username": "johnzhang",
+  "portfolio_data": {},
+  "available_cash": 0.0,
+  "candidates": [
+    {
+      "ticker": "MSFT",
+      "current_price": 392.739990234375,
+      "support": 381.7099914550781,
+      "resistance": 552.6855732732587,
+      "rsm_score": null,
+      "is_portfolio": false,
+      "bias": null,
+      "bias_score": 3,
+      "analysis": null,
+      "news": [
+        {
+          "title": "Goldman Sachs resets Microsoft stock forecast",
+          "link": "https://www.thestreet.com/investing/stocks/goldman-sachs-resets-microsoft-stock-forecast",
+          "snippet": "However, it seems that earnings stole the chip's thunder, as Goldman Sachs analysts finally have something to say about it. Goldman Sachs analyst Gabriela Borges and her team released a new research note after analyzing the impact of Maia 200 on Microsoft stock.",
+          "source": "TheStreet",
+          "date": "2026-02-25T05:07:00+00:00"
+        },
+        {
+          "title": "1 Clear Signal to Buy Microsoft Stock",
+          "link": "https://www.fool.com/investing/2026/02/26/1-clear-signal-to-buy-microsoft-stock/",
+          "snippet": "Still, measuring Microsoft's return just a few months ago would have shown an even more impressive gain. The stock has sold off recently, and it now sits about 26% down from its all-time high. Sell-offs of this depth rarely happen to Microsoft's stock, especially during its current business iteration.",
+          "source": "The Motley Fool",
+          "date": "2026-02-27T00:49:00+00:00"
+        },
+        {
+          "title": "Microsoft Stock Just Flashed an Ultra-Rare Bullish Signal for Options Traders",
+          "link": "https://finance.yahoo.com/news/microsoft-stock-just-flashed-ultra-183002612.html",
+          "snippet": "While the financial media has been focused on the broader tech meltdown, MSFT stock just emitted an unusual beacon that could point to a quick upside opportunity.",
+          "source": "Yahoo Finance",
+          "date": "2026-02-24T22:05:00+00:00"
+        },
+        {
+          "title": "Here's What Weighed on Microsoft's (MSFT) Performance",
+          "link": "https://www.msn.com/en-us/money/savingandinvesting/here-s-what-weighed-on-microsoft-s-msft-performance/ar-AA1XdjLP",
+          "snippet": "Mott Capital Management, an investment management company, released its Q4 2025 investor letter. A copy of the letter can be downloaded here. Stock markets paused in Q4, with the S&P 500 trading sideways from October to year-end.",
+          "source": "Insider Monkey",
+          "date": "2026-02-27T15:24:18+00:00"
+        },
+        {
+          "title": "Microsoft's stock selloff is approaching a critical crossroads unseen in over 10 years",
+          "link": "https://www.morningstar.com/news/marketwatch/20260224127/microsofts-stock-selloff-is-approaching-a-critical-crossroads-unseen-in-over-10-years",
+          "snippet": "The recent selloff has resulted in Microsoft's valuation sliding below Alphabet's (GOOGL) (GOOG), reversing a nearly decade-long trend. Microsoft's stock also temporarily traded at a lower forward earnings multiple than IBM's (IBM) in recent weeks.",
+          "source": "Morningstar",
+          "date": "2026-02-24T20:51:00+00:00"
+        },
+        {
+          "title": "1 Unstoppable Stock to Buy Before It Rejoins Nvidia in the $4 Trillion Club",
+          "link": "https://finance.yahoo.com/news/1-unstoppable-stock-buy-rejoins-010000370.html",
+          "snippet": "This is what makes the stock 's recent steep sell-off such a surprise. My preferred metric to assess...",
+          "source": "Motley Fool",
+          "date": "2026-03-01T00:39:08+00:00"
+        },
+        {
+          "title": "Prediction: This Will Be Microsoft's Stock Price in 3 Years. (Hint: You're Going...",
+          "link": "https://finance.yahoo.com/news/prediction-microsofts-stock-price-3-215700856.html",
+          "snippet": "The stock price will be far higher in three years than it is today, and the price that it ends up at...",
+          "source": "Motley Fool",
+          "date": "2026-02-28T21:39:08+00:00"
+        },
+        {
+          "title": "Microsoft is Bouncing Back from Its Post-Earnings Price Crash, But Watch This...",
+          "link": "https://finance.yahoo.com/news/microsoft-bouncing-back-post-earnings-163949991.html",
+          "snippet": "This week’s rebound in MSFT is a counter-trend move until the shares can retake their 200-day moving...",
+          "source": "Barchart",
+          "date": "2026-02-08T06:39:08+00:00"
+        }
+      ],
+      "chart_path": "docs/daily/johnzhang/charts/2026-02-28/MSFT_chart.png"
+    },
+    {
+      "ticker": "AAPL",
+      "current_price": 264.17999267578125,
+      "support": 225.52015268533836,
+      "resistance": 288.35019153510143,
+      "rsm_score": null,
+      "is_portfolio": false,
+      "bias": null,
+      "bias_score": 3,
+      "analysis": null,
+      "news": [
+        {
+          "title": "Apple (AAPL) closes above ___ on March 2?",
+          "link": "https://finance.yahoo.com/markets/prediction/event/aapl-close-above-on-march-2-2026/",
+          "snippet": "Live pricing, charts, and volume for the Apple (AAPL) closes above ___ on March 2? prediction market from Yahoo Finance.",
+          "source": "Yahoo Finance",
+          "date": "2026-02-28T06:54:00+00:00"
+        },
+        {
+          "title": "Apple (AAPL) Got The Best Free Ride, Says Jim Cramer",
+          "link": "https://www.msn.com/en-us/money/topstocks/apple-aapl-got-the-best-free-ride-says-jim-cramer/ar-AA1X8eyF",
+          "snippet": "We recently published 12 Stocks on Jim Cramer's Radar. Apple Inc. (NASDAQ:AAPL) is one of the stocks on Jim Cramer's radar. Consumer electronics giant Apple Inc. (NASDAQ:AAPL) is the only mega-cap technology firm that hasn't massively invested in AI infrastructure.",
+          "source": "Insider Monkey",
+          "date": "2026-02-26T15:22:09+00:00"
+        },
+        {
+          "title": "Before Retiring, Warren Buffett Dumped 77% of Berkshire's Stake in Amazon and Opened a New Position in a Stock That Has Become a Digital Media Juggernaut",
+          "link": "https://www.theglobeandmail.com/investing/markets/stocks/AAPL/pressreleases/385132/before-retiring-warren-buffett-dumped-77-of-berkshires-stake-in-amazon-and-opened-a-new-position-in-a-stock-that-has-become-a-digital-media-juggernaut/",
+          "snippet": "In Q4, Berkshire dumped 77% of its Amazon(NASDAQ: AMZN) stake and opened a new position in a stock that has become a digital media juggernaut. Image source: Motley Fool.",
+          "source": "The Globe and Mail",
+          "date": "2026-02-24T05:32:00+00:00"
+        },
+        {
+          "title": "Apple, Microsoft, AppLovin and an energy stock: CNBC's 'Final Trades'",
+          "link": "https://www.msn.com/en-us/money/news/apple-microsoft-applovin-and-an-energy-stock-cnbc-s-final-trades/ar-AA1WUdXQ",
+          "snippet": "On CNBC's \"Halftime Report Final Trades,\" Joshua Brown, co-founder and CEO of Ritholtz Wealth Management, picked Apple Inc. AAPL, saying he likes the setup for the stock going into the rest of the year.",
+          "source": "Benzinga",
+          "date": "2026-02-23T12:56:33+00:00"
+        },
+        {
+          "title": "AMZN, AAPL and GOOG Forecasts - Tech Stocks Looking to Continue Upside",
+          "link": "https://www.fxempire.com/forecasts/article/amzn-aapl-and-goog-forecasts-tech-stocks-looking-to-continue-upside-1581790",
+          "snippet": "The three stocks in this analysis all look like they are trying to continue the overall positive trend that they have been in recently.",
+          "source": "FX Empire",
+          "date": "2026-02-25T14:44:00+00:00"
+        },
+        {
+          "title": "Apple (AAPL) Trading 10% Below Analyst Targets After This Week's 8% Drop",
+          "link": "https://247wallst.com/investing/2026/02/16/apple-aapl-trading-14-2-below-analyst-targets-after-this-weeks-8-drop/",
+          "snippet": "Apple (NASDAQ: AAPL | AAPL Price Prediction) closed at $255.78 on February 13, down 7.95% from the previous week's $277.86. Yet Wall Street analysts still see the stock climbing to an average target of $292.",
+          "source": "24/7 Wall St.",
+          "date": "2026-02-16T23:13:00+00:00"
+        },
+        {
+          "title": "Apple Stock Looked Like It Was Rolling. Now It's on the Back Foot Again",
+          "link": "https://www.investopedia.com/apple-stock-looked-like-it-was-rolling-now-it-s-on-the-back-foot-again-aapl-11906277",
+          "snippet": "Apple stock turned negative for the year yesterday as the Trump administration upped pressure on the iPhone maker and reports suggested long-awaited AI-powered Siri features are being delayed again.",
+          "source": "Investopedia",
+          "date": "2026-02-13T16:53:00+00:00"
+        },
+        {
+          "title": "Here is what to know beyond why Apple Inc. (AAPL) is a trending stock",
+          "link": "https://www.msn.com/en-us/money/topstocks/here-is-what-to-know-beyond-why-apple-inc-aapl-is-a-trending-stock/ar-AA1WsrD9?ocid=BingNewsVerp",
+          "snippet": "Apple (AAPL) has recently been on Zacks.com's list of the most searched stocks. Therefore, you might want to consider some of ...",
+          "source": "Zacks Investment Research on MSN",
+          "date": "2026-02-17T06:39:08+00:00"
+        }
+      ],
+      "chart_path": "docs/daily/johnzhang/charts/2026-02-28/AAPL_chart.png"
+    }
+  ],
+  "global_summary": null
+}
