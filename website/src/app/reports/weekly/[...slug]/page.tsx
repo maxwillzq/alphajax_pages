@@ -1,0 +1,85 @@
+import { getReportBySlug, getAllReports } from '@/lib/reports'
+import ReactMarkdown from 'react-markdown'
+import { notFound } from 'next/navigation'
+import remarkGfm from 'remark-gfm'
+import remarkToc from 'remark-toc'
+import rehypeSlug from 'rehype-slug'
+
+export async function generateStaticParams() {
+  const reports = getAllReports('weekly')
+  return reports.map((report) => ({
+    slug: report.slug.split('/'),
+  }))
+}
+
+export default async function WeeklyReportPage({
+  params,
+}: {
+  params: Promise<{ slug: string[] }>
+}) {
+  const { slug } = await params
+  const report = getReportBySlug('weekly', slug.join('/'))
+
+  if (!report) {
+    notFound()
+  }
+
+  return (
+    <div className="mx-auto max-w-4xl px-4 py-12">
+      <article className="prose prose-slate lg:prose-lg mx-auto dark:prose-invert">
+        <header className="mb-8 border-b pb-8 text-center">
+          <span className="inline-block rounded-full bg-indigo-100 px-3 py-1 text-xs font-bold uppercase tracking-widest text-indigo-600 dark:bg-indigo-900/30 dark:text-indigo-400 mb-4">
+            每周报告
+          </span>
+          <h1 className="mb-4 text-4xl font-extrabold tracking-tight text-slate-900 dark:text-white">
+            {report.title}
+          </h1>
+          <p className="text-lg font-medium text-slate-500 dark:text-slate-400">
+            {report.date}
+          </p>
+        </header>
+        <div className="ql-editor">
+          <ReactMarkdown
+            remarkPlugins={[remarkGfm, [remarkToc, { heading: '目录', tight: true }]]}
+            rehypePlugins={[rehypeSlug]}
+            components={{
+              img: ({ node, ...props }) => {
+                const userPath = slug.slice(0, -1).join('/')
+                const prefix = `/weekly/${userPath}`
+                const cleanPrefix = prefix.endsWith('/') ? prefix : `${prefix}/`
+                const src = props.src as string | undefined
+                const fullSrc = src?.startsWith('http') || src?.startsWith('/')
+                  ? src
+                  : `${cleanPrefix}${src}`
+
+                return (
+                  <span className="block my-10">
+                    <img
+                      {...props}
+                      src={fullSrc}
+                      className="rounded-2xl shadow-2xl border border-slate-200 dark:border-slate-800 mx-auto max-w-full"
+                      alt={props.alt || '报告图表'}
+                    />
+                  </span>
+                )
+              }
+            }}
+          >
+            {report.content.replace(/\[TOC\]/gi, '## 目录')}
+          </ReactMarkdown>
+        </div>
+      </article>
+
+      <section className="mt-16 border-t pt-12">
+        <h2 className="mb-8 text-2xl font-bold text-slate-900 dark:text-white">
+          社区分析
+        </h2>
+        <div className="rounded-xl bg-slate-50 p-6 dark:bg-slate-900">
+          <p className="text-slate-600 dark:text-slate-400 italic">
+            社区反馈和评价功能即将上线。
+          </p>
+        </div>
+      </section>
+    </div>
+  )
+}
