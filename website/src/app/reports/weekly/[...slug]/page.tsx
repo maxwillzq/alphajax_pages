@@ -40,7 +40,7 @@ export default async function WeeklyReportPage({
         </header>
         <div className="ql-editor">
           <ReactMarkdown
-            remarkPlugins={[remarkGfm, [remarkToc, { heading: '目录', tight: true }]]}
+            remarkPlugins={[remarkGfm, [remarkToc, { heading: '目录', tight: true, maxDepth: 2 }]]}
             rehypePlugins={[rehypeSlug]}
             components={{
               img: ({ node, ...props }) => {

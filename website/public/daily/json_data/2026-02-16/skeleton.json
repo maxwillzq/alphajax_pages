@@ -1,0 +1,36 @@
+{
+  "version": "3.0",
+  "timestamp": "2026-02-16T23:05:23.096086",
+  "username": "johnzhang",
+  "portfolio_data": {},
+  "available_cash": 0.0,
+  "candidates": [
+    {
+      "ticker": "TPL",
+      "current_price": 432.30999755859375,
+      "support": 269.23333740234375,
+      "resistance": 436.1199951171875,
+      "rsm_score": null,
+      "is_portfolio": false,
+      "bias": null,
+      "bias_score": 3,
+      "analysis": null,
+      "news": [],
+      "chart_path": null
+    },
+    {
+      "ticker": "NVDA",
+      "current_price": 182.80999755859375,
+      "support": 164.05163046676552,
+      "resistance": 212.1781954922272,
+      "rsm_score": null,
+      "is_portfolio": false,
+      "bias": null,
+      "bias_score": 3,
+      "analysis": null,
+      "news": [],
+      "chart_path": null
+    }
+  ],
+  "global_summary": null
+}

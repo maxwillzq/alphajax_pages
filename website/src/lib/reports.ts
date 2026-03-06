@@ -2,7 +2,7 @@ import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
 
-const DOCS_PATH = path.join(process.cwd(), '..')
+const DOCS_PATH = path.join(process.cwd(), 'public')
 
 export interface Report {
   slug: string

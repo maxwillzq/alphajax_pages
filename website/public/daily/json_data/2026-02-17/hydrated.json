@@ -1,0 +1,966 @@
+{
+  "version": "3.0",
+  "timestamp": "2026-02-17T14:28:01.424229",
+  "username": "johnzhang",
+  "portfolio_data": {
+    "GOOGL": "正股持仓: 139.0股, 成本价: $262.26, 占账户比例: 17.64%, 总盈亏: +16.57%",
+    "AMD": "期权持仓: 标的 AMD, 符号 -AMD260313C230, 数量: -1.0, 描述: AMD MAR 13 2026 $230 CALL, 占账户比例: -0.21%, 总盈亏: +39.80%; 正股持仓: 600.0股, 成本价: $220.54, 占账户比例: 51.63%, 总盈亏: -6.00%",
+    "VST": "期权持仓: 标的 VST, 符号 -VST260227P145, 数量: -1.0, 描述: VST FEB 27 2026 $145 PUT, 占账户比例: -0.06%, 总盈亏: +73.30%; 正股持仓: 100.0股, 成本价: $157.38, 占账户比例: 7.12%, 总盈亏: +8.96%"
+  },
+  "available_cash": 57548.729999999996,
+  "candidates": [
+    {
+      "ticker": "TSM",
+      "current_price": 366.3599853515625,
+      "support": 222.39611444535288,
+      "resistance": 380.0,
+      "rsm_score": null,
+      "is_portfolio": false,
+      "bias": "neutral",
+      "bias_score": 1,
+      "analysis": "\n### 技术指标概览 (Technical Overview)\n- **当前价格**: $366.36\n- **RSI (14)**: 66.20\n- **移动平均线**: SMA20: $342.48 | SMA50: $320.46 | SMA200: $263.53 (Bullish)\n- **波动率**: ATR (14): 16.78 (预计周度波动: +/- $37.51)\n- **关键位 (6m)**: 支撑位 $222.40 | 阻力位 $380.00\n- **即时状态**: Above SMA50\n\n# 情绪审计报告：台积电 (TSM)\n**日期：** 2026年02月17日\n**分析师：** 对冲基金研究助理（叙事经济学专业）\n\n---\n\n### 1. 催化剂分类 (Catalyst Categorization)\n\n*   **A-Tier (核心驱动力)**\n    *   **爆炸性业绩表现：** TSM 报告了创纪录的 1 月份销售额，显示出全球对人工智能 (AI) 硬件的需求依然极其强劲 ([Benzinga/MSN](https://www.msn.com/en-us/money/news/taiwan-semiconductor-stock-smashes-52-week-high-after-blowout-january-sales/ar-AA1W3auO?ocid=BingNewsVerp))。\n    *   **机构重仓增持：** 乔治·索罗斯 (George Soros) 的量子基金在去年第四季度将其 TSM 持仓大幅增加了 **157%**，这提供了极强的机构背书 ([My Investing News](https://www.msn.com/en-us/money/top-stocks/9-stocks-george-soros-is-betting-his-fortune-on/ar-AA1WuE2j?ocid=BingNewsVerp))。\n*   **B-Tier (行业协同)**\n    *   **产能扩张叙事：** 持续的 AI 产能扩张计划支持了长期估值逻辑，尽管市场开始出现估值过高的质疑 ([Simply Wall St](https://finance.yahoo.com/news/tsmc-record-sales-ai-capacity-043132375.html))。\n    *   **量化评级看涨：** Seeking Alpha 的量化评级对索罗斯的前几大持仓（包括 TSM）保持高度关注 ([Seeking Alpha](https://www.msn.com/en-us/money/topstocks/quant-ratings-on-soros-fund-management-s-top-holdings-amzn-googl-tsm-nvda/ar-AA1WsTVd?ocid=BingNewsVerp))。\n*   **C-Tier (市场噪音)**\n    *   **宏观情绪波动：** 2026年2月17日的通胀担忧导致科技股整体走低，这是系统性风险而非 TSM 基本面恶化 ([Investopedia](https://www.investopedia.com/stock-market-today-s-and-p-500-dow-jones-02172026-11907626))。\n\n---\n\n### 2. 背离检测 (Divergence Detection)\n\n**分析：** \n目前存在明显的**基本面与宏观情绪的背离**。\n*   **利好：** TSM 刚创下 52 周新高，且 1 月销售额大超预期。\n*   **价格反应：** 当前价格 (366.36) 较近期阻力位 (380.00) 有所收敛。虽然今日（2月17日）科技板块因通胀预期整体走弱，但 TSM 的 RSI 为 66.20，处于强势区间但尚未进入“极端超买” (RSI > 70)。\n*   **结论：** 属于**“强势休整”**。如果 TSM 在整体科技股下挫时能守住 SMA20 (342.48)，则说明看涨叙事（AI 基础设施需求）已完全覆盖了宏观利率担忧，这并非“陷阱”，而是健康的趋势回调。\n\n---\n\n### 3. 情绪评分 (Sentiment Score)\n\n**得分：8.8 / 10**\n\n**理由：**\n*   **不可阻挡的叙事：** TSM 作为 AI 时代的“卖铲人”，其逻辑已从预期转向实际的营收爆发（1月创纪录销售）。\n*   **筹码分布：** 索罗斯等顶级机构的大比例增持为股价提供了坚实的心理支撑位。\n*   **技术形态：** 股价远高于 SMA50 和 SMA200，典型的多头排列。唯一的压制力来自于 380 附近的心理阻力位以及宏观通胀数据的短期干扰。\n\n---\n\n### 4. 逻辑评分 (Logic Score)\n\n**得分：9.2 / 10**\n\n**逻辑链：** \nAI 硬件支出 -> TSM 订单满载 -> 营收创纪录 -> 机构抢筹 -> 股价推高。\n该逻辑目前具有极高的透明度和数据支撑，不属于纯粹的投机炒作。\n\n---\n\n### 5. 下一个关键日期 (Next Major Date)\n\n*   **2026年3月10日左右：** 披露 2026年2月月度营收数据（将验证 1 月份的强劲增长是否具有持续性）。\n*   **2026年4月中旬：** 2026年第一季度 (Q1) 正式财报发布会。\n\n---\n\n**研究建议：**\n关注 **340-350** 区间的支撑力度。若回撤至此区间且缩量，则是理想的叙事介入点。由于 TSM 处于强势看涨周期，除非地缘政治或产能利用率出现系统性下滑，否则任何基于宏观担忧（如 CPI 数据）的下跌均为“黄金坑”。",
+      "news": [
+        {
+          "title": "9 stocks George Soros is betting his fortune on",
+          "link": "https://www.msn.com/en-us/money/top-stocks/9-stocks-george-soros-is-betting-his-fortune-on/ar-AA1WuE2j?ocid=BingNewsVerp",
+          "snippet": "Key Points Amazon is the largest holding at $544.64M representing 7.3% of the portfolio. Soros increased TSM holdings by 157% and Microsoft by 159% in Q4. George Soros’ Quantum Fund returned ~33% ...",
+          "source": "My Investing News on MSN",
+          "date": "2026-02-08T14:28:04+00:00"
+        },
+        {
+          "title": "Quant ratings on Soros Fund Management's top holdings: AMZN, GOOGL, TSM, NVDA",
+          "link": "https://www.msn.com/en-us/money/topstocks/quant-ratings-on-soros-fund-management-s-top-holdings-amzn-googl-tsm-nvda/ar-AA1WsTVd?ocid=BingNewsVerp",
+          "snippet": "Soros Fund Management, founded by George Soros, posted a 5.8% drop over the past year, underperforming the S&P 500’s 12% return, according to data from stockcircle.com. The fund primarily focused on ...",
+          "source": "Seeking Alpha on MSN",
+          "date": "2026-01-27T14:28:04+00:00"
+        },
+        {
+          "title": "Stock Market Today: Tech Stocks Lead Indexes Lower To Start Week of Inflation,...",
+          "link": "https://www.investopedia.com/stock-market-today-s-and-p-500-dow-jones-02172026-11907626",
+          "snippet": "U.S. stock futures fell in premarket trading on Tuesday as tech stocks continued to feel the...",
+          "source": "Investopedia",
+          "date": "2026-02-17T14:06:04+00:00"
+        },
+        {
+          "title": "3 Reasons to Buy Taiwan Semiconductor Manufacturing Stock Like There's No...",
+          "link": "https://finance.yahoo.com/news/3-reasons-buy-taiwan-semiconductor-232000554.html",
+          "snippet": "Taiwan Semiconductor Manufacturing (NYSE: TSM ) stock has gained 61% over the past year, crushing the...",
+          "source": "Motley Fool",
+          "date": "2026-02-10T14:28:04+00:00"
+        },
+        {
+          "title": "TSMC Record Sales And AI Capacity Expansion Raise Valuation Questions",
+          "link": "https://finance.yahoo.com/news/tsmc-record-sales-ai-capacity-043132375.html",
+          "snippet": "Taiwan Semiconductor Manufacturing (NYSE: TSM ) reported record monthly sales, supported by strong...",
+          "source": "Simply Wall St.",
+          "date": "2026-02-16T14:28:04+00:00"
+        },
+        {
+          "title": "Stock market today: S&P 500 slips from record as Fed stands pat, Nasdaq rises before Big Tech earnings flurry",
+          "link": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-slips-from-record-as-fed-stands-pat-nasdaq-rises-before-big-tech-earnings-flurry-210119313.html",
+          "snippet": "Wall Street also braced for earnings from megacap tech companies in a day that saw the S&P 500 (^GSPC) vault briefly over the ...",
+          "source": "Yahoo Finance",
+          "date": "2026-01-28T00:00:00+00:00"
+        },
+        {
+          "title": "Taiwan Semiconductor Stock Smashes 52-Week High After Blowout January Sales",
+          "link": "https://www.msn.com/en-us/money/news/taiwan-semiconductor-stock-smashes-52-week-high-after-blowout-january-sales/ar-AA1W3auO?ocid=BingNewsVerp",
+          "snippet": "Taiwan Semiconductor Manufacturing Co. TSM reported a strong start to the year on Tuesday, with January revenue underscoring resilient global spending on artificial intelligence hardware even as ...",
+          "source": "Benzinga on MSN",
+          "date": "2026-02-10T14:28:05+00:00"
+        },
+        {
+          "title": "Why Taiwan Semiconductor Stock Surged Today",
+          "link": "https://www.aol.com/finance/why-taiwan-semiconductor-stock-surged-160510775.html",
+          "snippet": "Taiwan Semiconductor Manufacturing Company beat on sales and beat on earnings last night. Earnings are growing much faster than analysts had anticipated. Taiwan Semiconductor Manufacturing Company ...",
+          "source": "AOL",
+          "date": "2026-01-15T00:00:00+00:00"
+        }
+      ],
+      "chart_path": "docs/website/public/daily/johnzhang/charts/2026-02-17/TSM_chart.png"
+    },
+    {
+      "ticker": "ASML",
+      "current_price": 1406.6099853515625,
+      "support": 713.9898019884417,
+      "resistance": 1491.5126433527605,
+      "rsm_score": null,
+      "is_portfolio": false,
+      "bias": "neutral",
+      "bias_score": 1,
+      "analysis": "\n### 技术指标概览 (Technical Overview)\n- **当前价格**: $1406.61\n- **RSI (14)**: 49.41\n- **移动平均线**: SMA20: $1400.01 | SMA50: $1241.48 | SMA200: $942.54 (Bullish)\n- **波动率**: ATR (14): 55.92 (预计周度波动: +/- $125.05)\n- **关键位 (6m)**: 支撑位 $713.99 | 阻力位 $1491.51\n- **即时状态**: Above SMA50\n\n# ASML 情绪审计报告：叙事经济学与趋势可持续性评估\n\n**报告日期：** 2026年02月17日\n**分析师：** 对冲基金研究助理（叙事经济学组）\n**标的：** ASML Holding N.V. (ASML)\n\n---\n\n### 1. 催化剂分类 (Catalyst Categorization)\n\n我们将当前的驱动因素按影响力权重分为三个等级，以评估上涨动能的质量：\n\n*   **A-Tier（核心基本面与机构背书）：**\n    *   **机构目标价大幅上调：** Bernstein 和 RBC Capital 上调 ASML 目标价，Morgan Stanley 预测其 2027 年利润将较 2025 年翻倍。这代表了长线机构资金的深度认可。 [来源: Insider Monkey](https://finance.yahoo.com/news/bernstein-rbc-capital-raise-asml-124147459.html)\n    *   **强劲的订单积压 (Backlog)：** 388亿欧元的订单储备为 2026 年的增长提供了极高的能见度，这是典型的“硬核”利好。 [来源: Zacks](https://finance.yahoo.com/news/asml-climbs-11-month-time-151600663.html)\n*   **B-Tier（行业 beta 与周期叙事）：**\n    *   **AI 驱动的 EUV 需求：** 随着 AI 芯片扩产，极紫外光刻机 (EUV) 的需求被视为结构性机会。\n    *   **月度动量：** 近一个月股价上涨 11%，反映了市场资金正在向半导体上游设备集中。\n*   **C-Tier（散户情绪与噪音）：**\n    *   **预测 2000 美元目标价：** Motley Fool 等媒体的煽动性预测（如“改变一生”的买入机会），通常代表零售端情绪已接近亢奋点。 [来源: Motley Fool](https://finance.yahoo.com/news/prediction-asmls-stock-price-hit-173500976.html)\n\n---\n\n### 2. 背离检测 (Divergence Detection)\n\n**技术面与叙事面的冲突观察：**\n*   **现象：** 尽管华尔街分析师密集发布看涨预测（目标价看至 $2,000），但 ASML 的 **RSI 目前仅为 49.41**，处于中性区间。\n*   **分析：** 股价目前位于 1406.61，极其贴近 **SMA20 (1400.01)**。这表明在经历了一轮上涨后，市场进入了盘整期。\n*   **潜在利空叙事：** Seeking Alpha 指出“周期性低谷可能刚刚开始”，重点担忧中国市场销售下滑及高估值下的执行风险。 [来源: Seeking Alpha](https://seekingalpha.com/article/4867437-asml-the-cyclical-downturn-is-just-beginning)\n*   **结论：** 市场尚未出现“利好出尽”的暴跌，但也未盲目追随媒体的高调看涨。目前的横盘震荡消化了部分过热情绪，属于健康的上涨中继。\n\n---\n\n### 3. 逻辑评分 (Logic Score): 8.5/10\n\n**评分理由：**\n*   **(+) 叙事深度 (Narrative Depth)：** ASML 拥有全球唯一的 EUV 供应能力，其“AI 基础设施底座”的叙事极其坚固，难以被替代。\n*   **(+) 财务确定性：** 388亿欧元的订单积压是抵御宏观波动的重要护城河。\n*   **(-) 估值风险：** Seeking Alpha 提到的高估值溢价是现实存在的，且中国市场的地缘政治限制是该股最大的黑天鹅变量。\n*   **核心结论：** 这是一个由**强基本面驱动**而非单纯由散户热钱驱动的趋势，陷阱风险较低，但短期存在技术性回调至 SMA50 (1241.48) 的可能性。\n\n---\n\n### 4. 关键新闻链接引用\n\n1.  **Bernstein & RBC 调升目标价:** [点击查看](https://finance.yahoo.com/news/bernstein-rbc-capital-raise-asml-124147459.html)\n2.  **388亿欧元订单积压分析:** [点击查看](https://finance.yahoo.com/news/asml-climbs-11-month-time-151600663.html)\n3.  **Morgan Stanley 70% 涨幅预测:** [点击查看](https://www.aol.com/articles/prediction-asml-stock-could-surge-164400827.html)\n4.  **看空观点（周期下行论）:** [点击查看](https://seekingalpha.com/article/4867437-asml-the-cyclical-downturn-is-just-beginning)\n\n---\n\n### 5. 下一个重大日期 (Next Major Date)\n\n**预计日期：2026年4月中旬（2026年第一季度财报发布日）**\n\n*   **关注重点：** 届时将验证 2026 年所谓“过渡年”后的爆发性增长是否在订单数据中得到进一步体现，以及高管对中国出口限制的最新评论。\n\n---\n**风险提示：** 尽管情绪偏向乐观，但若股价有效跌破 SMA20 (1400.01)，则可能回测支撑位 1241.48，投资者应关注该关键位的防守。",
+      "news": [
+        {
+          "title": "Prediction: ASML's Stock Price Will Hit $2,000 by This Time",
+          "link": "https://finance.yahoo.com/news/prediction-asmls-stock-price-hit-173500976.html",
+          "snippet": "Our analyst team just revealed what they believe are the 10 best stocks to buy right now, when you...",
+          "source": "Motley Fool",
+          "date": "2026-02-14T14:28:29+00:00"
+        },
+        {
+          "title": "ASML Climbs 11% in a Month: Time to Buy, Sell or Hold the Stock?",
+          "link": "https://finance.yahoo.com/news/asml-climbs-11-month-time-151600663.html",
+          "snippet": "ASML Holding jumps 11% in a month as AI-driven EUV demand, a EUR 38.8B backlog and rising 2026...",
+          "source": "Zacks",
+          "date": "2026-02-13T14:28:29+00:00"
+        },
+        {
+          "title": "Bold Prediction: ASML Is About to Soar. Here's Why.",
+          "link": "https://finance.yahoo.com/news/bold-prediction-asml-soar-heres-170213852.html",
+          "snippet": "ASML 's (NASDAQ: ASML ) stock rallied about 90% over the past 12 months, but I believe it could surge even higher this year as the AI market expands. ASML ...",
+          "source": "Motley Fool",
+          "date": "2026-02-12T14:28:29+00:00"
+        },
+        {
+          "title": "Bernstein and RBC Capital Raise ASML Price Targets",
+          "link": "https://finance.yahoo.com/news/bernstein-rbc-capital-raise-asml-124147459.html",
+          "snippet": "ASML Holding NV (NASDAQ: ASML ) is one of the 15 AI Stocks That Are Skyrocketing. On January 29, Bernstein analyst David Dai increased the price target on...",
+          "source": "Insider Monkey",
+          "date": "2026-02-16T14:28:29+00:00"
+        },
+        {
+          "title": "Could Buying ASML Stock Today Set You Up for Life?",
+          "link": "https://www.fool.com/investing/2026/02/13/could-buying-asml-stock-today-set-you-up-for-life/",
+          "snippet": "It's not the most dynamic name, but ASML is a big winner so far in 2026 and has a long runway.",
+          "source": "The Motley Fool",
+          "date": "2026-02-13T14:28:29+00:00"
+        },
+        {
+          "title": "ASML: The Cyclical Downturn Is Just Beginning",
+          "link": "https://seekingalpha.com/article/4867437-asml-the-cyclical-downturn-is-just-beginning",
+          "snippet": "ASML Holding N.V. reports record bookings. High multiples assume perfect execution; costs rise and China sales decline. Check out why ASML stock is a sell.",
+          "source": "Seeking Alpha",
+          "date": "2026-02-08T14:28:30+00:00"
+        },
+        {
+          "title": "ASML (ASML) is a Great Momentum Stock: Should You Buy?",
+          "link": "https://www.sharewise.com/de/news_articles/ASML_ASML_is_a_Great_Momentum_Stock_Should_You_Buy_Zacks_20260205_1800",
+          "snippet": "Momentum investing revolves around the idea of following a stock's recent trend in either direction. In \"long context,\" investors will be essentially be \"buying high, but hoping to sell even",
+          "source": "sharewise",
+          "date": "2026-02-05T18:22:00+00:00"
+        },
+        {
+          "title": "Prediction: ASML Stock Could Surge 70%, According to a Wall Street Analyst",
+          "link": "https://www.aol.com/articles/prediction-asml-stock-could-surge-164400827.html",
+          "snippet": "Morgan Stanley believes that ASML could double its earnings in 2027 as compared to 2025 levels. The Dutch chipmaking equipment giant could indeed achieve such solid growth thanks to increased capex by key semiconductor manufacturers. ASML Holding (NASDAQ ...",
+          "source": "AOL",
+          "date": "2026-01-24T00:00:00+00:00"
+        }
+      ],
+      "chart_path": "docs/website/public/daily/johnzhang/charts/2026-02-17/ASML_chart.png"
+    },
+    {
+      "ticker": "AMAT",
+      "current_price": 354.9100036621094,
+      "support": 154.16780419585407,
+      "resistance": 376.32000732421875,
+      "rsm_score": null,
+      "is_portfolio": false,
+      "bias": "neutral",
+      "bias_score": 1,
+      "analysis": "\n### 技术指标概览 (Technical Overview)\n- **当前价格**: $354.91\n- **RSI (14)**: 61.00\n- **移动平均线**: SMA20: $325.91 | SMA50: $294.43 | SMA200: $216.60 (Bullish)\n- **波动率**: ATR (14): 19.86 (预计周度波动: +/- $44.40)\n- **关键位 (6m)**: 支撑位 $154.17 | 阻力位 $376.32\n- **即时状态**: Above SMA50\n\n# 应用材料 (AMAT) 情绪审计报告\n**报告日期：** 2026年02月17日\n**分析师：** 对冲基金研究员 (叙事经济学方向)\n\n---\n\n### 1. 催化剂分类 (Catalyst Categorization)\n\n根据“叙事经济学”框架，我们将近期消息分为三个层级，以评估趋势的可持续性：\n\n*   **A-Tier (核心驱动力 - 极强)：**\n    *   **超预期的Q1财报：** 实际营收达70.1亿美元，超过分析师预期的68.9亿美元。同时，公司对下一季度的指引（EPS $2.44-$2.84）表现强劲，直接证实了半导体资本支出（WFE）的高景气度。\n    *   **机构重磅上调目标价：** TD Cowen 将其目标价从 $315 暴力上调至 $450。这种大幅度的目标价调整通常意味着机构对AI长期基础设施需求的逻辑发生了本质性转变。\n*   **B-Tier (行业协同 - 强)：**\n    *   **AI 叙事溢价：** 被 Insider Monkey 等媒体列为 AI 领域的关键观察股。作为晶圆制造设备的领导者，AMAT 处于 AI 浪潮的最上游。\n*   **C-Tier (噪音与次要因素)：**\n    *   **Lynx Equity 的谨慎报告：** 财报前夕的看空声音已被随后的利好财报完全消化，目前视为市场洗盘的噪音。\n\n---\n\n### 2. 背离检测 (Divergence Detection)\n\n*   **价格与新闻一致性：** 市场目前处于**“利好确认”**阶段。股票在强劲财报发布后“飙升”（Soars），并未出现“利好出尽”的下跌。\n*   **技术面配合：** 当前价格 ($354.91) 远高于 SMA50 ($294.43) 和 SMA200 ($216.60)，呈现完美的牛市排列。\n*   **背离结论：** **未发现看跌背离。** RSI 为 61，处于强势区但尚未进入超买极端（>70），这表明目前的上涨是由基本面（盈利能力）支撑的，而非单纯的投机情绪泡沫。\n\n---\n\n### 3. 情绪评分 (Sentiment Score): 8.8 / 10\n\n**逻辑说明：**\n*   **+3.0:** 财报营收与指引双双超预期，证明了业绩的“硬度”。\n*   **+2.5:** TD Cowen 的 $450 目标价提供了巨大的叙事空间（较当前价仍有约 26% 的上涨空间）。\n*   **+2.0:** AI 基础设施建设从“共识”转为“订单实证”。\n*   **+1.5:** 技术指标健康，支撑位上移，下行压力较小。\n*   **-0.2:** 财报后的初始涨幅已部分计价，短期需警惕 ATR (14) 指示的波动性。\n\n---\n\n### 4. 关键证据引用 (Evidence Citations)\n\n*   **财报表现：** \"The maker of chipmaking equipment posted revenue of $7.01 billion in the period, which also topped Street forecasts.\" — [KHOU (2026-02-12)](https://www.khou.com/article/syndication/associatedpress/applied-materials-fiscal-q1-earnings-snapshot/616-5ed0cfeb-ce8e-4927-a46f-2387d0ff5a80)\n*   **机构上调：** \"TD Cowen has raised its price target on Applied Materials... to $450.00 from $315.00.\" — [Investing.com (2026-02-13)](https://www.investing.com/news/analyst-ratings/applied-materials-stock-price-target-raised-to-450-from-315-at-td-cowen-93CH-4506000)\n*   **市场反应：** \"Applied Materials’s (NASDAQ:AMAT) Q4 Sales Top Estimates, Stock Soars.\" — [StockStory (2026-02-12)](https://finance.yahoo.com/news/applied-materials-nasdaq-amat-q4-211007322.html)\n\n---\n\n### 5. 下一个重大时间点 (Next Major Date)\n\n**预计日期：2026年5月14日 (Q2 财报发布)**\n*注：基于其季度发布周期，AMAT 通常在 5 月中旬公布其第二财季（截至4月）的业绩。届时市场将重点关注其针对 AI 芯片先进制程设备的订单转化率。*\n\n---\n\n### 总结\nAMAT 目前正处于由**“业绩实证”**驱动的可持续牛市周期中。$450 的机构目标价已为市场画好了新的蓝图。只要 RSI 不在短期内突破 80 且价格维持在 SMA20 ($325.91) 之上，任何回调均应视为增持机会，而非“陷阱”。",
+      "news": [
+        {
+          "title": "Applied Materials (AMAT) Seen Winning Whether WFE Growth Is Market- or...",
+          "link": "https://finance.yahoo.com/news/applied-materials-amat-seen-winning-120135930.html",
+          "snippet": "Applied Materials (NASDAQ: AMAT ) is one of the AI Stocks to Watch. Applied Materials (NASDAQ: AMAT ) is...",
+          "source": "Insider Monkey",
+          "date": "2026-02-17T12:28:46+00:00"
+        },
+        {
+          "title": "Applied Materials stock price target raised to $450 from $315 at TD Cowen By...",
+          "link": "https://www.investing.com/news/analyst-ratings/applied-materials-stock-price-target-raised-to-450-from-315-at-td-cowen-93CH-4506000",
+          "snippet": "TD Cowen has raised its price target on Applied Materials (NASDAQ: AMAT ) to $450.00 from $315.00 whil...",
+          "source": "Investing.com",
+          "date": "2026-02-13T14:28:46+00:00"
+        },
+        {
+          "title": "Applied Materials stock falls ahead of earnings as Lynx sounds caution By...",
+          "link": "https://uk.investing.com/news/stock-market-news/applied-materials-stock-falls-ahead-of-earnings-as-lynx-sounds-caution-93CH-4504194",
+          "snippet": "Applied Materials (NASDAQ: AMAT ) stock fell 1.14% in premarket trading as Lynx Equity Strategies issu...",
+          "source": "Investing.com",
+          "date": "2026-02-12T14:28:46+00:00"
+        },
+        {
+          "title": "Applied Materials’s (NASDAQ:AMAT) Q4 Sales Top Estimates, Stock Soars",
+          "link": "https://finance.yahoo.com/news/applied-materials-nasdaq-amat-q4-211007322.html",
+          "snippet": "Semiconductor machinery manufacturer Applied Materials (NASDAQ: AMAT ) beat Wall Street’s revenue expe...",
+          "source": "StockStory",
+          "date": "2026-02-12T14:28:46+00:00"
+        },
+        {
+          "title": "Applied Materials Q1 Earnings Preview: Can AMAT Stock Maintain Momentum?",
+          "link": "https://finance.yahoo.com/news/applied-materials-q1-earnings-preview-194319699.html",
+          "snippet": "Applied Materials Inc_ logo on phone-by sdx15 via Shutterstock Applied Materials ( AMAT ) will release...",
+          "source": "Barchart",
+          "date": "2026-02-10T14:28:46+00:00"
+        },
+        {
+          "title": "Applied Materials stock: Will AMAT rise or fall after earnings?",
+          "link": "https://invezz.com/news/2026/02/09/applied-materials-stock-will-amat-rise-or-fall-after-earnings/",
+          "snippet": "Applied Materials stock price has rebounded in the past two consecutive days, moving from a low of $288 on February 4 to the current $322",
+          "source": "Invezz",
+          "date": "2026-02-09T15:30:00+00:00"
+        },
+        {
+          "title": "Here's How Much Traders Expect Applied Materials Stock to Move After Earnings",
+          "link": "https://www.investopedia.com/here-is-how-much-traders-expect-applied-materials-stock-to-move-after-earnings-amat-q1-fy2026-11903662",
+          "snippet": "Applied Materials is set to report earnings after the market closes Thursday, with traders expecting the semiconductor equipment maker's stock could reach new record highs following the report.",
+          "source": "Investopedia",
+          "date": "2026-02-11T11:19:00+00:00"
+        },
+        {
+          "title": "Applied Materials: Fiscal Q1 Earnings Snapshot",
+          "link": "https://www.khou.com/article/syndication/associatedpress/applied-materials-fiscal-q1-earnings-snapshot/616-5ed0cfeb-ce8e-4927-a46f-2387d0ff5a80",
+          "snippet": "The maker of chipmaking equipment posted revenue of $7.01 billion in the period, which also topped Street forecasts. Eight analysts surveyed by Zacks expected $6.89 billion. For the current quarter ending in April, Applied Materials expects its per-share earnings to range from $2.44 to $2.84.",
+          "source": "KHOU",
+          "date": "2026-02-12T22:02:00+00:00"
+        }
+      ],
+      "chart_path": "docs/website/public/daily/johnzhang/charts/2026-02-17/AMAT_chart.png"
+    },
+    {
+      "ticker": "NVDA",
+      "current_price": 182.80999755859375,
+      "support": 164.05163046676552,
+      "resistance": 212.1781954922272,
+      "rsm_score": null,
+      "is_portfolio": false,
+      "bias": "neutral",
+      "bias_score": 1,
+      "analysis": "\n### 技术指标概览 (Technical Overview)\n- **当前价格**: $182.81\n- **RSI (14)**: 46.68\n- **移动平均线**: SMA20: $185.30 | SMA50: $184.41 | SMA200: $171.66 (Bullish)\n- **波动率**: ATR (14): 7.00 (预计周度波动: +/- $15.65)\n- **关键位 (6m)**: 支撑位 $164.05 | 阻力位 $212.18\n- **即时状态**: Below SMA50\n\n# 情绪审计报告：NVIDIA (NVDA) - 叙事经济学分析\n\n**日期：** 2026年2月17日\n**分析师：** 对冲基金研究助理（叙事经济学专业）\n**当前股价：** 182.81\n**核心观点：** 市场正处于“叙事真空期”，强劲的基础设施支出与疲软的短期股价表现形成了鲜明的**背离**，2月25日的财报将是打破这一僵局的关键叙事转折点。\n\n---\n\n### 1. 催化剂分类 (Catalyst Categorization)\n\n*   **A-Tier (核心催化剂)**\n    *   **2月25日 2026财年第四季度财报：** 历史记录显示，英伟达在过去22个季度中有20次超出市场预期。Seeking Alpha分析指出，NVDA有望再次实现“双超”（营收与盈利均超预期），这是支撑股价重回上升通道的终极动力。 [参考链接: Seeking Alpha]\n    *   **超大规模云服务商（Hyperscalers）支出爆发：** 尽管股价低迷，但科技巨头在AI基础设施上的投入高达7000亿美元，这构成了长期的需求底座。 [参考链接: 24/7 Wall St.]\n\n*   **B-Tier (行业与机构催化剂)**\n    *   **华尔街估值偏好：** 尽管Palantir等AI概念股抢夺眼球，但多数分析师仍认为NVDA处于低估区间，其AI生态系统和高毛利软件构成了稳固的竞争护城河。 [参考链接: Motley Fool]\n\n*   **C-Tier (噪音与传闻)**\n    *   **拆股传闻：** 市场上关于2026年拆股的讨论（类比2025年的ServiceNow和Netflix）属于短期情绪扰动，缺乏实质性财务支撑。 [参考链接: Motley Fool]\n    *   **Zacks 趋势关注：** 属于技术性噪音，更多反映散户搜索量而非机构资金流向。 [参考链接: Zacks]\n\n---\n\n### 2. 背离检测 (Divergence Detection)\n\n**分析结论：看跌竭尽 (Bearish Exhaustion) 与 叙事悖论**\n\n目前存在显著的**“利好不涨”**现象：\n*   **现象：** 科技巨头在AI领域的资本支出（CapEx）激增，但NVDA股价在过去六个月表现平平，涨幅远落后于费城半导体指数（PHLX Semiconductor Sector）39%的涨幅。 [参考链接: AOL]\n*   **技术面背离：** 股价目前处于 SMA50 (184.41) 之下，RSI 为 46.68。这意味着市场已经消化了大部分乐观预期，短期内陷入了“AI支出是否能转化为实际收入增长”的疑虑中。\n*   **诊断：** 这并非“系统性失效”，而是典型的**财报前洗盘**。当基本面（7000亿支出）与股价走势严重脱节时，往往意味着空头力量接近竭尽，市场正在等待财报这一催化剂来重新锚定估值。\n\n---\n\n### 3. 情绪评分 (Logic Score)\n\n#### **评分：6.8 / 10**\n\n*   **逻辑说明：** \n    *   **(+2.5) 极强的防御性：** 20/22次的财报超越记录提供了极高的胜率安全垫。\n    *   **(+2.0) 宏观叙事支撑：** AI基建投入不仅没减少，反而呈现“气球式”扩张。\n    *   **(-1.5) 技术面承压：** 股价处于短期均线下方，且RSI显示动能匮乏。\n    *   **(-1.2) 叙事陷阱风险：** 市场对“AI泡沫”的讨论在股价横盘期间有所抬头，短期内若财报指引不及预期，可能触发补跌。\n\n---\n\n### 4. 下个关键日期 (Next Major Date)\n\n**2026年2月25日**\n*   **事件：** 第四季度财报发布。\n*   **行动指南：** 关注公司对2027财年的业绩指引。如果指引能够确认那7000亿美元资本支出正转化为订单，股价有望突破212.18美元的阻力位并冲击300美元的中期目标。\n\n---\n\n**风险提示：** 虽然叙事经济学看好长期趋势，但由于目前股价位于SMA20和SMA50下方，短期震荡可能下探164.05美元支撑位。建议在财报发布前保持中性偏多头寸。",
+      "news": [
+        {
+          "title": "NVIDIA Corporation (NVDA) Is a Trending Stock: Facts to Know Before Betting on...",
+          "link": "https://finance.yahoo.com/news/nvidia-corporation-nvda-trending-stock-140003503.html",
+          "snippet": "Nvidia ( NVDA ) has received quite a bit of attention from Zacks.com users lately. Therefore, it is...",
+          "source": "Zacks",
+          "date": "2026-02-16T14:29:02+00:00"
+        },
+        {
+          "title": "Nvidia Earnings on Feb. 25: What History Tells Us About Nvidia Stock's...",
+          "link": "https://finance.yahoo.com/news/nvidia-earnings-feb-25-history-112000921.html",
+          "snippet": "Nvidia (NASDAQ: NVDA ) is scheduled to report its results for the fourth quarter of fiscal 2026...",
+          "source": "Motley Fool",
+          "date": "2026-02-17T11:29:02+00:00"
+        },
+        {
+          "title": "Stock-Split Watch: Is Nvidia (NVDA) Next?",
+          "link": "https://finance.yahoo.com/news/stock-split-watch-nvidia-nvda-233800149.html",
+          "snippet": "Looking back on some of the noteworthy stock splits of 2025, like ServiceNow and Netflix, many investors have been searching for clues that may hint at...",
+          "source": "Motley Fool",
+          "date": "2026-02-10T14:29:02+00:00"
+        },
+        {
+          "title": "Palantir vs. Nvidia: Wall Street Says This Is the Best AI Stock to Buy Now",
+          "link": "https://finance.yahoo.com/news/palantir-vs-nvidia-wall-street-083200496.html",
+          "snippet": "Yet, many Wall Street analysts think both stocks are undervalued. Among 30 analysts...share price of...",
+          "source": "Motley Fool",
+          "date": "2026-02-17T08:29:02+00:00"
+        },
+        {
+          "title": "Is Nvidia Stock Going to $300?",
+          "link": "https://www.aol.com/articles/nvidia-stock-going-300-155000395.html",
+          "snippet": "An investment of $1,000 in this semiconductor stock three years ago is now worth just under $8,601. Nvidia stock is now trading around $183 a share, and it is worth noting that its flat share price performance over the past six months is lower than the 39% jump in the PHLX Semiconductor Sector index over the same period.",
+          "source": "AOL",
+          "date": "2026-02-16T17:50:00+00:00"
+        },
+        {
+          "title": "Wall Street's AI Paradox: Why Has NVIDIA's Stock Flatlined as Hyperscaler Spend Explodes?",
+          "link": "https://247wallst.com/investing/2026/02/14/wall-streets-ai-paradox-why-has-nvidias-stock-flatlined-as-hyperscaler-spend-explodes/",
+          "snippet": "Tech giants are pouring $700 billion into AI infrastructure, yet Nvidia (NASDAQ:NVDA | NVDA Price Prediction) stock has gone cold. Bloomberg's headline on Friday captured it perfectly: \"Nvidia Shares Go Cold Even as Big Tech Spending on AI Balloons.",
+          "source": "24/7 Wall St.",
+          "date": "2026-02-14T18:17:00+00:00"
+        },
+        {
+          "title": "Nvidia earnings on Feb. 25: What history tells us about Nvidia stock's post-earnings-release moves",
+          "link": "https://www.msn.com/en-us/money/topstocks/nvidia-earnings-on-feb-25-what-history-tells-us-about-nvidia-stock-s-post-earnings-release-moves/ar-AA1Ww3De",
+          "snippet": "The artificial intelligence (AI) tech leader has beaten the analyst consensus earnings estimate in 20 of the past 22 quarters.",
+          "source": "The Motley Fool",
+          "date": "2026-02-17T12:00:00+00:00"
+        },
+        {
+          "title": "Nvidia Should Double-Beat Again (Earnings Preview)",
+          "link": "https://seekingalpha.com/article/4870798-nvidia-should-double-beat-again-earnings-preview",
+          "snippet": "Nvidia's AI ecosystem, high-margin software, and strategic control of hardware supply underpin a durable competitive moat. Click to read why NVDA is a Buy.",
+          "source": "Seeking Alpha",
+          "date": "2026-02-17T12:32:00+00:00"
+        }
+      ],
+      "chart_path": "docs/website/public/daily/johnzhang/charts/2026-02-17/NVDA_chart.png"
+    },
+    {
+      "ticker": "AVGO",
+      "current_price": 325.1700134277344,
+      "support": 280.85050119502444,
+      "resistance": 413.81818763503134,
+      "rsm_score": null,
+      "is_portfolio": false,
+      "bias": "neutral",
+      "bias_score": 1,
+      "analysis": "\n### 技术指标概览 (Technical Overview)\n- **当前价格**: $325.17\n- **RSI (14)**: 50.17\n- **移动平均线**: SMA20: $329.90 | SMA50: $345.77 | SMA200: $311.98 (Bullish)\n- **波动率**: ATR (14): 16.31 (预计周度波动: +/- $36.47)\n- **关键位 (6m)**: 支撑位 $280.85 | 阻力位 $413.82\n- **即时状态**: Below SMA50\n\n# 情绪审计报告：博通 (AVGO)\n**日期：** 2026年02月17日\n**职位：** 对冲基金研究员（叙事经济学专家）\n\n---\n\n### 1. 催化剂分类 (Catalyst Categorization)\n\n基于当前新闻流，我们将 AVGO 的驱动因素分为以下三个等级：\n\n*   **A-Tier (核心基本面/高影响)**\n    *   **业绩超预期预期 (Double Beat)：** [Seeking Alpha](https://seekingalpha.com/article/4870172-broadcom-stock-expect-another-double-beating-earnings-preview) 指出市场高度确信 AVGO 将在即将到来的财报中实现收益与营收的双重超预期。\n    *   **定制 AI 芯片需求暴增：** [Forbes](https://www.forbes.com/sites/greatspeculations/2026/02/13/heres-how-avgo-stock-could-rise-to-450/) 强调了亚马逊 (Amazon) 等超大规模云计算巨头增加 AI 基础设施资本支出，AVGO 作为定制 AI 芯片供应商直接受益。\n*   **B-Tier (机构情绪/行业趋势)**\n    *   **分析师持续看好：** [Yahoo Finance](https://finance.yahoo.com/news/wall-street-analysts-bullish-broadcom-100618979.html) 报道称分析师对 AVGO 的长期前景维持强力看涨，且其 2026 年至今的表现（+5.2%）优于标普 500 指数。\n    *   **宏观科技股抛售潮：** [Investopedia](https://www.investopedia.com/stock-market-today-s-and-p-500-dow-jones-02172026-11907626) 提到因通胀担忧，科技股在 2 月中旬整体承压，这属于外部性负面影响。\n*   **C-Tier (噪声/小信号)**\n    *   **估值担忧：** [Insider Monkey](https://finance.yahoo.com/news/broadcom-avgo-ai-role-acknowledged-115725887.html) 提到虽然 AI 角色被认可，但短期估值可能过高。\n    *   **媒体提及：** Jim Cramer 在节目中讨论 AVGO，通常视为市场情绪的滞后指标。\n\n---\n\n### 2. 背离检测 (Divergence Detection)\n\n**分析：**\n目前 AVGO 表现出明显的**“基本面走强与价格短期疲软”的背离**。\n*   **利好：** 亚马逊增加资本支出、财报“双超”预期、AI 基础设施需求明确。\n*   **现实：** 股价 ($325.17) 目前低于 SMA20 ($329.90) 和 SMA50 ($345.77)，且 Zacks 报告显示其跌幅超过大盘。\n\n**结论：** 这不是“熊市竭尽”，而是一个由宏观通胀担忧驱动的**技术面回调**。由于 RSI 处于 50.17 的中性位置，且价格仍高于 SMA200 ($311.98)，这更有可能是一个**机构洗盘陷阱**，而非趋势反转。\n\n---\n\n### 3. 情绪评分 (Sentiment Score)\n\n**分值：6.8 / 10**\n\n*   **逻辑：** 叙事逻辑极其强大（AI 硬件的核心供应节点），但短期内受到宏观流动性收紧和估值回归的压制。市场正在等待财报确认，以支撑 Forbes 提到的 $450 目标价。\n\n---\n\n### 4. 逻辑评分 (Logic Score)\n\n**分值：8.5 / 10**\n\n*   **依据：** AVGO 的业务增长逻辑具有高度确定性。作为超大规模云服务商（Hyperscalers）定制芯片的唯一替代方案，其业绩与 AI 资本支出高度正相关。目前的下跌更多是由于市场情绪而非公司基本面恶化。\n\n---\n\n### 5. 关键日期与技术支撑 (Next Major Date & Levels)\n\n*   **下一个重大日期：** **2026年3月初**（预计 2026 第一财季财报发布日）。\n*   **关键技术位：**\n    *   **强支撑：** $311.98 (SMA200) - 若跌破此位，叙事将发生动摇。\n    *   **阻力位：** $345.77 (SMA50) - 突破此位意味着回调结束，重回牛市轨道。\n\n---\n\n**审计总结：**\nAVGO 目前正处于“业绩公告前”的震荡期。新闻周期释放的是 A 级利好，但技术面受制于大盘。对于坚定的叙事投资者而言，SMA200 附近的跌幅提供了良好的介入点，但需警惕财报前 macro（通胀数据）带来的波动风险。",
+      "news": [
+        {
+          "title": "Broadcom’s (AVGO) AI Role Acknowledged, But Valuation Concerns Remain",
+          "link": "https://finance.yahoo.com/news/broadcom-avgo-ai-role-acknowledged-115725887.html",
+          "snippet": "Broadcom Limited (NASDAQ: AVGO ) is one of the AI Stocks to Watch. One global technology firm with a...",
+          "source": "Insider Monkey",
+          "date": "2026-02-17T11:29:17+00:00"
+        },
+        {
+          "title": "Stock Market Today: Tech Stocks Lead Indexes Lower To Start Week of Inflation,...",
+          "link": "https://www.investopedia.com/stock-market-today-s-and-p-500-dow-jones-02172026-11907626",
+          "snippet": "U.S. stock futures fell in premarket trading on Tuesday as tech stocks continued to feel the...",
+          "source": "Investopedia",
+          "date": "2026-02-17T14:06:17+00:00"
+        },
+        {
+          "title": "Jim Cramer Discusses Broadcom (AVGO) Stock",
+          "link": "https://finance.yahoo.com/news/jim-cramer-discusses-broadcom-avgo-151357096.html",
+          "snippet": "We recently published 13 Stocks Jim Cramer Talked About. Broadcom Inc. (NASDAQ: AVGO ) is one of the stocks that Jim Cramer talked about. Broadcom Inc....",
+          "source": "Insider Monkey",
+          "date": "2026-02-15T14:29:17+00:00"
+        },
+        {
+          "title": "Broadcom Inc. (AVGO) Dips More Than Broader Market: What You Should Know",
+          "link": "https://finance.yahoo.com/news/broadcom-inc-avgo-dips-more-224503496.html",
+          "snippet": "Broadcom Inc. ( AVGO ) closed the most recent trading day at $340.44, moving -1.02% from the previous...",
+          "source": "Zacks",
+          "date": "2026-02-10T14:29:17+00:00"
+        },
+        {
+          "title": "Are Wall Street Analysts Bullish on Broadcom Stock?",
+          "link": "https://finance.yahoo.com/news/wall-street-analysts-bullish-broadcom-100618979.html",
+          "snippet": "AVGO has gained 37.9% over the past year, outshining the broader S&P 500 Index’s ($SPX) 11.8% rise. In 2026, AVGO stock is up 5.2%, surpassing the SPX’s ...",
+          "source": "Barchart",
+          "date": "2026-02-16T14:29:17+00:00"
+        },
+        {
+          "title": "Broadcom: Expect Another Double Beating (Earnings Preview)",
+          "link": "https://seekingalpha.com/article/4870172-broadcom-stock-expect-another-double-beating-earnings-preview",
+          "snippet": "Broadcom Inc. is rated a Buy due to strong conviction for a double beat and significant upside potential. Learn more about AVGO stock here.",
+          "source": "Seeking Alpha",
+          "date": "2026-02-13T15:45:00+00:00"
+        },
+        {
+          "title": "Here's How AVGO Stock Could Rise To $450",
+          "link": "https://www.forbes.com/sites/greatspeculations/2026/02/13/heres-how-avgo-stock-could-rise-to-450/",
+          "snippet": "Broadcom (AVGO) shares have risen by 11% over the past week and are now priced at $343. The surge was driven by massive AI infrastructure spending announcements from major hyperscalers such as Amazon. This capex boom directly benefits Broadcom as a key supplier of custom AI chips.",
+          "source": "Forbes",
+          "date": "2026-02-13T10:31:00+00:00"
+        },
+        {
+          "title": "Are Wall Street Analysts Bullish on Broadcom Stock?",
+          "link": "https://finance.yahoo.com/news/wall-street-analysts-bullish-broadcom-100618979.html?fr=sycsrp_catchall",
+          "snippet": "Broadcom has significantly outpaced the S&P 500 Index over the past year, and analysts remain strongly bullish on the stock's outlook.",
+          "source": "Yahoo Finance",
+          "date": "2026-02-16T14:32:00+00:00"
+        }
+      ],
+      "chart_path": "docs/website/public/daily/johnzhang/charts/2026-02-17/AVGO_chart.png"
+    },
+    {
+      "ticker": "ANET",
+      "current_price": 141.58999633789062,
+      "support": 114.5199966430664,
+      "resistance": 164.94000244140625,
+      "rsm_score": null,
+      "is_portfolio": false,
+      "bias": "neutral",
+      "bias_score": 1,
+      "analysis": "\n### 技术指标概览 (Technical Overview)\n- **当前价格**: $141.59\n- **RSI (14)**: 48.21\n- **移动平均线**: SMA20: $138.33 | SMA50: $132.87 | SMA200: $125.05 (Bullish)\n- **波动率**: ATR (14): 7.17 (预计周度波动: +/- $16.04)\n- **关键位 (6m)**: 支撑位 $114.52 | 阻力位 $164.94\n- **即时状态**: Above SMA50\n\n# Arista Networks (ANET) 情绪审计报告\n\n**致：** 投资委员会\n**日期：** 2026年02月17日\n**职位：** 对冲基金研究助理（叙事经济学方向）\n\n---\n\n### 1. 催化剂分类 (Categorize Catalysts)\n\n根据“叙事经济学”框架，我们将 ANET 的近期驱动因素分类如下：\n\n*   **A-Tier（核心动力）：**\n    *   **Q4 2025 财报双超预期：** 2026年2月12日发布的财报显示，每股收益（EPS）为 $0.82（预期 $0.76），营收 $24.9亿，均超预期。[Investing.com](https://www.investing.com/news/earnings/arista-networks-earnings-beat-by-006-revenue-topped-estimates-4503999)\n    *   **强劲的前瞻指引：** 公司发布的 Q1 销售指引高于市场一致预期，显示出超大规模云服务商（Hyperscalers）对 AI 网络基础设施的持续强劲需求。[Benzinga via MSN](https://www.msn.com/en-us/money/news/arista-stock-surges-after-q4-beat-q1-sales-outlook-tops-estimates/ar-AA1Wihxv?ocid=BingNewsVerp)\n\n*   **B-Tier（行业共振）：**\n    *   **AI 基础设施扩容潮：** 2026年被视为 AI 股票的“重置年”，超大规模厂商的资本支出（Capex）依然处于爆发期，这为 ANET 提供了持续的市场溢价空间。[IBD via MSN](https://www.msn.com/en-us/technology/artificial-intelligence/ai-stocks-reset-in-2026-amid-software-reckoning-hyperscaler-capex-boom/ar-AA1Wwhip?ocid=BingNewsVerp)\n    *   **分析师积极评价：** 华尔街顶尖分析师在财报后维持或上调了 ANET 的长期看好评级。[Insider Monkey](https://finance.yahoo.com/news/arista-networks-inc-anet-strengthens-150618247.html)\n\n*   **C-Tier（市场噪音）：**\n    *   **纳斯达克短期波动：** 2月15日纳指因宏观因素波动下跌50点，对 ANET 造成的股价压力属于系统性噪音，而非公司基本面恶化。\n\n---\n\n### 2. 背离检测 (Divergence Detection)\n\n**分析：**\n*   **价格与基本面：** 财报数据（A-Tier）极其强劲，股价在2月13日出现跳空上涨（Surge）。目前股价（141.59）高于 SMA20 (138.33) 和 SMA50 (132.87)，处于健康的上升通道。\n*   **心理背离：** 虽然 IBD 提到 2026 年是 AI 的“重置年”，导致部分 AI 软件股回调，但 ANET 作为“卖铲子的人”（硬件网络设备），其财报后的价格走势证明了它正处于“避险性进攻”地位。\n*   **技术指标提示：** RSI 处于 **48.21**，这是一个非常耐人寻味的数据。尽管财报利好且股价高于均线，但 RSI 并未进入超买区（>70），甚至低于中轴。这表明**利好消息已被市场理性消化，并没有引发散户式的盲目狂热**。\n*   **结论：** 并非“多头陷阱”。RSI 的中性状态配合股价稳居均线上方，暗示这是一个**可持续的趋势**，而非估值泡沫的顶端。\n\n---\n\n### 3. 情绪评分 (Sentiment Score)\n\n#### **逻辑评分：8.5/10**\n\n*   **评分理由：** \n    *   (+3.0) 扎实的 Q4 财报表现与超预期的 Q1 指引（确定性极高）。\n    *   (+2.5) 处于 AI 叙事的核心圈层（以太网交换机替代 InfiniBand 的潜在逻辑）。\n    *   (+2.0) 技术形态呈现完美的看涨排列（SMA20 > SMA50 > SMA200）。\n    *   (+1.0) 市场情绪处于“理性繁荣”，无明显的超买风险。\n    *   (-1.0) 宏观背景下纳斯达克波动的系统性风险。\n    *   (-1.0) 市场对 AI 资本支出能否持续转为利润的长期质疑（虽然短期内利好 ANET）。\n\n---\n\n### 4. 下一个关键日期 (Next Major Date)\n\n*   **关键日期：2026年2月25日**\n*   **事件：NVIDIA (NVDA) 财报发布**\n*   **逻辑：** 作为 AI 行业的领头羊，英伟达对 AI 基础设施需求的评论将直接定义 ANET 在接下来一个月的叙事走向。若英伟达确认 AI 算力需求无放缓迹象，ANET 有望挑战 6 个月高点 $164.94。\n\n---\n\n### 5. 投资建议（叙事经济学视角）\n\nANET 目前正处于从“单纯的云网络供应商”向“AI 骨干网络垄断者”叙事转化的中后期。目前的 RSI 中性状态为机构资金提供了二次入场的“舒适区”。\n\n**操作建议：** 利用 ATR (7.17) 进行波动管理，在 SMA20 (138.33) 附近逢低关注，目标位指向 $160 以上，止损位参考 $125 (SMA200) 的支撑强度。\n\n---\n**报告人：** 叙事经济学研究组\n**状态：** **看多 (Bullish)**",
+      "news": [
+        {
+          "title": "Arista Networks Inc (ANET) Strengthens Position in AI Networking",
+          "link": "https://www.msn.com/en-us/money/topstocks/arista-networks-inc-anet-strengthens-position-in-ai-networking/ar-AA1WswIN?ocid=BingNewsVerp",
+          "snippet": "Arista Networks Inc (NYSE:ANET) is one of the best NYSE stocks to buy for the long term. Arista Networks Inc (NYSE:ANET) ...",
+          "source": "Insider Monkey on MSN",
+          "date": "2026-01-25T14:29:34+00:00"
+        },
+        {
+          "title": "Arista Networks, Inc. (ANET) Stock Forecasts",
+          "link": "https://ca.finance.yahoo.com/research/reports/MS_0P0001354B_AnalystReport_1771019242000",
+          "snippet": "At Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.",
+          "source": "Yahoo Finance Canada",
+          "date": "2026-02-08T14:29:34+00:00"
+        },
+        {
+          "title": "5 stocks in the spotlight: Wall Street's most accurate analysts weigh in",
+          "link": "https://www.msn.com/en-us/money/news/5-stocks-in-the-spotlight-wall-street-s-most-accurate-analysts-weigh-in/ar-AA1Ww546?ocid=BingNewsVerp",
+          "snippet": "U.S. stocks settled mixed on Friday, with the Nasdaq Composite falling around 50 points during the session following the ...",
+          "source": "Benzinga on MSN",
+          "date": "2026-02-15T14:29:34+00:00"
+        },
+        {
+          "title": "AI stocks reset in 2026 amid software reckoning, hyperscaler capex boom",
+          "link": "https://www.msn.com/en-us/technology/artificial-intelligence/ai-stocks-reset-in-2026-amid-software-reckoning-hyperscaler-capex-boom/ar-AA1Wwhip?ocid=BingNewsVerp",
+          "snippet": "Many of the top-performing AI stocks last year have retreated. But there are bright spots. Nvidia earnings are due Feb. 25 ...",
+          "source": "Investor's Business Daily on MSN",
+          "date": "2026-02-16T14:29:34+00:00"
+        },
+        {
+          "title": "Arista Networks Inc (ANET) Strengthens Position in AI Networking",
+          "link": "https://finance.yahoo.com/news/arista-networks-inc-anet-strengthens-150618247.html",
+          "snippet": "Arista Networks Inc (NYSE: ANET ) is one of the best NYSE stocks to buy for the long term. Arista Netw...",
+          "source": "Insider Monkey",
+          "date": "2026-02-16T15:29:34+00:00"
+        },
+        {
+          "title": "Arista Networks, Inc. (NYSE:ANET) Q4 2025 earnings call transcript",
+          "link": "https://www.msn.com/en-us/money/companies/arista-networks-inc-nyse-anet-q4-2025-earnings-call-transcript/ar-AA1WhRDf?ocid=BingNewsVerp",
+          "snippet": "Arista Networks, Inc. (NYSE:ANET) Q4 2025 Earnings Call Transcript February 12, 2026 Operator: Welcome to the Fourth Quarter 2025 Arista Networks, Inc. Financial Results Earnings Conference Call.",
+          "source": "Insider Monkey on MSN",
+          "date": "2026-02-13T14:29:34+00:00"
+        },
+        {
+          "title": "Arista Networks earnings beat by $0.06, revenue topped estimates",
+          "link": "https://www.investing.com/news/earnings/arista-networks-earnings-beat-by-006-revenue-topped-estimates-4503999",
+          "snippet": "Investing.com - Arista Networks (NYSE: ANET) reported fourth quarter EPS of $0.82, $0.06 better than the analyst estimate of $0.76. Revenue for the quarter came in at $2.49B versus the consensus ...",
+          "source": "Investing.com",
+          "date": "2026-02-13T14:29:34+00:00"
+        },
+        {
+          "title": "Arista Stock Surges After Q4 Beat, Q1 Sales Outlook Tops Estimates",
+          "link": "https://www.msn.com/en-us/money/news/arista-stock-surges-after-q4-beat-q1-sales-outlook-tops-estimates/ar-AA1Wihxv?ocid=BingNewsVerp",
+          "snippet": "Arista Networks, Inc. ANET shares are trading higher Friday after the company reported better-than-expected fourth-quarter financial results and issued first-quarter sales guidance above estimates on ...",
+          "source": "Benzinga on MSN",
+          "date": "2026-02-13T14:29:34+00:00"
+        }
+      ],
+      "chart_path": "docs/website/public/daily/johnzhang/charts/2026-02-17/ANET_chart.png"
+    },
+    {
+      "ticker": "MSFT",
+      "current_price": 401.32000732421875,
+      "support": 392.32000732421875,
+      "resistance": 552.6855732732587,
+      "rsm_score": null,
+      "is_portfolio": false,
+      "bias": "neutral",
+      "bias_score": 1,
+      "analysis": "\n### 技术指标概览 (Technical Overview)\n- **当前价格**: $401.32\n- **RSI (14)**: 24.92\n- **移动平均线**: SMA20: $432.49 | SMA50: $460.94 | SMA200: $486.37 (Bearish)\n- **波动率**: ATR (14): 15.20 (预计周度波动: +/- $33.99)\n- **关键位 (6m)**: 支撑位 $392.32 | 阻力位 $552.69\n- **即时状态**: Below SMA50\n\n# 微软 (MSFT) 情绪审计报告\n\n**职位：** 对冲基金研究员 (叙事经济学方向)\n**审计日期：** 2026年02月17日\n**股票代码：** MSFT (微软)\n**当前价格：** 401.32\n\n---\n\n### 1. 催化剂分类 (Catalyst Categorization)\n\n| 等级 | 驱动因素 | 详细说明 |\n| :--- | :--- | :--- |\n| **A-Tier (核心)** | 财报后抛售与 AI 路线图 | 尽管有 6250 亿美元的积压订单和强劲的云增长，但财报后的抛售反映了市场对 45% OpenAI 风险敞口的重新评估。 [Seeking Alpha](https://seekingalpha.com/article/4867121-microsoft-post-earnings-sell-off-justified-but-the-stock-remains-a-buy) |\n| **B-Tier (行业)** | 机构评级调整 | Melius Research 将评级从“买入”下调至“持有”，目标价下调至 430 美元，这在短期内抑制了机构回补意愿。 [Insider Monkey](https://www.msn.com/en-us/money/topstocks/melius-research-downgrades-microsoft-corporation-msft-stock-to-hold/ar-AA1WwgzR) |\n| **C-Tier (杂讯)** | 媒体“抄底”言论 | Forbes 和 The Motley Fool 等媒体持续发布“估值便宜”和“极度买入”的言论，通常属于滞后的散户情绪引导。 [Forbes](https://www.forbes.com/sites/greatspeculations/2026/02/13/why-microsoft-stock-is-a-bargain-at-400/) |\n\n---\n\n### 2. 背离检测 (Divergence Detection)\n\n**分析结论：看跌情绪衰竭 (Bearish Exhaustion)**\n\n*   **价格 vs. 叙事背离：** 目前 MSFT 处于极度超卖状态（RSI 为 24.92），股价已跌破 SMA20、50 和 200 指数。然而，市场叙事（Narrative）依然高度集中在“长期 AI 领导地位”和“强劲的资本配置”。\n*   **估值背离：** 卖方分析师的平均目标价为 596 美元（隐含 48% 的上涨空间），而实际股价却在 400 美元附近徘徊。\n*   **逻辑诊断：** 当前并非“系统性失败”，而是**典型的财报后叙事重塑**。市场正在消化资本开支增加与 OpenAI 依赖风险，这种“坏消息中的好公司”表现，正接近 392.32 美元的 6 个月低位支撑点。\n\n---\n\n### 3. 情绪评分 (Sentiment Score)\n\n#### **逻辑评分: 3.8 / 10**\n*(注：0为系统性崩溃，10为无可阻挡的牛市循环)*\n\n**评分依据：**\n*   **短期 (Bearish):** 价格趋势完全受制于均线压制（低于 SMA50），且近期遭遇机构下调评级。\n*   **中期 (Neutral):** 正在测试 6 个月支撑位 (392.32)，波动率 (ATR) 较大，暗示底部震荡尚未结束。\n*   **长期 (Bullish):** 基本面积压订单 (Backlog) 依然庞大，AI 叙事并未证伪，仅是估值溢价的强制修正。\n\n---\n\n### 4. 关键新闻引用 (News Citations)\n\n1.  **Melius Research 下调评级：** 2026年2月17日，评级由“买入”降至“持有”，目标价 430 美元。[URI](https://www.msn.com/en-us/money/topstocks/melius-research-downgrades-microsoft-corporation-msft-stock-to-hold/ar-AA1WwgzR)\n2.  **财报后抛售分析：** 提到 6250 亿美元积压订单与 OpenAI 风险并存。[Seeking Alpha URI](https://seekingalpha.com/article/4867121-microsoft-post-earnings-sell-off-justified-but-the-stock-remains-a-buy)\n3.  **分析师看涨共识：** 华尔街平均目标价指向 596 美元。[USA TODAY URI](https://www.usatoday.com/story/money/2026/02/16/buy-the-dip-in-microsoft-stock/88690494007/)\n\n---\n\n### 5. 下一个重大日期 (Next Major Date)\n\n**预计下一个关键日期：2026年4月28日 (2026财年第三季度财报发布日)**\n*   *注：此日期基于往年财报周期推算。市场届时将密切关注 AI 资本支出 (CapEx) 的转化率以及 Azure 增长是否能重新加速以匹配其估值。*\n\n---\n\n**研究员总结：** MSFT 目前正处于“多头陷阱”转“悲观过度”的过渡期。技术面显示极度超卖，400 美元心理关口及 392 美元的 6 个月低点是关键防线。建议等待 RSI 回出超卖区并站稳 SMA20 再行入场，短期内机构下调评级的负面惯性仍需消化。",
+      "news": [
+        {
+          "title": "Why Microsoft Stock Is A Bargain At $400",
+          "link": "https://www.forbes.com/sites/greatspeculations/2026/02/13/why-microsoft-stock-is-a-bargain-at-400/",
+          "snippet": "Microsoft stock is down 15% year-to-date. This pullback raises a critical question: is the stock now a bargain?",
+          "source": "Forbes",
+          "date": "2026-02-13T10:59:00+00:00"
+        },
+        {
+          "title": "Should you buy the dip in Microsoft stock?",
+          "link": "https://www.usatoday.com/story/money/2026/02/16/buy-the-dip-in-microsoft-stock/88690494007/",
+          "snippet": "On top of that, the consensus price target for Microsoft stock among sell-side analysts is $596 -- implying 48% upside from current levels. To me, this suggests that Wall Street remains bullish on Microsoft's AI road map and is confident in management's ability to allocate capital strategically.",
+          "source": "USA TODAY",
+          "date": "2026-02-16T12:32:00+00:00"
+        },
+        {
+          "title": "Microsoft: I Like This Price And I Like This Strategy More Than The Stock",
+          "link": "https://seekingalpha.com/article/4870278-microsoft-i-like-this-price-and-i-like-this-strategy-more-than-the-stock",
+          "snippet": "Microsoft Corporation is upgraded to Buy due to a strong moat and revenue growth with a 36% upside to $545 fair value. Read more on MSFT stock here.",
+          "source": "Seeking Alpha",
+          "date": "2026-02-13T18:38:00+00:00"
+        },
+        {
+          "title": "Melius Research downgrades Microsoft Corporation (MSFT) stock to hold",
+          "link": "https://www.msn.com/en-us/money/topstocks/melius-research-downgrades-microsoft-corporation-msft-stock-to-hold/ar-AA1WwgzR",
+          "snippet": "Microsoft Corporation (NASDAQ:MSFT) is among the 14 Best Cloud Computing Stocks to Buy Right Now. On February 9, Melius Research downgraded the company's stock to \"Hold\" from \"Buy\" with a price objective of $430.",
+          "source": "Insider Monkey",
+          "date": "2026-02-17T12:34:39+00:00"
+        },
+        {
+          "title": "Investors Are Selling This AI Stock, but Is It Actually a Screaming Buy?",
+          "link": "https://www.msn.com/en-us/money/topstocks/investors-are-selling-this-ai-stock-but-is-it-actually-a-screaming-buy/ar-AA1WtBvw",
+          "snippet": "Microsoft hasn't done anything wrong, but its stock is tanking.",
+          "source": "The Motley Fool",
+          "date": "2026-02-16T20:15:00+00:00"
+        },
+        {
+          "title": "Microsoft: Post-Earnings Sell-Off Justified, But The Stock Remains A Buy",
+          "link": "https://seekingalpha.com/article/4867121-microsoft-post-earnings-sell-off-justified-but-the-stock-remains-a-buy",
+          "snippet": "Microsoft Corporation reports a $625B backlog with 45% OpenAI risk; legacy moats and AI growth support the outlook. Check out why MSFT stock is a buy.",
+          "source": "Seeking Alpha",
+          "date": "2026-02-06T14:44:00+00:00"
+        },
+        {
+          "title": "Microsoft's Post-Earnings Share Sell-Off Creates Opportunity For Long-Term Investors",
+          "link": "https://seekingalpha.com/article/4869120-microsofts-post-earnings-share-sell-off-creates-opportunity-for-long-term-investors",
+          "snippet": "Microsoft's growth strategy remains robust for cloud services, driven by a prudent capital allocation approach to protect cash flow. See why MSFT is a Strong Buy.",
+          "source": "Seeking Alpha",
+          "date": "2026-02-12T01:05:00+00:00"
+        }
+      ],
+      "chart_path": "docs/website/public/daily/johnzhang/charts/2026-02-17/MSFT_chart.png"
+    },
+    {
+      "ticker": "GOOGL",
+      "current_price": 305.7200012207031,
+      "support": 196.29592455953664,
+      "resistance": 349.0,
+      "rsm_score": null,
+      "is_portfolio": true,
+      "bias": "neutral",
+      "bias_score": 1,
+      "analysis": "\n### 技术指标概览 (Technical Overview)\n- **当前价格**: $305.72\n- **RSI (14)**: 23.43\n- **移动平均线**: SMA20: $327.90 | SMA50: $321.21 | SMA200: $242.65 (Bullish)\n- **波动率**: ATR (14): 10.93 (预计周度波动: +/- $24.44)\n- **关键位 (6m)**: 支撑位 $196.30 | 阻力位 $349.00\n- **即时状态**: Below SMA50\n\n# 谷歌 (GOOGL) 情绪审计报告\n\n**报告日期：** 2026年02月17日\n**研究员：** 叙事经济学分析助理 (Narrative Economics Associate)\n\n---\n\n### 1. 催化剂分类 (Catalyst Categorization)\n\n基于近期新闻流与市场叙事，我们将驱动因素分为以下三个层级：\n\n*   **A-Tier (核心驱动力):**\n    *   **业绩基本面强劲：** 2025年Q4财报显示营收增长18%，特别是**云业务 (Google Cloud) 激增48%**。这表明谷歌在AI基础设施领域的变现能力已进入爆发期。 [引用: Seeking Alpha]\n    *   **战略合作潜力：** Gemini 与苹果 (Apple) 的整合叙事依然是长期估值重估的关键催化剂。\n*   **B-Tier (行业与宏观叙事):**\n    *   **分析师目标价支撑：** 尽管近期回调，主流分析师（如 24/7 Wall St.）仍给出 **$348** 的目标价，较当前价位有约 14% 的上行空间。 [引用: 24/7 Wall St.]\n    *   **估值回归：** 在近期回调后，Simply Wall St 认为其估值在长期维度上具有吸引力。\n*   **C-Tier (市场噪音/短期压力):**\n    *   **AI 资本开支恐慌 (CapEx Debate)：** 市场对高昂的AI投入能否快速转化为现金流存在短期疑虑，导致股价近期出现 2%-5% 的波动。 [引用: Invezz]\n    *   **中立评级干扰：** 部分机构（如 Monness）维持中立态度，抑制了短期的追涨热情。\n\n---\n\n### 2. 背离检测 (Divergence Detection)\n\n**当前状态：典型的“看跌衰竭” (Bearish Exhaustion)**\n\n*   **基本面 vs. 股价背离：** 谷歌云业务增长 48% 且整体营收增长 18%（A-Tier 消息），但股价却处于下跌通道中。\n*   **技术指标极端：** RSI 仅为 **23.43**，处于严重超卖区间。股价虽跌破 SMA50 ($321.21)，但远高于 SMA200 ($242.65) 的牛熊分界线。\n*   **结论：** 目前的下跌并非由公司基本面恶化引起，而是市场在经历快速上涨后的“利润回吐”以及对AI投资回报周期的“过度担忧”。这种“好消息叠加股价下跌”的情况，预示着一个潜在的**中线买点**或**机构洗盘陷阱**。\n\n---\n\n### 3. 情绪逻辑评分 (Logic Score)\n\n#### **评分：6.8 / 10**\n\n*   **得分逻辑：**\n    *   **(+3.0)** 强劲的云业务增长与AI领先地位（基本面底座）。\n    *   **(+2.0)** RSI 极度超卖，技术面存在强烈的反弹需求。\n    *   **(-1.5)** 跌破短期均线 (SMA20/50)，短期技术趋势偏空。\n    *   **(+1.3)** 用户的持仓成本 ($262.26) 具有极高的安全垫，目前仍有 16.57% 的利润，心理优势明显。\n\n**总结：** 并非系统性崩溃 (Systemic Failure)，而是一个受宏观叙事压制的**上涨趋势回调 (Healthy Pullback)**。\n\n---\n\n### 4. 账户头寸诊断与行动建议\n\n*   **当前头寸：** 139股 @ $262.26\n*   **盈亏状态：** +16.57% (盈利保护中)\n*   **诊断：** 股价目前在 $305 附近，距离 SMA200 ($242.65) 仍有空间，但在 6个月低点 ($196.30) 之上。由于 RSI 已处于冰点，**此时割肉或大幅减仓是不明智的。**\n\n**行动建议：**\n1.  **持有 (Hold)：** 利用现有的 16% 盈利空间作为缓冲，分摊波动。\n2.  **关注支撑：** 关注 $290-$300 心理关口的支撑力度。\n\n---\n\n### 5. 关键日期提醒 (Next Major Date)\n\n*   **下一次财报发布 (预计):** **2026年4月28日** (Q1 2026 Earnings)\n*   **事件说明：** 该日期将直接回应市场关于“AI资本开支转化为利润速度”的质疑，是决定谷歌能否突破 $350 阻力的核心转折点。\n\n---\n\n**参考资料链接：**\n- [24/7 Wall St. - $348 Target](https://247wallst.com/investing/2026/02/16/analysts-set-348-target-for-google-after-february-dip/)\n- [Seeking Alpha - Q4 Growth Details](https://seekingalpha.com/article/4868075-alphabet-stock-is-down-but-not-for-long)\n- [Invezz - Near-term Risks](https://invezz.com/news/2026/02/17/alphabet-stock-declines-2-as-wall-street-flags-near-term-risks/)",
+      "news": [
+        {
+          "title": "Analysts Set $348 Target for Google After February Dip",
+          "link": "https://247wallst.com/investing/2026/02/16/analysts-set-348-target-for-google-after-february-dip/",
+          "snippet": "If you’re watching shares of Google (NASDAQ:GOOG), which dropped 5.3% over the past week, it won’t come as any surprise that ...",
+          "source": "24/7 Wall St.",
+          "date": "2026-02-02T14:30:09+00:00"
+        },
+        {
+          "title": "Monness Maintains Neutral Stance on Alphabet Inc. (GOOGL) Stock",
+          "link": "https://finance.yahoo.com/news/monness-maintains-neutral-stance-alphabet-123339990.html",
+          "snippet": "Alphabet Inc. (NASDAQ: GOOGL ) is among the 14 Best Cloud Computing Stocks to Buy Right Now. On Februa...",
+          "source": "Insider Monkey",
+          "date": "2026-02-17T12:30:09+00:00"
+        },
+        {
+          "title": "Should You Buy D-Wave Quantum Stock Before Earnings?",
+          "link": "https://finance.yahoo.com/news/buy-d-wave-quantum-stock-125700937.html",
+          "snippet": "For starters, post-earnings price movements are unpredictable. D-Wave stock rose 6% in the first week after both its first quarter and second quarter...",
+          "source": "Motley Fool",
+          "date": "2026-02-17T12:30:09+00:00"
+        },
+        {
+          "title": "Alphabet (GOOGL) Valuation Check After Short-Term Pullback And Strong Multi-Year...",
+          "link": "https://finance.yahoo.com/news/alphabet-googl-valuation-check-short-020555098.html",
+          "snippet": "Alphabet ( GOOGL ) has been drawing attention after recent share price moves, with the stock showing a...",
+          "source": "Simply Wall St.",
+          "date": "2026-02-17T02:30:09+00:00"
+        },
+        {
+          "title": "3 Stocks to Double Up on Right Now",
+          "link": "https://finance.yahoo.com/news/3-stocks-double-now-092000693.html",
+          "snippet": "Will AI create the world's first trillionaire? Our team...stocks to buy than this trio. Image source: Getty Images. 1. Microsoft Microsoft is a stock ...",
+          "source": "Motley Fool",
+          "date": "2026-02-17T09:30:09+00:00"
+        },
+        {
+          "title": "Alphabet Stock Is Down... But Not For Long",
+          "link": "https://seekingalpha.com/article/4868075-alphabet-stock-is-down-but-not-for-long",
+          "snippet": "Alphabet Inc. Q4 2025: 18% revenue growth, Cloud +48%, Gemini-Apple catalyst, AI CapEx debate. Click for this updated look at GOOG stock post earnings.",
+          "source": "Seeking Alpha",
+          "date": "2026-02-10T12:55:00+00:00"
+        },
+        {
+          "title": "Astera Labs (ALAB) Now 58% Below Wall Street Price Targets Following Earnings Plunge",
+          "link": "https://247wallst.com/investing/2026/02/16/astera-labs-alab-now-58-below-wall-street-price-targets-following-earnings-plunge/",
+          "snippet": "Astera Labs (Nasdaq: ALAB) closed at $129.32 on February 13, 2026, down 23.86% over the past week. Wall Street's average price target sits at $204.47, implying 58% upside from current levels. That gap widened dramatically after the company reported Q4 earnings on February 10,",
+          "source": "24/7 Wall St.",
+          "date": "2026-02-16T23:34:00+00:00"
+        },
+        {
+          "title": "Alphabet stock declines 2% as Wall Street flags near-term risks",
+          "link": "https://invezz.com/news/2026/02/17/alphabet-stock-declines-2-as-wall-street-flags-near-term-risks/",
+          "snippet": "Alphabet stock (NASDAQ: GOOGL) slipped about 2% in pre-market trading on Tuesday, a pullback that says more about near-term nerves than any sudden break in Google's core business. Investors have been re-pricing big-cap AI winners on some simple questions like how quickly does heavy spending translate into visible cash returns.",
+          "source": "Invezz",
+          "date": "2026-02-17T13:37:00+00:00"
+        }
+      ],
+      "chart_path": "docs/website/public/daily/johnzhang/charts/2026-02-17/GOOGL_chart.png"
+    },
+    {
+      "ticker": "AMZN",
+      "current_price": 198.7899932861328,
+      "support": 197.27999877929688,
+      "resistance": 258.6000061035156,
+      "rsm_score": null,
+      "is_portfolio": false,
+      "bias": "neutral",
+      "bias_score": 1,
+      "analysis": "\n### 技术指标概览 (Technical Overview)\n- **当前价格**: $198.79\n- **RSI (14)**: 16.68\n- **移动平均线**: SMA20: $227.39 | SMA50: $230.46 | SMA200: $223.62 (Bullish)\n- **波动率**: ATR (14): 8.40 (预计周度波动: +/- $18.78)\n- **关键位 (6m)**: 支撑位 $197.28 | 阻力位 $258.60\n- **即时状态**: Below SMA50\n\n# 亚马逊 (AMZN) 情绪审计报告\n\n**日期：** 2026-02-17\n**研究员：** 叙事经济学（Narrative Economics）分析小组\n**标的：** AMZN (Amazon.com, Inc.)\n**当前价格：** $198.79\n\n---\n\n### 1. 催化剂分类 (Catalyst Categorization)\n\n| 级别 | 驱动事件 | 详细描述 |\n| :--- | :--- | :--- |\n| **A-Tier (核心)** | **Q4 财报后效应/盈利预告** | 虽然 Blockonomi 和 Seeking Alpha 在 2 月初对财报持乐观预期（预期 EPS $1.97），但当前价格（$198.79）远低于财报前的 $230-$240 区间，显示市场对财报后的指引或增长空间存在严重分歧。 |\n| **B-Tier (行业)** | **AWS 与 AI 云计算地位** | [Insider Monkey] 确认亚马逊仍是 14 强云计算股票之一。AI 基础设施的长期叙事依然稳固，但短期被宏观情绪掩盖。 |\n| **C-Tier (杂讯)** | **高管减持与媒体背书** | CEO Herrington 减持 $208k [Investing.com] 属于常规操作，金额极小，无实质负面意义。Jim Cramer 的“绝对信任” [Insider Monkey] 通常被视为散户情绪指标，对机构逻辑驱动较小。 |\n\n---\n\n### 2. 背离检测 (Divergence Detection)\n\n**核心观察：极度看跌的情绪与基本面叙事的背离。**\n\n*   **技术性衰竭：** RSI 指标目前处于 **16.68** 的极端超卖区域。通常 RSI 低于 30 即为超卖，低于 20 则意味着短期抛售压力已达到非理性的顶峰（Bearish Exhaustion）。\n*   **价格与均线背离：** 股价 ($198.79) 不仅远低于 SMA50 ($230.46)，甚至跌破了 SMA200 ($223.62)。这种“破位”通常预示着中期趋势转弱，但结合 RSI 来看，更像是一个**情绪陷阱 (Trap)**，诱导散户在底部割肉。\n*   **叙事背离：** 媒体（Motley Fool, Seeking Alpha）仍在发布“加倍买入”、“价值低估”的报告，但市场价格却在持续刷新 6 个月低点 ($197.28)。这表明机构资金可能正在利用高波动率进行筹码清洗，或者正在重新定价 AWS 的长期利润率。\n\n---\n\n### 3. 情绪审计与逻辑评分\n\n#### **情绪分数: 2.5/10 (恐慌/系统性抛售)**\n*   **解释：** 市场目前处于极度恐慌状态。RSI 16.68 说明卖盘已经出尽，目前的叙事充满了对“增长见顶”的担忧，即便利好新闻（如云业务排名）也无法提振股价。\n\n#### **逻辑评分 (Logic Score): 8.5/10 (反弹潜力)**\n*   **依据：** \n    1.  **支撑位精准：** 股价正处于 6 个月低点支持位 $197.28 上方不到 1 刀的位置。\n    2.  **估值吸引力：** 正如 [Seeking Alpha] 提到，AMZN 的前瞻 PEG 为 1.9x，在“七巨头”中处于折价状态。\n    3.  **波动率机会：** ATR (8.40) 显示波动剧烈，配合周波动范围预测 (+/- 18.78)，一旦触底反弹，空间巨大。\n\n---\n\n### 4. 结论与建议\n\n**审计结论：目前处于“多头陷阱”后的“空头过度抛售”阶段。**\n当前的抛售已脱离了基本面叙事（AWS 依然强劲），更多是受财报后技术面破位引发的连锁清算。考虑到 RSI 的极端读数和 6 个月支撑位的临近，这是一个典型的**反转候选标的**。\n\n*   **识别风险：** 若跌破 $197.28 且无快速拉回，则趋势转向“系统性失效”。\n*   **引用文献：**\n    *   [Seeking Alpha: AMZN 估值折价分析](https://seekingalpha.com/article/4865014-amazon-stock-is-cheap-heading-into-q4-earnings)\n    *   [Forbes: 关于“逢低买入”的价值博弈分析](https://www.forbes.com/sites/greatspeculations/2026/02/09/buy-the-dip-in-amazon-stock/)\n\n---\n\n### 5. 下一关键日期 (Next Major Date)\n\n*   **2026年4月下旬 (预计 2026-04-30 左右)：** **2026 财年第一季度 (Q1) 财报发布。**\n*   **短期关注点：** 本周是否能守住 $197.28 的关键心理防线。",
+      "news": [
+        {
+          "title": "Is Amazon.com, Inc. (AMZN) One of the 14 Best Cloud Computing Stocks to Buy...",
+          "link": "https://finance.yahoo.com/news/amazon-com-inc-amzn-one-123516174.html",
+          "snippet": "Amazon.com, Inc. (NASDAQ: AMZN ) is among the 14 Best Cloud Computing Stocks to Buy Right Now. On Febr...",
+          "source": "Insider Monkey",
+          "date": "2026-02-17T12:32:40+00:00"
+        },
+        {
+          "title": "3 Stocks to Double Up on Right Now",
+          "link": "https://finance.yahoo.com/news/3-stocks-double-now-092000693.html",
+          "snippet": "Will AI create the world's first trillionaire? Our team just released a report on the one little-known company, called...stocks to buy than this trio....",
+          "source": "Motley Fool",
+          "date": "2026-02-17T09:32:40+00:00"
+        },
+        {
+          "title": "Amazon CEO Herrington sells $208k in AMZN stock By Investing.com",
+          "link": "https://www.investing.com/news/insider-trading-news/amazon-ceo-herrington-sells-208k-in-amzn-stock-93CH-4507118",
+          "snippet": "Amazon CEO Herrington sells $208k in AMZN stock",
+          "source": "Investing.com",
+          "date": "2026-02-14T14:32:40+00:00"
+        },
+        {
+          "title": "I Have “Total Faith” In Amazon.com (AMZN) CEO, Says Jim Cramer",
+          "link": "https://finance.yahoo.com/news/total-faith-amazon-com-amzn-164958180.html",
+          "snippet": "We recently published 9 Stocks Jim Cramer Talked About. Amazon.com, Inc. (NASDAQ: AMZN ) is one of the...",
+          "source": "Insider Monkey",
+          "date": "2026-02-11T14:32:40+00:00"
+        },
+        {
+          "title": "The Smartest Growth Stock to Buy With $500 Right Now",
+          "link": "https://finance.yahoo.com/news/smartest-growth-stock-buy-500-203500671.html",
+          "snippet": "Amazon (NASDAQ: AMZN ) stock hasn't been so magnificent over the past year. The stock price is down roughly 11% year to date and has dropped 12% over the...",
+          "source": "Motley Fool",
+          "date": "2026-02-15T14:32:40+00:00"
+        },
+        {
+          "title": "Buy The Dip In Amazon Stock?",
+          "link": "https://www.forbes.com/sites/greatspeculations/2026/02/09/buy-the-dip-in-amazon-stock/",
+          "snippet": "Even with the recent dip, the stock’s premium valuation persists, suggesting it is currently fairly priced rather than a significant bargain.",
+          "source": "Forbes",
+          "date": "2026-02-09T14:32:40+00:00"
+        },
+        {
+          "title": "Amazon Stock Is Cheap Heading Into Q4 Earnings",
+          "link": "https://seekingalpha.com/article/4865014-amazon-stock-is-cheap-heading-into-q4-earnings",
+          "snippet": "Amazon.com, Inc. is consolidating near $230-$240 and presents a potential rebound opportunity ahead of Q4 '25 earnings, in my opinion. AMZN stock trades at a discount to Mag 7 peers, with a forward PEG of 1.9x and 15.7x forward EV/EBITDA, despite margin ...",
+          "source": "Seeking Alpha",
+          "date": "2026-02-02T19:02:00+00:00"
+        },
+        {
+          "title": "Amazon (AMZN) Stock: Is It a Buy Before Thursday’s Q4 Earnings Report?",
+          "link": "https://blockonomi.com/amazon-amzn-stock-is-it-a-buy-before-thursdays-q4-earnings-report/",
+          "snippet": "Amazon reports Q4 earnings Thursday with analysts expecting $1.97 EPS, $211.44B revenue, and 35 Buy ratings implying 25% upside potential.",
+          "source": "Blockonomi",
+          "date": "2026-02-04T14:32:40+00:00"
+        }
+      ],
+      "chart_path": "docs/website/public/daily/johnzhang/charts/2026-02-17/AMZN_chart.png"
+    },
+    {
+      "ticker": "VRT",
+      "current_price": 234.52999877929688,
+      "support": 118.62228254087348,
+      "resistance": 255.5399932861328,
+      "rsm_score": null,
+      "is_portfolio": false,
+      "bias": "neutral",
+      "bias_score": 1,
+      "analysis": "\n### 技术指标概览 (Technical Overview)\n- **当前价格**: $234.53\n- **RSI (14)**: 70.71\n- **移动平均线**: SMA20: $194.99 | SMA50: $179.76 | SMA200: $149.03 (Bullish)\n- **波动率**: ATR (14): 15.97 (预计周度波动: +/- $35.72)\n- **关键位 (6m)**: 支撑位 $118.62 | 阻力位 $255.54\n- **即时状态**: Above SMA50\n\n# 情绪审计报告：Vertiv Holdings Co. (VRT)\n**职位：** 对冲基金研究助理（叙事经济学视角）\n**审计日期：** 2026年02月17日\n\n---\n\n### 1. 催化剂分类 (Catalyst Categorization)\n\n*   **A-Tier（核心动力）：**\n    *   **2026年营收指引超预期：** 公司发布的2026年营收指引为132.5亿至137.5亿美元，远高于分析师预期的123.9亿美元。尽管Q4利润略低于预期，但其前瞻性指引触发了股价单日23%的暴涨。\n    *   **订单积压（Backlog）创新高：** 目前积压订单达到创纪录的150亿美元，这证明了AI驱动的数据中心基础设施需求具有极强的持续性，而非短期泡沫。\n*   **B-Tier（机构与行业惯性）：**\n    *   **AI基础设施叙事：** 随着AI从软件向硬件基础设施（冷却系统、配电）传导，VRT作为行业领导者处于风口。\n    *   **机构关注度：** Zacks将其列为热门搜索股票，显示出散户与机构投资者的双重兴趣。\n*   **C-Tier（市场噪音）：**\n    *   **媒体名人效应：** Jim Cramer在节目中提及VRT订单增长“令人难以置信”，虽增加了曝光度，但属于滞后指标。\n\n### 2. 背离检测 (Divergence Detection)\n\n**分析：** 在2026年2月12日左右，VRT表现出了明显的**“利空出尽”**式看涨背离。\n*   **现象：** 尽管Q4每股收益（EPS）未达华尔街预期，但股价并未下跌，反而因为超强劲的未来指引和订单量而跳空大涨23%。\n*   **结论：** 市场目前的逻辑已经从“关注过去一个季度的财务细节”转向“对AI长期基础设施溢价的定价”。RSI处于70.71的超买区间，结合SMA20（194.99）与现价（234.53）的巨大偏离，短期可能存在由于获利了结引发的回撤，但中期上升趋势极为稳固。\n\n### 3. 情绪评分 (Logic Score)\n\n**得分：8.5 / 10**\n\n*   **理由：** \n    *   **优势 (+2.5)：** 创纪录的150亿美金订单积压提供了极高的业绩确定性。\n    *   **优势 (+2.0)：** 远超预期的前瞻指引彻底改写了估值模型。\n    *   **优势 (+2.0)：** 均线系统（SMA50/200）呈完美多头排列，趋势强度极高。\n    *   **风险 (-1.0)：** RSI > 70 表明短期情绪过热，技术面上存在回调压力。\n    *   **风险 (-0.5)：** 估值溢价已反映了大部分AI预期，容错率降低。\n\n### 4. 核心引用与证据 (Evidence)\n\n*   **关于营收指引：** 根据 [Blockonomi](https://blockonomi.com/vertiv-vrt-stock-gains-23-on-strong-2026-revenue-guidance/) 报道，VRT在2026年指引发布后股价飙升23%，营收预测中值高出市场预期约10亿美元。\n*   **关于基本面韧性：** [Yahoo Finance](https://finance.yahoo.com/news/buy-sell-hold-vertiv-stock-162700810.html) 指出，尽管Q4财报后有小幅波动，但其AI驱动的订单增长和150亿美元的积压订单是维持看涨情绪的关键。\n*   **关于市场热度：** [Zacks Investment Research](https://www.msn.com/en-us/money/topstocks/vertiv-holdings-co-vrt-is-a-trending-stock-facts-to-know-before-betting-on-it/ar-AA1WswQL) 确认该股是近期平台上搜索量最高的股票之一，显示叙事正在向大众传播。\n\n### 5. 下一个关键日期 (Next Major Date)\n\n**预计日期：2026年5月初（Q1 2026 财报发布日）**\n*   **关注重点：** 观察150亿美元订单的转化率以及液冷产品（Liquid Cooling）在大规模数据中心部署中的实际毛利率表现。\n\n---\n**审计总结：** VRT 目前正处于“不可阻挡的看涨周期”的中后期。叙事已从“预期”转向“订单证实”。建议关注 RSI 回调至 60 附近的低吸机会，警惕 255.54 美元的强阻力位。",
+      "news": [
+        {
+          "title": "Should You Buy, Sell, or Hold Vertiv Stock Post Q4 Earnings?",
+          "link": "https://finance.yahoo.com/news/buy-sell-hold-vertiv-stock-162700810.html",
+          "snippet": "VRT stock dips after Q4, but explosive AI-driven order growth, a record $15B backlog, and upbeat 1Q26 outlook keep investors watching closely.",
+          "source": "Yahoo Finance",
+          "date": "2026-02-13T19:44:00+00:00"
+        },
+        {
+          "title": "Vertiv Holdings Co. (VRT) is a trending stock: Facts to know before betting on it",
+          "link": "https://www.msn.com/en-us/money/topstocks/vertiv-holdings-co-vrt-is-a-trending-stock-facts-to-know-before-betting-on-it/ar-AA1WswQL",
+          "snippet": "Vertiv Holdings Co. (VRT) has been one of the most searched-for stocks on Zacks.com lately. So, you might want to look at some of the facts that could shape the stock's performance in the near term. Over the past month,",
+          "source": "Zacks Investment Research",
+          "date": "2026-02-16T14:00:04+00:00"
+        },
+        {
+          "title": "Vertiv (VRT) Stock Gains 23% on Strong 2026 Revenue Guidance",
+          "link": "https://blockonomi.com/vertiv-vrt-stock-gains-23-on-strong-2026-revenue-guidance/",
+          "snippet": "Vertiv (VRT) stock jumped 23% Tuesday after 2026 guidance of $13.25B-$13.75B revenue crushed $12.39B estimates despite Q4 earnings missing Street targets.",
+          "source": "Blockonomi",
+          "date": "2026-02-12T13:13:00+00:00"
+        },
+        {
+          "title": "Vertiv (VRT)'s Orders Were Incredible, Says Jim Cramer",
+          "link": "https://www.msn.com/en-us/money/topstocks/vertiv-vrt-s-orders-were-incredible-says-jim-cramer/ar-AA1Wp3UQ",
+          "snippet": "We recently published 13 Stocks Jim Cramer Talked About. Vertiv Holdings Co (NYSE:VRT) is one of the stocks that Jim Cramer talked about. Vertiv Holdings Co (NYSE:VRT) is an American digital infrastructure products provider.",
+          "source": "Insider Monkey",
+          "date": "2026-02-15T15:12:32+00:00"
+        },
+        {
+          "title": "Is Vertiv (VRT) a Solid Growth Stock? 3 Reasons to Think \"Yes\"",
+          "link": "https://www.msn.com/en-us/money/topstocks/is-vertiv-vrt-a-solid-growth-stock-3-reasons-to-think-yes/ar-AA1WekRc",
+          "snippet": "Investors seek growth stocks to capitalize on above-average growth in financials that help these securities grab the market's attention and produce exceptional returns. But finding a great growth stock is not easy at all.",
+          "source": "Zacks.com",
+          "date": "2026-02-12T17:46:00+00:00"
+        }
+      ],
+      "chart_path": "docs/website/public/daily/johnzhang/charts/2026-02-17/VRT_chart.png"
+    },
+    {
+      "ticker": "CEG",
+      "current_price": 288.42999267578125,
+      "support": 243.3000030517578,
+      "resistance": 412.22700132789134,
+      "rsm_score": null,
+      "is_portfolio": false,
+      "bias": "neutral",
+      "bias_score": 1,
+      "analysis": "\n### 技术指标概览 (Technical Overview)\n- **当前价格**: $288.43\n- **RSI (14)**: 51.75\n- **移动平均线**: SMA20: $279.35 | SMA50: $323.98 | SMA200: $325.74 (Bearish)\n- **波动率**: ATR (14): 12.81 (预计周度波动: +/- $28.64)\n- **关键位 (6m)**: 支撑位 $243.30 | 阻力位 $412.23\n- **即时状态**: Below SMA50\n\n# 情绪审计报告：Constellation Energy (CEG)\n**致：** 投资委员会\n**职位：** 对冲基金研究员（叙事经济学专家）\n**日期：** 2026年02月17日\n\n---\n\n### 1. 催化剂分类 (Categorize Catalysts)\n\n*   **A-Tier（核心催化剂）：**\n    *   **Q4 财报发布：** 2026年2月17日当周发布财报。Zacks 预测其盈利将超预期（Earnings ESP +3.13%），这对正处于技术性调整的股价至关重要。[参考：Zacks, 2026-02-12]\n    *   **AI 能源叙事溢价：** 核心叙事逻辑在于 AI 数据中心对核能的长期刚需。虽然近期市场对 AI 产生疲劳感（AI Disruption Fears），但 CEG 的核电资产具有稀缺性。[参考：Reuters, 2026-02-17]\n\n*   **B-Tier（行业与板块影响）：**\n    *   **电力公用事业板块轮动：** 随着财报季进入尾声，公用事业板块的现金流稳定性开始吸引避险资金。[参考：Yahoo Finance, 2026-02-17]\n\n*   **C-Tier（市场噪音/常规变动）：**\n    *   **内部分析师评级：** Zacks 将其列为“强力增长股”，这更多是基于量化指标的常规更新，而非基本面重大突变。[参考：MSN, 2026-02-11]\n\n---\n\n### 2. 背离检测 (Divergence Detection)\n\n*   **看跌详述：** 尽管市场预期盈利超预期（Zacks），但 CEG 的股价表现出明显的**技术性弱势**。目前价格（288.43）远低于 SMA50 (323.98) 和 SMA200 (325.74)。\n*   **背离现象：** 在 1 月份市场上涨时，CEG 反而下跌 2.38%，显示出与大盘的负相关性 [参考：Nasdaq, 2026-01-22]。\n*   **结论：** 存在“利好不涨”的背离。这表明市场对 CEG 之前的过高估值（412.23 高点）正在进行去杠杆和去泡沫化。目前的 RSI 为 51.75，处于中性，尚未达到“看跌竭尽”的极端超卖状态。\n\n---\n\n### 3. 情绪评分 (Sentiment Score)\n\n#### **逻辑评分：5.5 / 10**\n*(评分标准：0-系统性崩溃；10-无可阻挡的牛市周期)*\n\n**评分逻辑：**\n*   **叙事吸引力 (7/10)：** 作为核能领军者，其 AI 能源供应的长期叙事依然完整。\n*   **技术面压力 (3/10)：** 长期趋势线（SMA200）的失守是重大的技术破坏，需要一个强力的“A-Tier”财报才能扭转趋势。\n*   **市场情绪 (5/10)：** 投资者目前处于“观望盈利”状态，$290 以下的吸筹意愿正在增加，但缺乏追高动力。\n\n---\n\n### 4. 关键日期与技术支撑 (Next Major Date)\n\n*   **下一个重大日期：** **2026年02月17日/18日** (当前正在进行的财报发布及电话会议)。\n*   **关键点位：**\n    *   **支撑位：** 243.30（6个月低点/强力支撑）。\n    *   **阻力位：** 323.98（SMA50，需站稳此线才能宣告熊市趋势结束）。\n\n---\n\n### 5. 叙事总结：是“机会”还是“陷阱”？\n\n目前的 CEG 呈现出**“叙事稳固但动量匮乏”**的特征。\n*   **如果** 财报指引中明确提到了新的数据中心供电合同（A-Tier 确认），那么 290 美元以下将是一个坚实的**底部区域**。\n*   **如果** 财报仅仅是微弱达标而指引平平，在 SMA50/200 的重压下，目前的震荡可能演变为**“价值陷阱”**，股价或将下探 243.30 的 6 个月支撑位。\n\n**操作建议：** 在今日财报后的分析师电话会议明确其“2026年资本支出计划”后再行介入。目前维持“中立偏谨慎”立场。",
+      "news": [
+        {
+          "title": "Stock market today: Nasdaq, S&P 500 slide to kick off shortened week with AI...",
+          "link": "https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-slide-to-kick-off-shortened-week-with-ai-fears-in-focus-143417547.html",
+          "snippet": "This week, earnings season enters its final stretch. Results from Constellation Energy ( CEG ) are in...",
+          "source": "Yahoo Finance",
+          "date": "2026-02-17T14:34:26+00:00"
+        },
+        {
+          "title": "Should You Buy Constellation Energy Stock While It's Below $290?",
+          "link": "https://finance.yahoo.com/news/buy-constellation-energy-stock-while-012800497.html",
+          "snippet": "Constellation Energy (NASDAQ: CEG ) is a utility with a massive nuclear fleet and has been one of the...",
+          "source": "Motley Fool",
+          "date": "2026-02-17T01:35:26+00:00"
+        },
+        {
+          "title": "Constellation Energy Corporation (CEG) Expected to Beat Earnings Estimates: Can...",
+          "link": "https://finance.yahoo.com/news/constellation-energy-corporation-ceg-expected-150006923.html",
+          "snippet": "Constellation Energy Corporation ( CEG ) possesses the right combination of the two key ingredients...",
+          "source": "Zacks",
+          "date": "2026-02-10T14:35:26+00:00"
+        },
+        {
+          "title": "Constellation to Post Q4 Earnings: What's in Store for the Stock?",
+          "link": "https://www.zacks.com/stock/news/2863275/constellation-to-post-q4-earnings-whats-in-store-for-the-stock",
+          "snippet": "CEG nears Q4 results with revenues up 1.9% and a +3.13% Earnings ESP. The company enjoys the benefit...",
+          "source": "Zacks",
+          "date": "2026-02-12T14:35:26+00:00"
+        },
+        {
+          "title": "US stock futures slip on persistent AI disruption fears",
+          "link": "https://www.reuters.com/sustainability/sustainable-finance-reporting/us-stock-futures-slip-persistent-ai-disruption-fears-2026-02-17/",
+          "snippet": "U.S. stock index futures edged lower on Tuesday as worries about AI-driven disruption unsettled...",
+          "source": "Reuters",
+          "date": "2026-02-17T11:35:26+00:00"
+        },
+        {
+          "title": "How Does Constellation Energy Stock Compare With Its Peers?",
+          "link": "https://www.forbes.com/sites/greatspeculations/2026/01/26/how-does-constellation-energy-stock-compare-with-its-peers/",
+          "snippet": "Constellation Energy’s stock (CEG) has not performed well in the last year, but how does it actually stack up against utility rivals expanding their operations as of January 23, 2026? A detailed ...",
+          "source": "Forbes",
+          "date": "2026-01-26T00:00:00+00:00"
+        },
+        {
+          "title": "Constellation Energy Corporation (CEG) Stock Drops Despite Market Gains: Important Facts to Note",
+          "link": "https://www.nasdaq.com/articles/constellation-energy-corporation-ceg-stock-drops-despite-market-gains-important-facts-note",
+          "snippet": "Constellation Energy Corporation (CEG) closed the most recent trading day at $287.35, moving -2.38% from the previous trading session. This change lagged the S&P 500's daily gain of 0.55%. Meanwhile, ...",
+          "source": "Nasdaq",
+          "date": "2026-01-22T00:00:00+00:00"
+        },
+        {
+          "title": "Here's why Constellation Energy Corporation (CEG) is a strong growth stock",
+          "link": "https://www.msn.com/en-us/money/topstocks/here-s-why-constellation-energy-corporation-ceg-is-a-strong-growth-stock/ar-AA1W4sw2?ocid=BingNewsVerp",
+          "snippet": "Taking full advantage of the stock market and investing with confidence are common goals for new and old investors, and Zacks Premium offers many different ways to do both. The popular research ...",
+          "source": "Zacks Investment Research on MSN",
+          "date": "2026-02-11T14:35:26+00:00"
+        }
+      ],
+      "chart_path": "docs/website/public/daily/johnzhang/charts/2026-02-17/CEG_chart.png"
+    },
+    {
+      "ticker": "ETN",
+      "current_price": 389.25,
+      "support": 311.9200134277344,
+      "resistance": 408.45001220703125,
+      "rsm_score": null,
+      "is_portfolio": false,
+      "bias": "neutral",
+      "bias_score": 1,
+      "analysis": "\n### 技术指标概览 (Technical Overview)\n- **当前价格**: $389.25\n- **RSI (14)**: 79.30\n- **移动平均线**: SMA20: $357.84 | SMA50: $340.58 | SMA200: $349.81 (Bearish)\n- **波动率**: ATR (14): 14.93 (预计周度波动: +/- $33.39)\n- **关键位 (6m)**: 支撑位 $311.92 | 阻力位 $408.45\n- **即时状态**: Above SMA50\n\n# 伊顿公司 (ETN) 情绪审计报告\n\n**致：** 投资委员会\n**职位：** 叙事经济学研究员\n**日期：** 2026年02月17日\n\n---\n\n### 1. 催化剂分级 (Catalyst Categorization)\n\n*   **A-Tier (核心叙事推动者)：**\n    *   **AI 基础设施溢价：** RBC Capital 将 ETN 定义为“被低估的 AI 受益股”，并强调其“业绩超越并上调指引 (Beat-and-Raise)”的潜力。这标志着 ETN 已从传统的工业股逻辑转向 AI 数据中心电力管理逻辑，这是当前市场最强大的叙事流。\n    *   **业绩上调预期：** 尽管 2026 年指引初值审慎，但机构分析师普遍预期其在电力转换和配电领域的积压订单将推动超额收益。\n\n*   **B-Tier (市场热度与共识)：**\n    *   **Zacks 趋势关注：** 该股近期在各大金融平台搜索量激增，显示出强烈的散户与机构共识。\n    *   **分析师一致看好：** Barchart 报告显示华尔街分析师情绪普遍乐观，市场正在重新定价其估值倍数。\n\n*   **C-Tier (市场噪音)：**\n    *   **Jim Cramer 背书：** Jim Cramer 在 2 月 15 日称其“仍可买入”。虽然提升了短期情绪，但在叙事经济学中，这通常被视为情绪过热的末端信号。\n\n---\n\n### 2. 背离检测 (Divergence Detection)\n\n*   **技术面背离：** 当前股价 ($389.25) 远高于 SMA50 ($340.58) 和 SMA200 ($349.81)。\n*   **超买警示：** **RSI 高达 79.30**，处于严重超买区域。虽然基本面（AI 需求）极为强劲，但技术面显示出“情绪溢价”过高。\n*   **结论：** 尽管新闻流全是利好（Good News），但股价已计入了大部分预期。目前的趋势并非“利好下跌”的看跌耗尽，而是**“利好出尽”的潜在回调风险**。$408.45 的阻力位近在咫尺，当前价位追高的风险回报比（R/R）并不理想。\n\n---\n\n### 3. 情绪评分 (Sentiment Score)\n\n#### **8.5 / 10**\n**评价：** **强劲牛市循环，但伴随过热风险。**\nETN 正处于从“工业公用事业”向“AI 核心基础设施”转型的叙事高峰期。机构的“Beat-and-Raise”预期支撑了逻辑厚度，但 79.30 的 RSI 意味着短期内可能出现技术性回调（Trap）。\n\n---\n\n### 4. 逻辑诊断与建议\n\n*   **叙事状态：** 可持续的结构性趋势。电力短缺和数据中心扩建是未来 2-3 年的长期逻辑，并非短期泡沫。\n*   **潜在陷阱：** RSI 极高叠加 Cramer 的“散户动员”，可能导致短期内出现“追高者陷阱”。如果股价未能放量突破 $408.45 阻力位，可能会回测 SMA20 ($357.84) 寻找支撑。\n\n---\n\n### 5. 关键参考信息\n\n*   **引用新闻：**\n    *   *RBC Capital 关于 AI 潜力与业绩预期的分析 (2026-02-11)* [链接](https://finance.yahoo.com/news/rbc-capital-highlights-eaton-etn-180836005.html)\n    *   *Zacks 趋势股分析 (2026-02-11)* [链接](https://www.msn.com/en-us/money/other/eaton-corporation-plc-etn-is-a-trending-stock-facts-to-know-before-betting-on-it/ar-AA1W8N3f)\n*   **下个重大日期：** \n    *   **2026年5月初 (预计)**：2026年第一季度 (Q1) 财报发布日。这将是验证 RBC “业绩超越并上调”预期的第一个关键窗口。\n    *   **近期关注：** 需观察股价在接近 $408.45 阻力位时的波动率变化。",
+      "news": [
+        {
+          "title": "Eaton (ETN) is Still Buyable, Says Jim Cramer",
+          "link": "https://www.msn.com/en-us/money/topstocks/eaton-etn-is-still-buyable-says-jim-cramer/ar-AA1WplWe",
+          "snippet": "We recently published 13 Stocks Jim Cramer Talked About. Eaton Corporation (NYSE:ETN) is one of the stocks that Jim Cramer talked about. Eaton Corporation (NYSE:ETN) is a power management products provider.",
+          "source": "Insider Monkey",
+          "date": "2026-02-15T15:12:20+00:00"
+        },
+        {
+          "title": "Eaton Corporation, PLC (ETN) is a trending stock: Facts to know before betting on it",
+          "link": "https://www.msn.com/en-us/money/other/eaton-corporation-plc-etn-is-a-trending-stock-facts-to-know-before-betting-on-it/ar-AA1W8N3f",
+          "snippet": "Eaton (ETN) has been one of the most searched-for stocks on Zacks.com lately. So, you might want to look at some of the facts that could shape the stock's performance in the near term. Shares of this power management company have returned +13.",
+          "source": "Zacks Investment Research",
+          "date": "2026-02-11T14:00:03+00:00"
+        },
+        {
+          "title": "Are Wall Street analysts bullish on Eaton stock?",
+          "link": "https://www.msn.com/en-us/money/other/are-wall-street-analysts-bullish-on-eaton-stock/ar-AA1W9mV8",
+          "snippet": "With a market cap of $146.6 billion, Eaton Corporation plc (ETN) is a global power management company operating across the Americas, Europe, and the Asia Pacific through segments including Electrical,",
+          "source": "Barchart",
+          "date": "2026-02-11T15:15:56+00:00"
+        },
+        {
+          "title": "RBC Capital Highlights Eaton (ETN) Beat-and-Raise Potential Despite Conservative...",
+          "link": "https://finance.yahoo.com/news/rbc-capital-highlights-eaton-etn-180836005.html",
+          "snippet": "Eaton Corporation (NYSE: ETN ) is one of the under-the-radar AI stocks to buy. On February 4, RBC...",
+          "source": "Insider Monkey",
+          "date": "2026-02-11T14:35:42+00:00"
+        },
+        {
+          "title": "Eaton Corporation, PLC (ETN) Is a Trending Stock: Facts to Know Before Betting...",
+          "link": "https://finance.yahoo.com/news/eaton-corporation-plc-etn-trending-140003785.html",
+          "snippet": "Eaton ( ETN ) has been one of the most searched-for stocks on Zacks.com lately. So, you might want to...",
+          "source": "Zacks",
+          "date": "2026-02-11T14:35:42+00:00"
+        },
+        {
+          "title": "Eaton (ETN) Stock Moves -1.79%: What You Should Know",
+          "link": "https://www.nasdaq.com/articles/eaton-etn-stock-moves-179-what-you-should-know",
+          "snippet": "In the latest close session, Eaton (ETN) was down 1.79% at $337.59. The stock's change was more than the S&P 500's daily loss of 2.06%. Meanwhile, the Dow experienced a drop of 1.76%, and the technology-dominated Nasdaq saw a decrease of 2.39%. The power ...",
+          "source": "Nasdaq",
+          "date": "2026-01-20T23:00:00+00:00"
+        },
+        {
+          "title": "Eaton Corporation, PLC (ETN) is a trending stock: Facts to know before betting on it",
+          "link": "https://www.msn.com/en-us/money/other/eaton-corporation-plc-etn-is-a-trending-stock-facts-to-know-before-betting-on-it/ar-AA1W8N3f?ocid=BingNewsVerp",
+          "snippet": "Eaton (ETN) has been one of the most searched-for stocks on Zacks.com lately. So, you might want to look at some of the facts that could shape the stock's performance in the near term. Shares of this ...",
+          "source": "Zacks Investment Research on MSN",
+          "date": "2026-02-11T14:35:43+00:00"
+        },
+        {
+          "title": "RBC Capital Highlights Eaton (ETN) Beat-and-Raise Potential Despite Conservative 2026 Guidance",
+          "link": "https://www.msn.com/en-us/money/topstocks/rbc-capital-highlights-eaton-etn-beat-and-raise-potential-despite-conservative-2026-guidance/ar-AA1W9ofJ?ocid=BingNewsVerp",
+          "snippet": "Eaton Corporation (NYSE:ETN) is one of the under-the-radar AI stocks to buy. On February 4, RBC Capital raised the price ...",
+          "source": "Insider Monkey on MSN",
+          "date": "2026-02-12T14:35:43+00:00"
+        }
+      ],
+      "chart_path": "docs/website/public/daily/johnzhang/charts/2026-02-17/ETN_chart.png"
+    },
+    {
+      "ticker": "AMD",
+      "current_price": 207.32000732421875,
+      "support": 149.22000122070312,
+      "resistance": 267.0799865722656,
+      "rsm_score": null,
+      "is_portfolio": true,
+      "bias": "neutral",
+      "bias_score": 1,
+      "analysis": "\n### 技术指标概览 (Technical Overview)\n- **当前价格**: $207.32\n- **RSI (14)**: 30.99\n- **移动平均线**: SMA20: $230.89 | SMA50: $221.14 | SMA200: $181.95 (Bullish)\n- **波动率**: ATR (14): 14.66 (预计周度波动: +/- $32.79)\n- **关键位 (6m)**: 支撑位 $149.22 | 阻力位 $267.08\n- **即时状态**: Below SMA50\n\n# 情绪审计报告：AMD (Advanced Micro Devices)\n**日期：** 2026年02月17日\n**职位：** 对冲基金研究员 (叙事经济学专家)\n\n---\n\n### 1. 催化剂分类 (Catalyst Categorization)\n\n基于近期新闻流和市场反馈，我们将 AMD 的驱动因素分为以下三个等级：\n\n*   **A-Tier (核心催化剂):**\n    *   **Q4 业绩超预期：** 营收 $103亿，EPS $1.53，均超过市场预期。\n    *   **数据中心爆发：** 数据中心收入增长 39% 至 $54亿，显示 AI 基础设施需求依然强劲 ([Seeking Alpha](https://seekingalpha.com/article/4868890-amd-inflection-is-here))。\n*   **B-Tier (行业与指引催化剂):**\n    *   **2026年展望：** 尽管 Q1 指引略显保守 ($98亿)，但分析师认为 2026 年是“去风险化”的 AI 复合增长年 ([Seeking Alpha](https://seekingalpha.com/article/4868297-amd-a-de-risked-ai-compounder))。\n    *   **AI 拐点论：** 市场开始确认 AMD 在 AI 基础设施中的二号位稳定性。\n*   **C-Tier (噪音与次要因素):**\n    *   **AMDY 收益分配：** 关于 YieldMax ETF 55% 收益率的讨论，属于衍生品市场噪音 ([Yahoo Finance](https://finance.yahoo.com/news/really-55-yield-yieldmax-amd-184630804.html))。\n    *   **短期情绪波动：** 2月12日无利空跌落 3%，被视为市场风险偏好转移 ([Invezz](https://invezz.com/news/2026/02/12/amd-stock-tumbles-3-analysts-say-market-is-missing-this-key-catalyst/))。\n\n---\n\n### 2. 背离检测 (Divergence Detection)\n\n**当前状态：显著的“好消息下跌” (Good News Drop)**\n\n*   **现象：** AMD 在公布了超预期的 Q4 财报后，股价反而出现了 8%-12% 的剧烈回撤 ([Blockonomi](https://blockonomi.com/amd-stock-investors-dump-shares-despite-earnings-beat-heres-why/))。\n*   **叙事诊断：** 这并非基本面恶化，而是**“叙事陷阱”**。市场对 AI 的预期已达到“完美定价”，任何关于 Q1 指引的微小瑕疵（$98亿 vs 激进预期的差距）都会被放大为抛售理由。\n*   **空头竭尽迹象：** RSI 目前处于 **30.99**，已进入技术性超卖区间。股价跌破 SMA20 ($230.89) 和 SMA50 ($221.14)，正在向 SMA200 ($181.95) 寻求长线支撑。这表明短期投机筹码正在出清，空头力量可能接近竭尽。\n\n---\n\n### 3. 情绪评分 (Sentiment Score)\n\n**得分：4.5 / 10 (中性偏悲观 - 处于洗盘阶段)**\n\n*   **逻辑：** 尽管 A-Tier 催化剂证明了公司赚钱能力，但市场叙事已从“无脑买入 AI”转向“挑剔软件缺口与规模挑战” ([Blockonomi 反馈分析师质疑](https://blockonomi.com/amd-stock-why-this-analyst-remains-skeptical-of-ai-strategy/))。目前股价处于下行惯性中，需要时间消化高估值。\n\n---\n\n### 4. 账户持仓诊断\n\n*   **正股 (600股):** 成本 $220.54，当前 $207.32，浮亏 **-6.00%**。\n    *   *诊断：* 价格处于 SMA50 以下，短期趋势承压。但考虑到 RSI 超卖，此时割肉风险较大。\n*   **期权 (-1.0 AMD260313C230):** 备兑呼叫期权 (Covered Call) 表现优异，盈利 **+39.80%**。\n    *   *诊断：* 这笔操作成功对冲了股价下跌的部分损失。随着标的价格远离 $230 的行权价，该期权的时间价值正在加速衰减。\n\n---\n\n### 5. 关键日期与建议\n\n*   **下一个重大日期：** **2026年3月13日** (期权到期日)。\n*   **策略建议：**\n    *   鉴于 RSI 指向超卖，且股价接近 6 个月低点支撑 ($149 尚远，但在 $200 整数关口有心理支撑)，建议继续持有正股并利用 Covered Call 降低成本。\n    *   密切关注 **2026年4月下旬** 的 Q1 财报预告，那是下一个扭转叙事的关键节点。\n\n---\n**结论：** AMD 当前正处于“利好出尽”后的叙事修复期。虽然技术面破位，但基本面（数据中心增长）未见系统性失败，属于典型的**机构洗盘陷阱**而非系统性崩溃。",
+      "news": [
+        {
+          "title": "Can You Really Get 55% Yield from the YieldMax AMD Option Income Strategy ETF (AMDY)?",
+          "link": "https://finance.yahoo.com/news/really-55-yield-yieldmax-amd-184630804.html",
+          "snippet": "Advanced Micro Devices (NASDAQ:AMD) continually raises the bar in advancing artificial intelligence (AI) chip design. The company is consistently profitable, and Advanced Micro Devices' shareholders have enjoyed considerable returns over the years.",
+          "source": "Yahoo Finance",
+          "date": "2026-02-16T20:45:00+00:00"
+        },
+        {
+          "title": "AMD Stock: Why This Analyst Remains Skeptical of AI Strategy",
+          "link": "https://blockonomi.com/amd-stock-why-this-analyst-remains-skeptical-of-ai-strategy/",
+          "snippet": "AMD stock fell 12% despite Q4 data center revenue rising 39% to $5.4B as analyst cites software gaps and scale challenges versus Nvidia competition.",
+          "source": "Blockonomi",
+          "date": "2026-02-17T13:48:00+00:00"
+        },
+        {
+          "title": "AMD's Inflection Is Here",
+          "link": "https://seekingalpha.com/article/4868890-amd-inflection-is-here",
+          "snippet": "Advanced Micro Devices, Inc. is rated a Strong Buy due to AI infrastructure & Data Center revenue growth. Learn more about AMD stock here.",
+          "source": "Seeking Alpha",
+          "date": "2026-02-11T16:55:00+00:00"
+        },
+        {
+          "title": "AMD: A De-Risked AI Compounder",
+          "link": "https://seekingalpha.com/article/4868297-amd-a-de-risked-ai-compounder",
+          "snippet": "Advanced Micro Devices, Inc.'s Q4 earnings beat and 2026 outlook continue to underscore durable execution. Click here to read why AMD stock is a Buy.",
+          "source": "Seeking Alpha",
+          "date": "2026-02-10T18:18:00+00:00"
+        },
+        {
+          "title": "AMD stock tumbles 3%: analysts say market is missing this key catalyst",
+          "link": "https://invezz.com/news/2026/02/12/amd-stock-tumbles-3-analysts-say-market-is-missing-this-key-catalyst/",
+          "snippet": "Advanced Micro Devices (NASDAQ: AMD stock) dipped about 3% in a recent session, lagging the broader chip group even though there was no fresh warning or downgrade cycle tied to the move. The pullback appeared more like a short-term shift in risk appetite,",
+          "source": "Invezz",
+          "date": "2026-02-12T21:12:00+00:00"
+        },
+        {
+          "title": "This Dirt Cheap Stock Is Expected to Quadruple Its Earnings This Year",
+          "link": "https://www.fool.com/investing/2026/02/17/this-dirt-cheap-stock-is-expected-to-quadruple-its/",
+          "snippet": "For Micron's fiscal year 2025 (which ends Aug. 28), the company reported $7.59 in earnings per share (EPS). According to Wall Street's consensus estimates, Micron's earnings are expected to be $33.73 per share in fiscal 2026 -- representing over 340% growth year over year.",
+          "source": "The Motley Fool",
+          "date": "2026-02-02T01:37:00+00:00"
+        },
+        {
+          "title": "AMD Stock: Investors Dump Shares Despite Earnings Beat - Here's Why",
+          "link": "https://blockonomi.com/amd-stock-investors-dump-shares-despite-earnings-beat-heres-why/",
+          "snippet": "AMD stock fall 8% despite Q4 beat with $1.53 EPS and $10.3B revenue as Q1 guidance of $9.8B disappoints some analysts expecting more from AI boom.",
+          "source": "Blockonomi",
+          "date": "2026-02-04T12:44:00+00:00"
+        },
+        {
+          "title": "AMD Stock is Melting Down Again—Time to Buy?",
+          "link": "https://www.aol.com/articles/amd-stock-melting-down-again-134838863.html",
+          "snippet": "Advanced Micro Devices (NASDAQ:AMD) is the latest large-cap tech company to plunge after the release of some strong quarterly earnings results. Indeed, it feels like impressing on earnings is a painfully difficult task this time of year.",
+          "source": "AOL",
+          "date": "2026-02-04T15:49:00+00:00"
+        }
+      ],
+      "chart_path": "docs/website/public/daily/johnzhang/charts/2026-02-17/AMD_chart.png"
+    },
+    {
+      "ticker": "VST",
+      "current_price": 171.49000549316406,
+      "support": 138.52999877929688,
+      "resistance": 219.5139408249953,
+      "rsm_score": null,
+      "is_portfolio": true,
+      "bias": "neutral",
+      "bias_score": 1,
+      "analysis": "\n### 技术指标概览 (Technical Overview)\n- **当前价格**: $171.49\n- **RSI (14)**: 60.76\n- **移动平均线**: SMA20: $158.17 | SMA50: $162.84 | SMA200: $179.81 (Bearish)\n- **波动率**: ATR (14): 7.79 (预计周度波动: +/- $17.42)\n- **关键位 (6m)**: 支撑位 $138.53 | 阻力位 $219.51\n- **即时状态**: Above SMA50\n\n# 情绪审计报告：Vistra Corp. (VST)\n**致：** 投资委员会\n**担任职位：** 对冲基金研究员（叙事经济学方向）\n**日期：** 2026年02月17日\n\n---\n\n## 1. 催化剂分类 (Catalyst Categorization)\n\n根据“叙事经济学”框架，我们将影响 VST 的新闻分为三个层级，以评估其增长的持续性：\n\n*   **A-Tier（核心驱动力）：机构重磅上调与目标价锚定**\n    *   **Jefferies 评级上调（2026-02-10/14）：** 分析师 Julien Dumoulin-Smith 将 VST 从“持有”上调至“买入”，并将目标价上调至 $203。\n    *   **高盛（Goldman Sachs）看涨更新：** 超过 90% 的分析师持看涨态度，共识目标价集中在 $227-$232 之间。\n    *   **逻辑：** 这种顶尖机构的集体背书为股价提供了坚实的“地板”，并引导了市场的估值逻辑从传统公用事业向“AI 基础设施”转型。\n\n*   **B-Tier（行业叙事）：AI 电力需求扩张**\n    *   **AI Power Play（2026-02-17）：** 市场正深度消化 AI 数据中心对电力的爆发式需求。VST 作为标杆企业，其叙事已从“能源供应”演变为“AI 时代的军火商”。\n\n*   **C-Tier（短期噪音）：期权异动与行业横向对比**\n    *   **异常期权活动（2026-02-06）：** 虽有大单流入，但在财报前属于常规投机行为。\n    *   **与 PSEG 的对比：** 属于板块轮动中的日常比稿，对长期叙事影响有限。\n\n---\n\n## 2. 背离检测 (Divergence Detection)\n\n*   **价格与新闻的一致性：** 近期（2月10日后）利好频传（Jefferies 上调），股价从 $162 左右稳步回升至 $171.49，这表明**市场正在积极吸收利好**，尚未出现“利好出尽”的疲态或熊气竭尽的背离。\n*   **技术面阻力：** 尽管股价已站上 SMA20 ($158.17) 和 SMA50 ($162.84)，但仍低于 **SMA200 ($179.81)**。这意味着长线趋势仍处于修复期。\n*   **结论：** 目前处于“良性反弹”阶段。若股价触及 $180 (SMA200) 时出现放量滞涨，则需警惕短期“叙事陷阱”。\n\n---\n\n## 3. 情绪评分 (Logic Score)\n\n### **评分：7.8 / 10**\n\n**评分逻辑：**\n*   **加分项 (+2.0)：** 顶级投行（高盛、Jefferies）的强力加持，提供了极高的叙事可信度。\n*   **加分项 (+1.5)：** AI 电力需求的宏观叙事具有长期可持续性，非短期泡沫。\n*   **减分项 (-0.7)：** 股价仍受制于 200 日均线 ($179.81) 的技术压制，且 RSI (60.76) 接近超买区。\n*   **持仓反馈：** 用户当前的正股成本 ($157.38) 和卖出的 Put ($145) 均处于极佳的安全垫位置。\n\n---\n\n## 4. 仓位策略诊断\n\n*   **当前头寸分析：**\n    *   **正股 (100股)：** 盈利 +8.96%，成本价低于目前所有短期均线，建议继续持有。\n    *   **空头看跌期权 (-VST260227P145)：** 盈利 +73.30%。该期权将于财报后到期，目前行权价 ($145) 远低于 6 个月低点 ($138.53) 附近的强支撑位，风险极低。\n*   **风险提示：** ATR 为 7.79，每周波动区间约 $17.42。由于财报临近，波动率（IV）可能攀升。\n\n---\n\n## 5. 关键事件节点 (Next Major Date)\n\n*   **下一次重大事件：财报发布会**\n*   **预计日期：2026年2月26日** (根据 2月6日新闻提到的“20天后”推算)。\n*   **注：** 您的期权持仓 VST260227P145 将在财报发布后的次日到期，届时 IV 崩塌（IV Crush）将加速您的期权权利金归零，对空头头寸有利。\n\n---\n\n**引述新闻来源：**\n1. [Jefferies Upgrades Vistra - 2026-02-14](https://www.msn.com/en-us/money/topstocks/vistra-corp-vst-upgraded-by-jefferies-following-improved-riskreward-profile/ar-AA1WkuWj)\n2. [Goldman Sachs Bullish Update - 2026-02-11](https://www.msn.com/en-us/money/markets/analyst-sentiment-on-vistra-vst-remains-strong-following-goldman-sachs-bullish-update/ar-AA1W9Kd9)\n3. [AI Power Play Narrative - 2026-02-17](https://rickorford.com/vistra-stock-the-ai-power-play-wall-street-is-betting-on/)",
+      "news": [
+        {
+          "title": "Vistra Stock: The AI Power Play Wall Street Is Betting On",
+          "link": "https://rickorford.com/vistra-stock-the-ai-power-play-wall-street-is-betting-on/",
+          "snippet": "Vistra already surged over 250 percent, but AI driven power demand could still reshape its future. The real question is whether this stock is just getting started or running into peak optimism.",
+          "source": "RickOrford.com",
+          "date": "2026-02-17T10:17:00+00:00"
+        },
+        {
+          "title": "Vistra Corp. (VST) Upgraded by Jefferies Following Improved Risk/Reward Profile",
+          "link": "https://www.msn.com/en-us/money/topstocks/vistra-corp-vst-upgraded-by-jefferies-following-improved-riskreward-profile/ar-AA1WkuWj",
+          "snippet": "Vistra Corp. (NYSE:VST) is one of the best upside stocks to invest in right now. On February 10, Jefferies analyst Julien Dumoulin-Smith upgraded Vistra from Hold to Buy and raised the price target to $203 from $191.",
+          "source": "Insider Monkey",
+          "date": "2026-02-14T06:20:15+00:00"
+        },
+        {
+          "title": "Assessing Vistra (VST) Valuation After Choppy Returns And A Rich Earnings Multiple",
+          "link": "https://finance.yahoo.com/news/assessing-vistra-vst-valuation-choppy-161159598.html",
+          "snippet": "Why Vistra Is On Investors' Radar Today Vistra (VST) has drawn fresh attention after recent share moves and mixed return figures over the past year, prompting investors to reassess how its current valuation lines up with its fundamentals.",
+          "source": "Yahoo Finance",
+          "date": "2026-02-11T17:19:00+00:00"
+        },
+        {
+          "title": "Jefferies upgrades Vistra (VST)",
+          "link": "https://www.msn.com/en-us/money/top-stocks/jefferies-upgrades-vistra-vst/ar-AA1W6FRf",
+          "snippet": "Fintel reports that on February 10, 2026, Jefferies upgraded their outlook for Vistra (NYSE:VST) from Hold to Buy. Analyst Price Forecast Suggests 48.59% Upside As of February 4, 2026, the average one-year price target for Vistra is $227.",
+          "source": "Fintel",
+          "date": "2026-02-10T22:46:52+00:00"
+        },
+        {
+          "title": "Analyst Sentiment on Vistra (VST) Remains Strong Following Goldman Sachs' Bullish Update",
+          "link": "https://www.msn.com/en-us/money/markets/analyst-sentiment-on-vistra-vst-remains-strong-following-goldman-sachs-bullish-update/ar-AA1W9Kd9",
+          "snippet": "Vistra Corp. (NYSE:VST) is one of the best performing S&P 500 stocks in the last five years. More than 90% of analysts are bullish on Vistra Corp. (NYSE:VST) as of February 6, 2026, with a consensus price target of $232,",
+          "source": "Insider Monkey",
+          "date": "2026-02-11T19:26:17+00:00"
+        },
+        {
+          "title": "Here's Why Vistra Corp. (VST) Fell More Than Broader Market",
+          "link": "https://www.nasdaq.com/articles/heres-why-vistra-corp-vst-fell-more-broader-market",
+          "snippet": "Vistra Corp. (VST) closed at $162.58 in the latest trading session, marking a -1.85% move from the prior day. The stock's performance was behind the S&P 500's daily loss of 0.13%. Elsewhere, the Dow ...",
+          "source": "Nasdaq",
+          "date": "2026-01-29T00:00:00+00:00"
+        },
+        {
+          "title": "4VST : Vistra Unusual Options Activity For February 06",
+          "link": "https://www.benzinga.com/insights/options/26/02/50447099/vistra-unusual-options-activity-for-february-06",
+          "snippet": "Anticipated earnings release is in 20 days. 5 market experts have recently issued ratings for this stock, with a consensus target price of $244.8. An analyst from Wells Fargo has decided to maintain ...",
+          "source": "Benzinga",
+          "date": "2026-02-06T14:37:32+00:00"
+        },
+        {
+          "title": "Vistra vs. Public Service Enterprise: Which Utility Stock Stands Out?",
+          "link": "https://www.nasdaq.com/articles/vistra-vs-public-service-enterprise-which-utility-stock-stands-out",
+          "snippet": "The companies belonging to the Zacks Utility-Electric Power industry present an attractive investment case, underpinned by stable cash flows and predictable earnings from regulated business models.",
+          "source": "Nasdaq",
+          "date": "2026-01-30T00:00:00+00:00"
+        }
+      ],
+      "chart_path": "docs/website/public/daily/johnzhang/charts/2026-02-17/VST_chart.png"
+    }
+  ],
+  "global_summary": "# 资深投资组合经理 (PM) 策略周报\n**系统日期：** 2026年02月17日\n**核心逻辑：** 风险降维、去杠杆化、利用技术性背离补齐蓝筹。\n\n---\n\n### 一、 账户全盘诊断：严重的仓位失衡警告\n\n目前账户面临**极高的集中度风险**。\n1.  **AMD 风险敞口过载**：AMD 占账户总资产（NAV）的 **51.63%**，严重违反了“单一标的不超过 30%”的纪律（Decision Parameters）。此外，AMD 的逻辑评分仅为 **4.5**，属于“减持/退出”区间，必须立即干预。\n2.  **现金储备充足**：$5.75万现金提供了极佳的调仓空间，无需担忧流动性。\n3.  **持仓逻辑背离**：GOOGL 处于技术性极度超卖（RSI 23），而 VST 处于基本面强劲的修复期（Score 7.8），两者的配置权重有待优化。\n\n---\n\n### 二、 可操作交易计划 (Actionable Trading Plan)\n\n#### 1. 核心行动：AMD 降权（强制减持）\n*   **状态**：逻辑评分 4.5（跌破 5 分关键线），且正股浮亏 6.00%。\n*   **操作**：**卖出 300 股 AMD 正股**。\n*   **目的**：\n    *   将 AMD 仓位比例从 51.6% 降至约 **25%-28%**，符合 30% 的合规红线。\n    *   保留 300 股以覆盖现有的 -1.0 备兑看涨期权（Covered Call），同时释放约 $6.22 万现金。\n*   **期权处理**：维持 -AMD260313C230 仓位，目前盈利 39.8%，让时间价值进一步衰减。\n\n#### 2. 战术增持：GOOGL 抄底（利用超卖）\n*   **状态**：逻辑评分 6.8，RSI 23.43（极度超卖），基本面云业务增长 48%。\n*   **操作**：**买入 11 股 GOOGL**，将总持仓凑整至 150 股。\n*   **目的**：利用“看跌衰竭”机会，在 $305 附近加仓，摊薄成本，博取向 SMA50 ($321) 的回归反弹。\n\n#### 3. 观察持有：VST 财报防御\n*   **状态**：逻辑评分 7.8（高分），RSI 60 偏高。\n*   **操作**：**静默持有**。\n*   **目的**：VST 距离财报（2月26日）较近。现有的 -1.0 P145 卖权盈利已达 73%，建议持有至到期或盈利 90% 后平仓。不要在财报前盲目追高。\n\n---\n\n### 三、 If-Then 压力测试方案（预案准备）\n\n*   **场景 A：AI 板块持续杀估值（市场继续下探）**\n    *   **If**: GOOGL 跌破 $290 支撑，且 AMD 跌向 SMA200 ($181)。\n    *   **Then**: 停止所有买入。保持高现金比例（预计减持 AMD 后现金将超过 $11万）。**严禁**在 AMD 逻辑评分低于 5 的情况下“越跌越买”。\n\n*   **场景 B：技术性超卖引发暴力反弹（空头挤压）**\n    *   **If**: GOOGL 快速收复 $320 (SMA50)，VST 突破 $180 (SMA200)。\n    *   **Then**: 针对 VST 现有的正股利润进行“移动止盈”，将止盈位上移至 $165。AMD 剩余的 300 股继续观察，若评分回升至 5 以上再考虑重新入场。\n\n*   **场景 C：VST 财报大幅利好/利空**\n    *   **If**: 2月26日财报后股价跳空高开。\n    *   **Then**: 立即平仓 VST Put 锁定剩余利润，同时卖出部分正股以锁定 15% 以上的单边收益。\n\n---\n\n### 四、 最终执行指令摘要 (Summary)\n\n1.  **SELL**: 300 股 AMD (市价/限价 $207+)，腾出约 25% 的组合空间。\n2.  **BUY**: 11 股 GOOGL (限价 $305 左右)，补齐至 150 股，利用 RSI 超卖。\n3.  **HOLD**: VST 正股与 Put 仓位，等待财报后的 IV 崩塌。\n4.  **CASH**: 调整后现金预计维持在 $11.5万 左右，占 NAV 约 45%，处于防守反击的“舒适区”。\n\n**PM 寄语**：*“目前的账户最大的敌人不是亏损，而是 AMD 的单点故障风险。先截断风险，再谈利润。”*"
+}
