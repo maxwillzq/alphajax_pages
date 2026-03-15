@@ -21,7 +21,7 @@
 
 ### 📅 最新每日报告
 <!-- LATEST_DAILY -->
-**[2026-03-14](daily/johnzhang/2026-03-14.md)** - 最新每日报告
+**[2026-03-15](daily/johnzhang/2026-03-15.md)** - 最新每日报告
 
 ### 📊 最新周报
 <!-- LATEST_WEEKLY -->
