@@ -1,0 +1,1030 @@
+{
+  "version": "3.0",
+  "timestamp": "2026-03-17T14:42:02.557660",
+  "username": "johnzhang",
+  "portfolio_data": {
+    "AMD": "正股持仓: 600.0股, 成本价: $220.54, 占账户比例: 50.56%, 总盈亏: -9.22%; 期权持仓: 标的 AMD, 符号 -AMD260313P200, 数量: -1.0, 描述: AMD MAR 13 2026 $200 PUT, 占账户比例: -0.34%, 总盈亏: -58.28%",
+    "AMZN": "正股持仓: 20.0股, 成本价: $201.61, 占账户比例: 1.77%, 总盈亏: +4.16%",
+    "GOOGL": "正股持仓: 160.0股, 成本价: $268.53, 占账户比例: 20.99%, 总盈亏: +16.10%"
+  },
+  "available_cash": 64353.55,
+  "candidates": [
+    {
+      "ticker": "GOOGL",
+      "current_price": 307.1600036621094,
+      "support": 235.5200485827795,
+      "resistance": 348.7544814019383,
+      "rsm_score": null,
+      "is_portfolio": true,
+      "bias": null,
+      "bias_score": 3,
+      "analysis": null,
+      "news": [
+        {
+          "title": "Alphabet (GOOGL) Stock: Google Turns to Chinese Suppliers for AI Cooling Solutions",
+          "link": "https://blockonomi.com/alphabet-googl-stock-google-turns-to-chinese-suppliers-for-ai-cooling-solutions/",
+          "snippet": "Google scouts Chinese suppliers like Envicool for liquid cooling equipment as AI data centers strain global supply. GOOGL stock rated Strong Buy by analysts.",
+          "source": "Blockonomi",
+          "date": "2026-03-14T14:42:04+00:00"
+        },
+        {
+          "title": "Alphabet (GOOGL) Sees Optimistic Coverage From Analysts",
+          "link": "https://www.insidermonkey.com/blog/alphabet-googl-sees-optimistic-coverage-from-analysts-1718213/",
+          "snippet": "Technology giant Alphabet Inc. (NASDAQ:GOOGL)’s shares were on banking giant Wells Fargo’s radar on February 23rd.",
+          "source": "Insider Monkey",
+          "date": "2026-03-10T14:42:04+00:00"
+        },
+        {
+          "title": "Google (GOOGL) closes above ___ on March 16?",
+          "link": "https://finance.yahoo.com/markets/prediction/event/googl-close-above-on-march-16-2026/",
+          "snippet": "Live pricing, charts, and volume for the Google (GOOGL) closes above ___ on March 16? prediction market from Yahoo Finance.",
+          "source": "Yahoo Finance",
+          "date": "2026-02-28T14:42:04+00:00"
+        },
+        {
+          "title": "Prediction: Alphabet Stock Will Crush Palantir Stock Over the Next 5 Years",
+          "link": "https://www.theglobeandmail.com/investing/markets/stocks/GOOGL/pressreleases/784389/prediction-alphabet-stock-will-crush-palantir-stock-over-the-next-5-years/",
+          "snippet": "Both Palantir Technologies (NASDAQ: PLTR) and Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) are great technology companies with impressive business momentum. But they have some key diff",
+          "source": "The Globe and Mail",
+          "date": "2026-03-17T03:29:00+00:00"
+        },
+        {
+          "title": "Nvidia Stock vs. Micron Stock: Billionaires Buy One and Sell the Other",
+          "link": "https://www.theglobeandmail.com/investing/markets/stocks/GOOGL/pressreleases/787271/nvidia-stock-vs-micron-stock-billionaires-buy-one-and-sell-the-other/",
+          "snippet": "Micron shares have added 50% while Nvidia shares have fallen 3% since the fourth quarter ended in December, and Wall Street now views Nvidia as the more attractive stock. Here's what investors should know about Nvidia and Micron.",
+          "source": "The Globe and Mail",
+          "date": "2026-03-17T09:14:00+00:00"
+        },
+        {
+          "title": "Adobe Q1 Earnings Call Highlights",
+          "link": "https://finance.yahoo.com/news/adobe-q1-earnings-call-highlights-224642194.html",
+          "snippet": "Adobe (NASDAQ:ADBE) executives used the company’s fiscal first-quarter 2026 earnings call to highlight an AI-driven product transition that management said is expanding user adoption and enterprise ...",
+          "source": "Yahoo Finance",
+          "date": "2026-03-13T14:42:05+00:00"
+        },
+        {
+          "title": "Alphabet (GOOGL) surpasses market returns: Some facts worth knowing",
+          "link": "https://www.msn.com/en-us/money/topstocks/alphabet-googl-surpasses-market-returns-some-facts-worth-knowing/ar-AA1YMf8t?ocid=BingNewsVerp",
+          "snippet": "Alphabet (GOOGL) closed the most recent trading day at $305.56, moving +1.09% from the previous trading session. This change outpaced the S&P 500's 1.01% gain on the day. On the other hand, the Dow ...",
+          "source": "Zacks Investment Research on MSN",
+          "date": "2026-03-01T14:42:05+00:00"
+        },
+        {
+          "title": "Broadcom earnings are out after market close. What top analysts are expecting",
+          "link": "https://www.cnbc.com/2026/03/04/broadcom-earnings-are-out-after-market-close-what-top-analysts-are-expecting.html",
+          "snippet": "Analysts from firms including Morgan Stanley, UBS and JPMorgan are notably bullish on Broadcom's TPU business.",
+          "source": "CNBC",
+          "date": "2026-03-05T14:42:05+00:00"
+        }
+      ],
+      "chart_path": "docs/website/public/daily/johnzhang/charts/2026-03-17/GOOGL_chart.png"
+    },
+    {
+      "ticker": "VRT",
+      "current_price": 266.4032897949219,
+      "support": 132.63550308843176,
+      "resistance": 276.7799987792969,
+      "rsm_score": null,
+      "is_portfolio": false,
+      "bias": null,
+      "bias_score": 3,
+      "analysis": null,
+      "news": [
+        {
+          "title": "Vertiv Stock Just Spiked Higher. Wall Street Pros Say It's Not Done",
+          "link": "https://247wallst.com/investing/2026/03/17/vertiv-stock-just-spiked-higher-wall-street-pros-say-its-not-done/",
+          "snippet": "Shares of cooling infrastructure play Vertiv (NYSE:VRT) are starting to get hot again, now up more than 50% year to date. Undoubtedly, the stock might look a bit bubbly today, especially after the latest parabolic move.",
+          "source": "24/7 Wall St.",
+          "date": "2026-03-17T14:08:00+00:00"
+        },
+        {
+          "title": "Litelink Technologies stock rises after Stifel notes Marvell demo",
+          "link": "https://www.investing.com/news/analyst-ratings/litelink-technologies-stock-rises-after-stifel-notes-marvell-demo-93CH-4563797",
+          "snippet": "Investing.com - Stifel commented on a joint demonstration by Litelink Technologies and Marvell Technology at the Optical Fiber Communication Conference. The announcement comes as Litelink shares have surged 879% over the past year to $624.84, though InvestingPro data suggests the stock is currently overvalued relative to its Fair Value.",
+          "source": "Investing.com",
+          "date": "2026-03-16T20:26:00+00:00"
+        },
+        {
+          "title": "The 'Cramer curse'? Here's what's happening with Vertiv stock today",
+          "link": "https://www.msn.com/en-us/money/news/the-cramer-curse-heres-whats-happening-with-vertiv-stock-today/ar-AA1YL0Qu?ocid=BingNewsVerp",
+          "snippet": "Vertiv Holdings Co VRT shares are trading higher on Monday. CNBC's Jim Cramer posted on X, suggesting the company’s stock is ...",
+          "source": "Benzinga on MSN",
+          "date": "2026-02-25T14:42:04+00:00"
+        },
+        {
+          "title": "Vertiv Holdings Co. (VRT) outperforms broader market: What you need to know",
+          "link": "https://www.msn.com/en-us/money/topstocks/vertiv-holdings-co-vrt-outperforms-broader-market-what-you-need-to-know/ar-AA1YLSVw?ocid=BingNewsVerp",
+          "snippet": "In the latest close session, Vertiv Holdings Co. (VRT) was up +2.26% at $264.74. The stock outperformed the S&P 500, which registered a daily gain of 1.01%. At the same time, the Dow added 0.83%, and ...",
+          "source": "Zacks Investment Research on MSN",
+          "date": "2026-03-01T14:42:04+00:00"
+        },
+        {
+          "title": "Banks launch EA debt sales, Forgent Power stock soars on first earnings",
+          "link": "https://uk.finance.yahoo.com/video/banks-launch-ea-debt-sales-172512516.html",
+          "snippet": "Yahoo Finance's John Hyland tracks today's top moving stocks and biggest market stories in this Market Minute. US stocks (^DJI, ^GSPC, ^IXIC) are rallying as oil prices (BZ=F, CL=F) dip in Monday's ...",
+          "source": "Yahoo Finance UK",
+          "date": "2026-02-24T14:42:04+00:00"
+        },
+        {
+          "title": "What's Behind Vertiv Stock's Triple-Digit Growth",
+          "link": "https://www.forbes.com/sites/greatspeculations/2026/03/05/whats-behind-vertiv-stocks-triple-digit-growth/",
+          "snippet": "From March 2025 to March 2026, Vertiv (VRT) surged 191%, driven by an increase in AI-driven orders and a doubled backlog, which enhanced revenue visibility. However, following this significant rise, the stock has recently retreated from its peak—suggesting a market pause despite robust earnings and credible guidance moving forward.",
+          "source": "Forbes",
+          "date": "2026-03-05T13:31:00+00:00"
+        },
+        {
+          "title": "Vertiv (VRT) Stock Drops 3% as Heavy Volume Overshadows Strong Earnings and Analyst Upgrades",
+          "link": "https://blockonomi.com/vertiv-vrt-stock-drops-3-as-heavy-volume-overshadows-strong-earnings-and-analyst-upgrades/",
+          "snippet": "Vertiv (VRT) stock fell 3.1% Friday on high volume despite beating Q4 earnings estimates. Analysts upgraded targets to $290 while insiders sold $104M.",
+          "source": "Blockonomi",
+          "date": "2026-03-07T14:23:00+00:00"
+        }
+      ],
+      "chart_path": "docs/website/public/daily/johnzhang/charts/2026-03-17/VRT_chart.png"
+    },
+    {
+      "ticker": "META",
+      "current_price": 629.0900268554688,
+      "support": 580.2794874440681,
+      "resistance": 788.9471575257752,
+      "rsm_score": null,
+      "is_portfolio": false,
+      "bias": null,
+      "bias_score": 3,
+      "analysis": null,
+      "news": [
+        {
+          "title": "Nebius stock pops on a huge new AI deal with Meta",
+          "link": "https://www.msn.com/en-us/money/topstocks/nebius-stock-pops-on-a-huge-new-ai-deal-with-meta/ar-AA1YJcWn",
+          "snippet": "Nebius stock was soaring as it announced a major expansion of its cloud-computing deal with Meta Platforms.",
+          "source": "Barron's",
+          "date": "2026-03-16T18:01:00+00:00"
+        },
+        {
+          "title": "Meta stock climbs nearly 3% on report of planned layoffs to offset AI spending",
+          "link": "https://www.msn.com/en-us/news/other/meta-stock-climbs-nearly-3-on-report-of-planned-layoffs-to-offset-ai-spending/ar-AA1YJcMS",
+          "snippet": "Meta is planning capital expenditure of up to $135 billion in AI-related costs in 2026, which raised investors' fears around unsustainable spending.",
+          "source": "CNBC",
+          "date": "2026-03-16T12:05:00+00:00"
+        },
+        {
+          "title": "Meta Stock Plummets As 20% Layoffs Loom: What Investors Need To Know",
+          "link": "https://www.forbes.com/sites/petercohan/2026/03/14/meta-stock-plummets-as-massive-20-layoffs-loom-what-investors-need-to-know/",
+          "snippet": "Meta plans to spend $600 billion on AI, yet lags AI chatbot rivals despite repeated efforts to catch up. If AI helps its advertising grow faster, Meta's stock could be a bargain",
+          "source": "Forbes",
+          "date": "2026-03-14T18:16:00+00:00"
+        },
+        {
+          "title": "Why Meta Platforms Is A Better Pick Than Google Stock",
+          "link": "https://www.forbes.com/sites/greatspeculations/2026/03/16/why-meta-platforms-is-a-better-pick-than-google-stock/",
+          "snippet": "For investors seeking sector exposure, this combination of lower cost and higher momentum could make META a more favorable pick than GOOGL.",
+          "source": "Forbes",
+          "date": "2026-03-16T14:23:00+00:00"
+        },
+        {
+          "title": "Meta vs. Netflix: One of These Stocks Will Double — and One Will Disappoint",
+          "link": "https://www.aol.com/finance/meta-vs-netflix-one-stocks-131524829.html",
+          "snippet": "I'm of the view the stock market is becoming much more bifurcated. Stock pickers may outperform in such an environment, with investors seemingly paying closer attention to fundamentals than I've seen in some time.",
+          "source": "AOL",
+          "date": "2026-03-17T14:16:00+00:00"
+        },
+        {
+          "title": "Lithium Americas Stock on Thin Ice With Earnings Report in Question",
+          "link": "https://pro.thestreet.com/trade-ideas/lithium-americas-stock-on-thin-ice-with-earnings-report-in-question",
+          "snippet": "\"Stocks Under $10\" name and struggling Sarge-folio holding Lithium Americas (LAC) is set to report...",
+          "source": "TheStreet.com",
+          "date": "2026-03-17T14:05:06+00:00"
+        },
+        {
+          "title": "Meta’s AI push could trigger 20% layoffs of its workforce",
+          "link": "https://finance.yahoo.com/news/meta-ai-push-could-trigger-184328937.html",
+          "snippet": "Meta, whose workforce totaled 79,000 at the end of December, said on Friday...about theoretical...",
+          "source": "USA TODAY· via Yahoo Finance",
+          "date": "2026-03-16T18:42:06+00:00"
+        },
+        {
+          "title": "Meta vs. Netflix: One of These Stocks Will Double — and One Will Disappoint",
+          "link": "https://finance.yahoo.com/news/meta-vs-netflix-one-stocks-131524859.html",
+          "snippet": "I’m of the view the stock market is becoming much more bifurcated. Stock pickers may outperform in s...",
+          "source": "24/7 Wall St.· via Yahoo Finance",
+          "date": "2026-03-17T13:42:06+00:00"
+        }
+      ],
+      "chart_path": "docs/website/public/daily/johnzhang/charts/2026-03-17/META_chart.png"
+    },
+    {
+      "ticker": "TSM",
+      "current_price": 342.60528564453125,
+      "support": 257.28544459397096,
+      "resistance": 390.2099914550781,
+      "rsm_score": null,
+      "is_portfolio": false,
+      "bias": null,
+      "bias_score": 3,
+      "analysis": null,
+      "news": [
+        {
+          "title": "Taiwan Semiconductor (TSM) Stock Soars 83% — Bernstein Says Rally Isn't Over Yet",
+          "link": "https://blockonomi.com/taiwan-semiconductor-tsm-stock-soars-83-bernstein-says-rally-isnt-over-yet/",
+          "snippet": "Taiwan Semiconductor (TSM) stock upgraded by Bernstein to NT$2,200 target. AI revenue expected to surpass 20% by 2026 amid $45B expansion plan.",
+          "source": "Blockonomi",
+          "date": "2026-03-16T10:33:00+00:00"
+        },
+        {
+          "title": "Better Chip Stock to Buy: Micron or Taiwan Semiconductor?",
+          "link": "https://www.msn.com/en-us/money/savingandinvesting/better-chip-stock-to-buy-micron-or-taiwan-semiconductor/ar-AA1YKMM1",
+          "snippet": "Micron and Taiwan Semiconductor have been successful stock picks recently.",
+          "source": "The Motley Fool",
+          "date": "2026-03-16T16:00:00+00:00"
+        },
+        {
+          "title": "TSMC: Recent Fears Make This Another Bargain Buying Opportunity",
+          "link": "https://seekingalpha.com/article/4880959-tsmc-recent-fears-make-this-another-bargain-buying-opportunity",
+          "snippet": "TSMC (TSM) remains a top AI chip pick: capacity is tight, and the moat is strong amid Samsung/Intel threats and China-Taiwan risk. Read more macro analysis here.",
+          "source": "Seeking Alpha",
+          "date": "2026-03-11T15:29:00+00:00"
+        },
+        {
+          "title": "What's going on with Taiwan Semiconductor stock Tuesday?",
+          "link": "https://www.msn.com/en-us/money/general/what-s-going-on-with-taiwan-semiconductor-stock-tuesday/ar-AA1YPLIM",
+          "snippet": "Taiwan Semiconductor Manufacturing Company Ltd. TSM is riding the AI boom to deepen its market lead while navigating rising global risks. AI Boom Strengthens Taiwan Semiconductor's Market Leadership Taiwan Semiconductor has strengthened its dominance in the global chip market,",
+          "source": "Benzinga",
+          "date": "2026-03-17T11:57:48+00:00"
+        },
+        {
+          "title": "AMD vs. TSMC: Which Chip Stock Actually Delivers the Smarter Return in 2026?",
+          "link": "https://247wallst.com/investing/2026/03/13/amd-vs-tsmc-which-chip-stock-actually-delivers-the-smarter-return-in-2026/",
+          "snippet": "Both Taiwan Semiconductor (NASDAQ:TSM) and Advanced Micro Devices (NASDAQ:AMD | AMD Price Prediction) have been great long-term picks for investors. That's a fact most investors are well aware of. That said,",
+          "source": "24/7 Wall St.",
+          "date": "2026-03-13T17:56:00+00:00"
+        },
+        {
+          "title": "Why an Evercore analyst is so bullish on Nvidia's stock ahead of earnings",
+          "link": "https://www.marketwatch.com/livecoverage/nvidia-earnings-stock-results-q4-guidance-ai/card/why-an-evercore-analyst-is-so-bullish-on-nvidia-s-stock-ahead-of-earnings-nEj7XRZ8FsfE96TuOXRx",
+          "snippet": "Evercore ISI's Mark Lipacis has a tactical outperform call on Nvidia's stock, suggesting he thinks earnings will be a positive near-term catalyst. He's upbeat for a few reasons, including \"Blackwell demand continuing to outstrip supply.",
+          "source": "MarketWatch",
+          "date": "2026-02-25T15:12:00+00:00"
+        },
+        {
+          "title": "Here's why Tesla stock is rising today as Musk teases Terafab launch",
+          "link": "https://invezz.com/news/2026/03/16/heres-why-tesla-stock-is-rising-today-as-musk-teases-terafab-launch/",
+          "snippet": "Tesla stock rises after Musk teases Terafab AI chip factory launch. Terafab aims to secure chips for Tesla's AI cars and robotics. EV headwinds push Tesla to expand deeper into AI infrastructure.",
+          "source": "Invezz",
+          "date": "2026-03-16T15:25:00+00:00"
+        },
+        {
+          "title": "MU vs. TSM: Which Semiconductor Stock Has the Edge Right Now?",
+          "link": "https://www.nasdaq.com/articles/mu-vs-tsm-which-semiconductor-stock-has-edge-right-now",
+          "snippet": "Micron Technology, Inc. MU and Taiwan Semiconductor Manufacturing Company TSM are key players in the artificial intelligence (AI) semiconductor ecosystem, benefiting from surging demand for data ...",
+          "source": "Nasdaq",
+          "date": "2026-02-18T00:00:00+00:00"
+        }
+      ],
+      "chart_path": "docs/website/public/daily/johnzhang/charts/2026-03-17/TSM_chart.png"
+    },
+    {
+      "ticker": "AVGO",
+      "current_price": 323.0,
+      "support": 295.29998779296875,
+      "resistance": 413.81818763503134,
+      "rsm_score": null,
+      "is_portfolio": false,
+      "bias": null,
+      "bias_score": 3,
+      "analysis": null,
+      "news": [
+        {
+          "title": "Broadcom (AVGO) Witnessing Continued Momentum in AI Semiconductor Segment",
+          "link": "https://www.msn.com/en-us/money/markets/broadcom-avgo-witnessing-continued-momentum-in-ai-semiconductor-segment/ar-AA1YL0AZ",
+          "snippet": "Broadcom Incorporated (NASDAQ:AVGO) is one of the 15 AI stocks that are quietly making investors rich. As of the March 11 closing, Broadcom Incorporated (NASDAQ:AVGO) carried a strongly bullish consensus sentiment.",
+          "source": "Insider Monkey",
+          "date": "2026-03-16T20:10:00+00:00"
+        },
+        {
+          "title": "Is Broadcom Inc. (AVGO) A Good Stock To Buy Now?",
+          "link": "https://www.msn.com/en-us/money/topstocks/is-broadcom-inc-avgo-a-good-stock-to-buy-now/ar-AA1YHfBt",
+          "snippet": "Is AVGO a good stock to buy? We came across a bullish thesis on Broadcom Inc. on Investomine's Substack. In this article, we will summarize the bulls' thesis on AVGO. Broadcom Inc.'s share was trading at $345.",
+          "source": "Insider Monkey",
+          "date": "2026-03-16T00:56:57+00:00"
+        },
+        {
+          "title": "Broadcom (AVGO) Sees Fresh Analyst Optimism",
+          "link": "https://www.msn.com/en-us/money/markets/broadcom-avgo-sees-fresh-analyst-optimism/ar-AA1YMU7U",
+          "snippet": "Broadcom Incorporated (NASDAQ:AVGO) is one of the AI Stocks That Will Skyrocket. Investment bank Citi raised Broadcom Incorporated (NASDAQ:AVGO)'s share price target to $475 from $458 and kept a Buy rating on the stock on March 5th.",
+          "source": "Insider Monkey",
+          "date": "2026-03-17T06:56:31+00:00"
+        },
+        {
+          "title": "Brokers suggest investing in Broadcom Inc. (AVGO): Read this before placing a bet",
+          "link": "https://www.msn.com/en-us/money/markets/brokers-suggest-investing-in-broadcom-inc-avgo-read-this-before-placing-a-bet/ar-AA1YKEka",
+          "snippet": "Investors often turn to recommendations made by Wall Street analysts before making a Buy, Sell, or Hold decision about a stock. While media reports about rating changes by these brokerage-firm employed (or sell-side) analysts often affect a stock's price,",
+          "source": "Zacks Investment Research",
+          "date": "2026-03-16T13:30:04+00:00"
+        },
+        {
+          "title": "Better Artificial Intelligence (AI) Stock: Broadcom vs. AMD",
+          "link": "https://www.aol.com/finance/better-artificial-intelligence-ai-stock-155000150.html",
+          "snippet": "AMD and Broadcom have been in impressive form on the stock market in the past year due to the growing adoption of their AI chips by hyperscalers.",
+          "source": "AOL",
+          "date": "2026-03-12T22:51:00+00:00"
+        },
+        {
+          "title": "Is AVGO Stock The Ultimate AI Play?",
+          "link": "https://www.forbes.com/sites/greatspeculations/2026/03/05/is-avgo-stock-the-ultimate-ai-play/",
+          "snippet": "The stock is currently priced around $310, significantly lower than its December 2025 peak of $413. Despite the decline, this remains a high-risk investment in",
+          "source": "Forbes",
+          "date": "2026-03-05T10:00:00+00:00"
+        },
+        {
+          "title": "Broadcom (AVGO) Stock Soars on Massive AI Revenue Forecast and Strong Earnings",
+          "link": "https://blockonomi.com/broadcom-avgo-stock-soars-on-massive-ai-revenue-forecast-and-strong-earnings/",
+          "snippet": "Broadcom (AVGO) stock surges 7% after forecasting $100B in AI chip sales by 2027 and delivering Q1 revenue of $19.3B, beating Wall Street expectations.",
+          "source": "Blockonomi",
+          "date": "2026-03-05T11:23:00+00:00"
+        },
+        {
+          "title": "Broadcom: Set For Another Double-Beat Next Week (Earnings Preview)",
+          "link": "https://seekingalpha.com/article/4873792-broadcom-set-for-another-double-beat-next-week-earnings-preview",
+          "snippet": "After two of my most recent neutrally rated updates on Broadcom Inc. (AVGO) in September and November 2025, the stock is down by 1% and 6.6%, respectively, while the market has been generally trending up. We're rapidly approaching the firm's Q1 FY2026 ...",
+          "source": "Seeking Alpha",
+          "date": "2026-02-24T12:04:00+00:00"
+        }
+      ],
+      "chart_path": "docs/website/public/daily/johnzhang/charts/2026-03-17/AVGO_chart.png"
+    },
+    {
+      "ticker": "AMD",
+      "current_price": 197.9199981689453,
+      "support": 149.85000610351562,
+      "resistance": 267.0799865722656,
+      "rsm_score": null,
+      "is_portfolio": true,
+      "bias": null,
+      "bias_score": 3,
+      "analysis": null,
+      "news": [
+        {
+          "title": "AMD Outlook: Will the Stock Rebound as Valuation Remains Compelling?",
+          "link": "https://finance.yahoo.com/news/amd-outlook-stock-rebound-valuation-202444121.html",
+          "snippet": "Strong demand trends, an expanding product portfolio, and an improving valuation indicate solid upside potential for AMD stock.",
+          "source": "Yahoo Finance",
+          "date": "2026-03-17T00:18:00+00:00"
+        },
+        {
+          "title": "Dear AMD Stock Fans, Mark Your Calendars for March 18",
+          "link": "https://finance.yahoo.com/news/dear-amd-stock-fans-mark-194559289.html",
+          "snippet": "With shares of AMD now consolidating around the $200 level, the question is where will AMD stock head from here. Let's dive into one key catalyst some investors are pointing to as a potential headwind or tailwind for AMD,",
+          "source": "Yahoo Finance",
+          "date": "2026-03-17T00:57:00+00:00"
+        },
+        {
+          "title": "Is AMD Stock Overvalued?",
+          "link": "https://www.forbes.com/sites/greatspeculations/2026/03/11/is-amd-stock-overvalued/",
+          "snippet": "AMD stock dropped 34.3% from a peak of $58.90 on February 19, 2020, to $38.71 on March 16, 2020, in contrast to a peak-to-trough decline of 33.9% for the S&P 500. AMD stock declined 91.2% from a peak of $20.35 on January 1, 2007, to $1.80 on November 25, 2008, versus a peak-to-trough drop of 56.8% for the S&P 500.",
+          "source": "Forbes",
+          "date": "2026-03-11T13:03:00+00:00"
+        },
+        {
+          "title": "Here’s Why Elite Hedge Funds Were Buying Advanced Micro Devices (AMD) For 2026",
+          "link": "https://finance.yahoo.com/news/why-elite-hedge-funds-were-140316181.html",
+          "snippet": "Advanced Micro Devices (NASDAQ:AMD) is one of the Cathie Wood 2026 Portfolio: 10 Best Stocks to Buy....",
+          "source": "Insider Monkey· via Yahoo Finance",
+          "date": "2026-03-17T14:03:05+00:00"
+        },
+        {
+          "title": "Advanced Micro Devices, Inc. (AMD) Is a Trending Stock: Facts to Know Before...",
+          "link": "https://finance.yahoo.com/news/advanced-micro-devices-inc-amd-130004827.html",
+          "snippet": "Zacks.com users have recently been watching Advanced Micro (AMD) quite a bit. Thus, it is worth...",
+          "source": "Zacks· via Yahoo Finance",
+          "date": "2026-03-16T14:42:05+00:00"
+        },
+        {
+          "title": "Better Artificial Intelligence Stock: Nvidia vs. AMD",
+          "link": "https://www.msn.com/en-us/money/savingandinvesting/better-artificial-intelligence-stock-nvidia-vs-amd/ar-AA1XyiGO?ocid=BingNewsVerp",
+          "snippet": "AMD has had some impressive headlines lately. Nvidia is still the better AI buy.",
+          "source": "The Motley Fool on MSN",
+          "date": "2026-03-05T14:42:06+00:00"
+        },
+        {
+          "title": "Advanced Micro Devices (AMD) Down 16% Since FQ4 2025 Earnings, Here’s Why",
+          "link": "https://www.msn.com/en-us/money/markets/advanced-micro-devices-amd-down-16-since-fq4-2025-earnings-here-s-why/ar-AA1XEUTZ?ocid=BingNewsVerp",
+          "snippet": "Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the Best IT Stocks to Buy According to Wall Street Analysts. Advanced ...",
+          "source": "Insider Monkey on MSN",
+          "date": "2026-03-06T14:42:06+00:00"
+        },
+        {
+          "title": "AMD Is Just Getting Started (Rating Upgrade)",
+          "link": "https://seekingalpha.com/article/4878413-amd-is-just-getting-started-rating-upgrade",
+          "snippet": "Advanced Micro Devices, Inc. looks undervalued vs peers as AI demand accelerates—click to see analyst outlook on AMD, EPS ...",
+          "source": "Seeking Alpha",
+          "date": "2026-03-05T14:42:06+00:00"
+        }
+      ],
+      "chart_path": "docs/website/public/daily/johnzhang/charts/2026-03-17/AMD_chart.png"
+    },
+    {
+      "ticker": "NVDA",
+      "current_price": 183.05499267578125,
+      "support": 168.39151800406466,
+      "resistance": 212.1667169482571,
+      "rsm_score": null,
+      "is_portfolio": false,
+      "bias": null,
+      "bias_score": 3,
+      "analysis": null,
+      "news": [
+        {
+          "title": "Nvidia Stock Drawing Options Buzz as GTC Kicks Off",
+          "link": "https://www.schaeffersresearch.com/content/options/2026/03/16/nvidia-stock-drawing-options-buzz-as-gtc-kicks-off",
+          "snippet": "Nvidia (NVDA) is kicking off its infamous GTC conference this week, and options traders are responding accordingly ...",
+          "source": "Schaeffer's Investment Research",
+          "date": "2026-02-26T14:42:05+00:00"
+        },
+        {
+          "title": "What Just Happened With Nvidia Stock?",
+          "link": "https://finance.yahoo.com/news/just-happened-nvidia-stock-121429493.html",
+          "snippet": "Nvidia (NASDAQ:NVDA) shares climbed sharply during Monday trading after the company unveiled new AI technology at its annual GTC conference, though the stock later trimmed gains before the close. The broader market also advanced on the day.",
+          "source": "Yahoo Finance",
+          "date": "2026-03-17T13:29:00+00:00"
+        },
+        {
+          "title": "Why Nvidia Stock Just Dropped After Jumping Nearly 5%",
+          "link": "https://finance.yahoo.com/news/why-nvidia-stock-just-dropped-231320898.html",
+          "snippet": "Nvidia (NASDAQ: NVDA) stock finished Monday up just 1.6% despite gaining as much as 4.8% earlier in the day. The S&P 500 gained 1%. Nvidia targets $1 trillion in sales. CEO Jensen",
+          "source": "Yahoo Finance",
+          "date": "2026-03-17T00:20:00+00:00"
+        },
+        {
+          "title": "Nvidia (NVDA) Stock Climbs Following Major Autonomous Vehicle Partnership Announcements",
+          "link": "https://blockonomi.com/nvidia-nvda-stock-climbs-following-major-autonomous-vehicle-partnership-announcements/",
+          "snippet": "Nvidia (NVDA) stock rises as BYD, Nissan, Hyundai join DRIVE Hyperion platform. Uber partnership aims for 28-city robotaxi deployment by 2028.",
+          "source": "Blockonomi",
+          "date": "2026-03-17T11:40:00+00:00"
+        },
+        {
+          "title": "BofA Highlights NVIDIA's (NVDA) AI Chip Leadership and Pipeline",
+          "link": "https://www.msn.com/en-us/money/other/bofa-highlights-nvidia-s-nvda-ai-chip-leadership-and-pipeline/ar-AA1YORFt",
+          "snippet": "NVIDIA Corporation (NASDAQ:NVDA) ranks among the best FAANG+ stocks to invest in right now. On March 9, BofA Securities restated its Buy rating on NVIDIA Corporation (NASDAQ:NVDA) and set a $300 price target ahead of the company's GTC conference.",
+          "source": "Insider Monkey",
+          "date": "2026-03-17T12:08:08+00:00"
+        },
+        {
+          "title": "NVIDIA Stock Surges on AI Dominance as GTC 2026 Unveils New Chips and Partnerships",
+          "link": "https://www.ibtimes.com/nvidia-stock-surges-ai-dominance-gtc-2026-unveils-new-chips-partnerships-3799443",
+          "snippet": "NVIDIA Corporation's stock climbed Monday, closing up 1.65% at $183.22, as investors reacted to fresh announcements from the company's annual GTC conference spotlighting advancements in artificial intelligence hardware and software.",
+          "source": "International Business Times",
+          "date": "2026-03-17T11:10:00+00:00"
+        },
+        {
+          "title": "'Hard to Imagine It Getting Much Cheaper': Cramer Makes Bold Case for NVDA Right Now",
+          "link": "https://247wallst.com/investing/2026/03/02/hard-to-imagine-it-getting-much-cheaper-cramer-makes-bold-case-for-nvda-right-now/",
+          "snippet": "Jim Cramer made a pointed call on air recently about NVIDIA (NASDAQ:NVDA | NVDA Price Prediction), and here is what he said. \"Look, there are a lot of people that just joined … This is their chance to buy Nvidia.",
+          "source": "24/7 Wall St.",
+          "date": "2026-03-03T01:14:00+00:00"
+        },
+        {
+          "title": "This Billionaire Tesla Bull Just Backed Up the Truck on Nvidia Stock",
+          "link": "https://www.aol.com/finance/billionaire-tesla-bull-just-backed-144334747.html",
+          "snippet": "Nvidia (NASDAQ:NVDA) stock has hit a ceiling, and it could stay under it for a while longer, especially since it'll be time in a few months until that next round of quarterly tech earnings. Of course,",
+          "source": "AOL",
+          "date": "2026-03-10T21:43:00+00:00"
+        }
+      ],
+      "chart_path": "docs/website/public/daily/johnzhang/charts/2026-03-17/NVDA_chart.png"
+    },
+    {
+      "ticker": "AMAT",
+      "current_price": 349.67999267578125,
+      "support": 171.03102087125006,
+      "resistance": 395.95001220703125,
+      "rsm_score": null,
+      "is_portfolio": false,
+      "bias": null,
+      "bias_score": 3,
+      "analysis": null,
+      "news": [
+        {
+          "title": "Investors Heavily Search Applied Materials, Inc. (AMAT): Here is What You Need...",
+          "link": "https://finance.yahoo.com/news/investors-heavily-search-applied-materials-130005120.html",
+          "snippet": "Applied Materials (AMAT) has received quite a bit of attention from Zacks.com users lately....",
+          "source": "Zacks· via Yahoo Finance",
+          "date": "2026-03-13T14:42:05+00:00"
+        },
+        {
+          "title": "Applied Materials and Micron Are Partnering on Memory. Is AMAT or MU Stock a...",
+          "link": "https://finance.yahoo.com/news/applied-materials-micron-partnering-memory-161722664.html",
+          "snippet": "Should You BuyAMATor MUStock? Applied Materials currently presents the more attractive entry...",
+          "source": "Barchart· via Yahoo Finance",
+          "date": "2026-03-11T14:42:05+00:00"
+        },
+        {
+          "title": "Assessing Applied Materials (AMAT) Valuation After Strong Shareholder Returns...",
+          "link": "https://finance.yahoo.com/news/assessing-applied-materials-amat-valuation-230947868.html",
+          "snippet": "Why Applied Materials Is On Investors’ Radar Today Applied Materials (AMAT) continues to attract att...",
+          "source": "Simply Wall St.· via Yahoo Finance",
+          "date": "2026-03-13T14:42:05+00:00"
+        },
+        {
+          "title": "Applied Materials (AMAT) Partners with Micron (MU), SK Hynix for Next-Gen Memory...",
+          "link": "https://finance.yahoo.com/news/applied-materials-amat-partners-micron-183107515.html",
+          "snippet": "Applied Materials Inc. (NASDAQ:AMAT) is one of the best multibagger stocks to invest in according to...",
+          "source": "Insider Monkey· via Yahoo Finance",
+          "date": "2026-03-14T14:42:05+00:00"
+        },
+        {
+          "title": "Applied Materials, Inc. (AMAT) Enhances Manufacturing Capabilities to Capitalize...",
+          "link": "https://finance.yahoo.com/news/applied-materials-inc-amat-enhances-183039591.html",
+          "snippet": "Applied Materials (NASDAQ:AMAT) is one of the debt free halal stocks to buy. On March 2 at the...",
+          "source": "Insider Monkey· via Yahoo Finance",
+          "date": "2026-03-13T14:42:05+00:00"
+        },
+        {
+          "title": "Micron Jumps 6% on Taiwan Factory Acquisition and Looming Earnings Catalyst",
+          "link": "https://247wallst.com/investing/2026/03/16/micron-jumps-6-on-taiwan-factory-acquisition-and-looming-earnings-catalyst/",
+          "snippet": "Micron Technology (NASDAQ:MU) stock is up roughly 6% Monday morning, extending a 7.3% surge on Friday that followed news of Micron Technology's completed acquisition of a new Taiwan manufacturing site.",
+          "source": "24/7 Wall St.",
+          "date": "2026-03-16T13:51:00+00:00"
+        },
+        {
+          "title": "AMAT vs. AMKR: Which AI-Driven Semiconductor Stock is a Safer Bet?",
+          "link": "https://www.nasdaq.com/articles/amat-vs-amkr-which-ai-driven-semiconductor-stock-safer-bet",
+          "snippet": "Applied Materials AMAT and Amkor Technology AMKR are two key players in the AI infrastructure value chain serving widely different but crucial roles. While AMAT is a semiconductor equipment manufacturing company, AMKR packages and tests finished chips.",
+          "source": "Nasdaq",
+          "date": "2026-02-23T14:24:00+00:00"
+        },
+        {
+          "title": "Investors Heavily Search Applied Materials, Inc. (AMAT): Here is What You Need to Know",
+          "link": "https://www.msn.com/en-us/money/topstocks/investors-heavily-search-applied-materials-inc-amat-here-is-what-you-need-to-know/ar-AA1Yz2h7",
+          "snippet": "Applied Materials (AMAT) is one of the stocks most watched by Zacks.com visitors lately. So, it might be a good idea to review some of the factors that might affect the near-term performance of the stock.",
+          "source": "Zacks.com",
+          "date": "2026-03-13T13:00:05+00:00"
+        }
+      ],
+      "chart_path": "docs/website/public/daily/johnzhang/charts/2026-03-17/AMAT_chart.png"
+    },
+    {
+      "ticker": "ASML",
+      "current_price": 1386.1700439453125,
+      "support": 858.5224433661755,
+      "resistance": 1547.219970703125,
+      "rsm_score": null,
+      "is_portfolio": false,
+      "bias": null,
+      "bias_score": 3,
+      "analysis": null,
+      "news": [
+        {
+          "title": "Is ASML Holding N.V. (ASML) A Good Stock To Buy Now?",
+          "link": "https://finance.yahoo.com/news/asml-holding-n-v-asml-003537790.html",
+          "snippet": "Is ASML a good stock to buy? We came across a bullish thesis on ASML Holding N.V. on Vasileios Prassas's Substack by Vasileios. In this article, we will summarize the bulls' thesis on ASML. ASML Holding N.",
+          "source": "Yahoo Finance",
+          "date": "2026-03-16T00:51:00+00:00"
+        },
+        {
+          "title": "The Artificial Intelligence (AI) Inference Market Could Reach $255 Billion by 2030. This Stock Is Best Positioned to Win.",
+          "link": "https://www.msn.com/en-us/money/savingandinvesting/the-artificial-intelligence-ai-inference-market-could-reach-255-billion-by-2030-this-stock-is-best-positioned-to-win/ar-AA1YKnQ1",
+          "snippet": "More investors need to hear of and learn about ASML.",
+          "source": "The Motley Fool",
+          "date": "2026-03-16T15:02:00+00:00"
+        },
+        {
+          "title": "ASML (ASML) laps the stock market: Here's why",
+          "link": "https://www.msn.com/en-us/money/top-stocks/asml-asml-laps-the-stock-market-here-s-why/ar-AA1YLSVx",
+          "snippet": "ASML (ASML) ended the recent trading session at $1,375.82, demonstrating a +2.24% change from the preceding day's closing price. This move outpaced the S&P 500's daily gain of 1.01%. Elsewhere, the Dow saw an upswing of 0.",
+          "source": "Zacks Investment Research",
+          "date": "2026-03-16T21:45:03+00:00"
+        },
+        {
+          "title": "Analysts Remain Optimistic About ASML Holding (ASML)",
+          "link": "https://www.insidermonkey.com/blog/analysts-remain-optimistic-about-asml-holding-asml-1718211/",
+          "snippet": "Financial firm UBS discussed chip manufacturing equipment giant ASML Holding N.V. (NASDAQ:ASML)'s shares on March 10th. It reiterated a Buy rating and a €1,500 price target.",
+          "source": "Insider Monkey",
+          "date": "2026-03-17T06:57:00+00:00"
+        },
+        {
+          "title": "TD Cowen Reiterates \"Buy\" Rating on ASML (ASML) With $1,500 PT",
+          "link": "https://www.msn.com/en-us/money/topstocks/td-cowen-reiterates-buy-rating-on-asml-asml-with-1500-pt/ar-AA1YEobo",
+          "snippet": "ASML Holding N.V. (NASDAQ:ASML) stands among the 13 unrivaled stocks of the next 10 years. ASML Holding N.V. (NASDAQ:ASML) retains confidence of Wall Street, where analysts remain bullish on the company's critical role in the semiconductor manufacturing market.",
+          "source": "Insider Monkey",
+          "date": "2026-03-15T08:03:00+00:00"
+        },
+        {
+          "title": "LRCX vs. ASML: Which Semiconductor Equipment Giant Is the Better Buy?",
+          "link": "https://www.nasdaq.com/articles/lrcx-vs-asml-which-semiconductor-equipment-giant-better-buy",
+          "snippet": "Lam Research Corporation LRCX and ASML Holding N.V. ASML are leading semiconductor equipment manufacturers that supply critical tools used in chip production. The two companies are playing a critical ...",
+          "source": "Nasdaq",
+          "date": "2026-02-24T00:00:00+00:00"
+        },
+        {
+          "title": "ASML Files 2025 Annual Report, Showcasing Scale, Profitability and AI‑Driven Growth",
+          "link": "https://www.theglobeandmail.com/investing/markets/stocks/ASML/pressreleases/437139/asml-files-2025-annual-report-showcasing-scale-profitability-and-aidriven-growth/",
+          "snippet": "Detailed price information for Asml Holdings NY Reg ADR (ASML-Q) from The Globe and Mail including charting and trades.",
+          "source": "The Globe and Mail",
+          "date": "2026-03-04T14:42:06+00:00"
+        },
+        {
+          "title": "Assessing ASML Holding (ENXTAM:ASML) Valuation After Strong One Year Returns And Recent Share Price Volatility",
+          "link": "https://uk.finance.yahoo.com/news/assessing-asml-holding-enxtam-asml-201115752.html",
+          "snippet": "ASML Holding (ENXTAM:ASML) is back in focus after a period of mixed recent returns, with the share price roughly flat over the past month but showing a gain over the past 3 months. See our latest ...",
+          "source": "Yahoo Finance UK",
+          "date": "2026-03-04T14:42:06+00:00"
+        }
+      ],
+      "chart_path": "docs/website/public/daily/johnzhang/charts/2026-03-17/ASML_chart.png"
+    },
+    {
+      "ticker": "SMCI",
+      "current_price": 32.290000915527344,
+      "support": 27.75,
+      "resistance": 58.779998779296875,
+      "rsm_score": null,
+      "is_portfolio": false,
+      "bias": null,
+      "bias_score": 3,
+      "analysis": null,
+      "news": [
+        {
+          "title": "Super Micro Stock Looks Like A Real Gift On Upcoming Business Stabilization",
+          "link": "https://seekingalpha.com/article/4882790-super-micro-stock-looks-like-a-real-gift-on-upcoming-business-stabilization",
+          "snippet": "AI-driven revenue growth, improving margins, and Nvidia’s next-gen cycle could deliver 42% upside. Click for this SMCI update ...",
+          "source": "Seeking Alpha",
+          "date": "2026-02-23T14:42:04+00:00"
+        },
+        {
+          "title": "MicroStrategy stock surges on Nasdaq-100 inclusion announcement",
+          "link": "https://msn.com/en-us/money/top-stocks/microstrategy-stock-surges-on-nasdaq-100-inclusion-announcement/ar-AA1vWjA0",
+          "snippet": "MicroStrategy Incorporated (NASDAQ:MSTR) shares popped 6% in premarket trading Monday as investors welcomed the Friday announcement from the Nasdaq exchange operator that the stock will be added to ...",
+          "source": "MSN",
+          "date": "2026-03-06T14:42:04+00:00"
+        },
+        {
+          "title": "Wall Street Lunch: Private Credit Funds Face $10B Investor Exit Wave",
+          "link": "https://seekingalpha.com/article/4882776-wall-street-lunch-private-credit-funds-face-10b-investor-exit-wave",
+          "snippet": "Wealthy investors sought to pull more than $10B from some of the largest private credit funds in the first quarter.",
+          "source": "Seeking Alpha",
+          "date": "2026-02-22T14:42:04+00:00"
+        },
+        {
+          "title": "Nine Dragons Paper Sets Board Meeting to Approve Interim Results and Consider Dividend",
+          "link": "https://www.theglobeandmail.com/investing/markets/stocks/NDGPF/pressreleases/37375877/nine-dragons-paper-sets-board-meeting-to-approve-interim-results-and-consider-dividend/",
+          "snippet": "Detailed price information for Nine Dragons Paper Hldgs (NDGPF) from The Globe and Mail including charting and trades.",
+          "source": "The Globe and Mail",
+          "date": "2026-03-16T14:42:04+00:00"
+        },
+        {
+          "title": "The AI boom just hit its next bottleneck",
+          "link": "https://www.msn.com/en-us/money/general/the-ai-boom-just-hit-its-next-bottleneck/ar-AA1YLB1I?ocid=BingNewsVerp",
+          "snippet": "Jonathan Rose’s POET trade keeps climbing… he expects a multi-bagger… copper versus fiber in datacenters… Luke Lango with the ...",
+          "source": "InvestorPlace on MSN",
+          "date": "2026-02-28T14:42:04+00:00"
+        },
+        {
+          "title": "Reflecting On Hardware & Infrastructure Stocks’ Q4 Earnings: IonQ (NYSE:IONQ)",
+          "link": "https://uk.finance.yahoo.com/news/reflecting-hardware-infrastructure-stocks-q4-200042159.html",
+          "snippet": "Looking back on hardware & infrastructure stocks’ Q4 earnings, we examine this quarter’s best and worst performers, including IonQ (NYSE:IONQ) and its peers.",
+          "source": "Yahoo Finance UK",
+          "date": "2026-03-05T14:42:06+00:00"
+        },
+        {
+          "title": "Hewlett Packard Enterprise (HPE) Stock Gains on Strong Q2 Revenue Forecast",
+          "link": "https://blockonomi.com/hewlett-packard-enterprise-hpe-stock-gains-on-strong-q2-revenue-forecast/",
+          "snippet": "HPE stock climbed after Q1 beat, $5B AI backlog, and raised FY26 guidance. Company shifts focus to high-margin networking with 68%-73% growth target.",
+          "source": "Blockonomi",
+          "date": "2026-03-11T14:42:06+00:00"
+        },
+        {
+          "title": "5 Artificial Intelligence (AI) Stocks That Could Make You a Millionaire.",
+          "link": "https://www.aol.com/articles/5-artificial-intelligence-ai-stocks-210500150.html",
+          "snippet": "Most AI stocks are priced as if they have already changed the world, but these five aren't. If you're tired of hype and bubble valuations, this list is for you.",
+          "source": "AOL",
+          "date": "2026-03-04T04:05:00+00:00"
+        }
+      ],
+      "chart_path": "docs/website/public/daily/johnzhang/charts/2026-03-17/SMCI_chart.png"
+    },
+    {
+      "ticker": "AMZN",
+      "current_price": 213.53500366210938,
+      "support": 196.0,
+      "resistance": 258.6000061035156,
+      "rsm_score": null,
+      "is_portfolio": true,
+      "bias": null,
+      "bias_score": 3,
+      "analysis": null,
+      "news": [
+        {
+          "title": "Software bear market: 2 monster artificial intelligence (AI) stocks with up to 70% upside to buy now, according to Wall Street",
+          "link": "https://www.msn.com/en-us/money/companies/software-bear-market-2-monster-artificial-intelligence-ai-stocks-with-up-to-70-upside-to-buy-now-according-to-wall-street/ar-AA1YLiAL?ocid=BingNewsVerp",
+          "snippet": "Artificial intelligence (AI) software stocks are seeing more volatility in 2026.",
+          "source": "The Motley Fool on MSN",
+          "date": "2026-02-27T14:42:08+00:00"
+        },
+        {
+          "title": "Will Costco Wholesale Stock Join the Trillion-Dollar Club by 2030?",
+          "link": "https://www.msn.com/en-us/money/topstocks/will-costco-wholesale-stock-join-the-trillion-dollar-club-by-2030/ar-AA1YLGrG?ocid=BingNewsVerp",
+          "snippet": "Costco's stock has been soaring in recent years, and it still possesses some attractive growth potential.",
+          "source": "The Motley Fool on MSN",
+          "date": "2026-03-03T14:42:08+00:00"
+        },
+        {
+          "title": "Wolfe Research Raises Amazon (AMZN) Price Target as AWS Business Gains from AI and Data Center...",
+          "link": "https://finance.yahoo.com/news/wolfe-research-raises-amazon-amzn-120810426.html",
+          "snippet": "Amazon.com Inc. (NASDAQ:AMZN) ranks among the best FAANG+ stocks to invest in right now. Wolfe...",
+          "source": "Insider Monkey· via Yahoo Finance",
+          "date": "2026-03-17T11:42:08+00:00"
+        },
+        {
+          "title": "Amazon.coM (AMZN)’s Deepens AI Presence With New Partnership",
+          "link": "https://finance.yahoo.com/news/amazon-com-amzn-deepens-ai-065733731.html",
+          "snippet": "Amazon.com, Inc. (NASDAQ:AMZN) is one of the AI Stocks That Will Skyrocket. Retail and cloud...",
+          "source": "Insider Monkey· via Yahoo Finance",
+          "date": "2026-03-17T06:42:08+00:00"
+        },
+        {
+          "title": "Amazon (AMZN) Rises Higher Than Market: Key Facts",
+          "link": "https://finance.yahoo.com/news/amazon-amzn-rises-higher-market-214502673.html",
+          "snippet": "Amazon (AMZN) ended the recent trading session at $211.74, demonstrating a +1.96% change from the preceding day's...",
+          "source": "Zacks· via Yahoo Finance",
+          "date": "2026-03-16T21:42:08+00:00"
+        },
+        {
+          "title": "If I Had Fresh Cash Today, I'd Buy These 3 Stocks Aggressively",
+          "link": "https://seekingalpha.com/article/4882620-if-i-had-fresh-cash-today-id-buy-these-3-stocks-aggressively",
+          "snippet": "TransDigm (TDG), and Amazon (AMZN) are my top watchlist picks for high-conviction, long-term value in the current market.",
+          "source": "Seeking Alpha",
+          "date": "2026-03-17T11:30:00+00:00"
+        },
+        {
+          "title": "Amazon (AMZN) rises higher than market: Key facts",
+          "link": "https://www.msn.com/en-us/money/top-stocks/amazon-amzn-rises-higher-than-market-key-facts/ar-AA1YLwq1",
+          "snippet": "Amazon (AMZN) ended the recent trading session at $211.74, demonstrating a +1.96% change from the preceding day's closing price. The stock outperformed the S&P 500, which registered a daily gain of 1.",
+          "source": "Zacks Investment Research",
+          "date": "2026-03-16T21:45:02+00:00"
+        },
+        {
+          "title": "AMZN vs. WMT: Which is the better stock to buy for the next 10 years?",
+          "link": "https://www.msn.com/en-us/money/general/amzn-vs-wmt-which-is-the-better-stock-to-buy-for-the-next-10-years/ar-AA1YuN5v",
+          "snippet": "On one side, Amazon (AMZN) is pouring nearly $200 billion into capital expenditures, doubling down on AI chips, cloud infrastructure, satellites, and ultra-fast delivery. On the other, Walmart (WMT) just crossed $700 billion in annual sales,",
+          "source": "Barchart",
+          "date": "2026-03-12T14:00:02+00:00"
+        }
+      ],
+      "chart_path": "docs/website/public/daily/johnzhang/charts/2026-03-17/AMZN_chart.png"
+    },
+    {
+      "ticker": "MSFT",
+      "current_price": 399.3900146484375,
+      "support": 381.7099914550781,
+      "resistance": 551.4269763883988,
+      "rsm_score": null,
+      "is_portfolio": false,
+      "bias": null,
+      "bias_score": 3,
+      "analysis": null,
+      "news": [
+        {
+          "title": "DCF model suggests Nebius stock is 'overvalued' - but should you sell?",
+          "link": "https://invezz.com/news/2026/03/16/dcf-model-suggests-nebius-stock-is-overvalued-but-should-you-sell/",
+          "snippet": "However, while the market is currently in a \"buy-at-any-price\" frenzy for AI compute providers - a conventional \" Discounted Cash Flow (FCF) \" model suggests Nebius stock is \"overvalued\" at current levels.",
+          "source": "Invezz",
+          "date": "2026-03-16T19:16:00+00:00"
+        },
+        {
+          "title": "Is Microsoft Stock a Buy Now?",
+          "link": "https://finance.yahoo.com/news/microsoft-stock-buy-now-111700988.html",
+          "snippet": "Microsoft (NASDAQ: MSFT) has been a stock market leader over nearly the past decade, but it has fallen a bit recently. While some stocks have fallen out of favor with the market, it's usually for slowing growth or exploding expenses.",
+          "source": "Yahoo Finance",
+          "date": "2026-03-13T12:02:00+00:00"
+        },
+        {
+          "title": "Microsoft Stock: What Could Ignite The Next Rally?",
+          "link": "https://www.forbes.com/sites/greatspeculations/2026/03/13/microsoft-stock-what-could-ignite-the-next-rally/",
+          "snippet": "If historical trends repeat, upcoming catalysts could propel Microsoft stock to new highs, extending its track record of powerful",
+          "source": "Forbes",
+          "date": "2026-03-13T13:15:00+00:00"
+        },
+        {
+          "title": "Down 15%, Is Microsoft Stock Worth Buying Now?",
+          "link": "https://www.forbes.com/sites/greatspeculations/2026/03/13/down-15-is-microsoft-stock-worth-buying-now/",
+          "snippet": "The real issue is whether this decline signals a structural problem or simply reflects the market repricing a premium stock during a risk-off environment.",
+          "source": "Forbes",
+          "date": "2026-03-13T13:11:00+00:00"
+        },
+        {
+          "title": "Is Microsoft Corporation (MSFT) A Good Stock To Buy Now?",
+          "link": "https://www.msn.com/en-us/money/other/is-microsoft-corporation-msft-a-good-stock-to-buy-now/ar-AA1YGu3o",
+          "snippet": "Is MSFT a good stock to buy? We came across a bullish thesis on Microsoft Corporation on Nikhs's Substack. In this article, we will summarize the bulls' thesis on MSFT. Microsoft Corporation's share was trading at $408.",
+          "source": "Insider Monkey",
+          "date": "2026-03-16T01:04:48+00:00"
+        },
+        {
+          "title": "Down 15% in 2026, Should You Buy the Dip in Microsoft Stock?",
+          "link": "https://finance.yahoo.com/news/down-15-2026-buy-dip-214247085.html",
+          "snippet": "Microsoft stock has pulled back sharply in 2026 despite strong earnings and AI-driven growth, prompting investors to ...",
+          "source": "Yahoo Finance",
+          "date": "2026-03-06T14:42:09+00:00"
+        },
+        {
+          "title": "MSFT stock price today: Microsoft shares rise, investors watch AI execution",
+          "link": "https://onmsft.com/uncategorized/msft-stock-price-today-microsoft-shares-rise-investors-watch-ai-execution/",
+          "snippet": "Microsoft (MSFT) was trading around $401.57 on March 3, 2026 (latest trade captured at 17:47 UTC), up about 0.76% on the day. Microsoft stock ...",
+          "source": "OnMSFT.com",
+          "date": "2026-03-03T00:00:00+00:00"
+        },
+        {
+          "title": "1 Artificial Intelligence (AI) Stock Down 25% That Could Roar Back in 2026",
+          "link": "https://www.msn.com/en-us/money/other/1-artificial-intelligence-ai-stock-down-25-that-could-roar-back-in-2026/ar-AA1YIyhR?ocid=BingNewsVerp",
+          "snippet": "Microsoft is among the best buys in the market right now.",
+          "source": "The Motley Fool on MSN",
+          "date": "2026-03-16T14:42:09+00:00"
+        }
+      ],
+      "chart_path": "docs/website/public/daily/johnzhang/charts/2026-03-17/MSFT_chart.png"
+    },
+    {
+      "ticker": "VST",
+      "current_price": 163.97500610351562,
+      "support": 138.52999877929688,
+      "resistance": 219.5139408249953,
+      "rsm_score": null,
+      "is_portfolio": false,
+      "bias": null,
+      "bias_score": 3,
+      "analysis": null,
+      "news": [
+        {
+          "title": "Utilities Stock for Contrarian Options Traders",
+          "link": "https://www.schaeffersresearch.com/content/analysis/2026/03/16/utilities-stock-for-contrarian-options-traders",
+          "snippet": "Vistra stock's buy-to-open put/call ratio just hit the 90th percentile and crossed over 1.0. Per White, in the last three years that's occurred eight other times for the utilities name. The stock has averaged a 5.4% return 21 days later with an 75% success rate.",
+          "source": "Schaeffer's Investment Research",
+          "date": "2026-03-16T18:12:00+00:00"
+        },
+        {
+          "title": "Why Vistra Corp. (VST) Outpaced the Stock Market Today",
+          "link": "https://www.msn.com/en-us/money/savingandinvesting/why-vistra-corp-vst-outpaced-the-stock-market-today/ar-AA1YMa6D?ocid=BingNewsVerp",
+          "snippet": "In the latest trading session, Vistra Corp. (VST) closed at $161.99, marking a +1.91% move from the previous day. The stock's performance was ahead of the S&P 500's daily gain of 1.01%. On the other ...",
+          "source": "Zacks.com on MSN",
+          "date": "2026-03-03T14:42:08+00:00"
+        },
+        {
+          "title": "Why Vistra Corp. (VST) Outpaced the Stock Market Today",
+          "link": "https://www.msn.com/en-us/money/savingandinvesting/why-vistra-corp-vst-outpaced-the-stock-market-today/ar-AA1YMa6D",
+          "snippet": "In the latest trading session, Vistra Corp. (VST) closed at $161.99, marking a +1.91% move from the previous day. The stock's performance was ahead of the S&P 500's daily gain of 1.01%. On the other hand,",
+          "source": "Zacks.com",
+          "date": "2026-03-17T00:13:00+00:00"
+        },
+        {
+          "title": "How Is Vistra's Stock Performance Compared to Other Utilities Stocks?",
+          "link": "https://finance.yahoo.com/news/vistras-stock-performance-compared-other-131846909.html",
+          "snippet": "Vistra has outperformed the Utilities industry over the past year, and analysts are highly optimistic about the stock's prospects.",
+          "source": "Yahoo Finance",
+          "date": "2026-03-11T16:48:00+00:00"
+        },
+        {
+          "title": "Is It Too Late To Consider Vistra (VST) After Its Strong Three Year Run?",
+          "link": "https://uk.finance.yahoo.com/news/too-consider-vistra-vst-strong-090939665.html",
+          "snippet": "If you are wondering whether Vistra's current share price still reflects good value, it helps to step back and look at what the market has been pricing in lately. The stock last closed at US$158.95, with returns of 0.",
+          "source": "Yahoo Finance UK",
+          "date": "2026-03-14T09:09:00+00:00"
+        },
+        {
+          "title": "Preview: Vistra's Earnings",
+          "link": "https://www.benzinga.com/insights/earnings/26/02/50848393/preview-vistras-earnings",
+          "snippet": "Vistra (NYSE:VST) is preparing to release its quarterly earnings on Thursday, 2026-02-26. Here's a brief overview of what investors should keep in mind before the announcement. Analysts expect Vistra to report an earnings per share (EPS) of $2.38.",
+          "source": "Benzinga.com",
+          "date": "2026-02-25T09:01:00+00:00"
+        },
+        {
+          "title": "Oracle Earnings Heated Up Its Stock—But Couldn't Spark an AI Rally",
+          "link": "https://www.investopedia.com/oracle-earnings-heated-up-its-stock-but-couldn-t-spark-an-ai-rally-orcl-11923904",
+          "snippet": "Shares of Oracle and chipmakers rose on Wednesday after a strong earnings report signaled AI demand remains healthy, but stocks remained under pressure from rising oil prices and geopolitical risk.",
+          "source": "Investopedia",
+          "date": "2026-03-11T20:27:00+00:00"
+        },
+        {
+          "title": "Why Vistra Corp. (VST) Outpaced the Stock Market Today",
+          "link": "https://uk.finance.yahoo.com/news/why-vistra-corp-vst-outpaced-214504504.html",
+          "snippet": "The latest trading day saw Vistra Corp. (VST) settling at $161.99, representing a +1.91% change from its previous close.",
+          "source": "Yahoo Finance UK",
+          "date": "2026-03-16T21:45:00+00:00"
+        }
+      ],
+      "chart_path": "docs/website/public/daily/johnzhang/charts/2026-03-17/VST_chart.png"
+    },
+    {
+      "ticker": "CEG",
+      "current_price": 306.43499755859375,
+      "support": 242.9743923872977,
+      "resistance": 411.6752956060286,
+      "rsm_score": null,
+      "is_portfolio": false,
+      "bias": null,
+      "bias_score": 3,
+      "analysis": null,
+      "news": [
+        {
+          "title": "Is Trending Stock Constellation Energy Corporation (CEG) a Buy Now?",
+          "link": "https://finance.yahoo.com/news/trending-stock-constellation-energy-corporation-130008843.html",
+          "snippet": "Constellation Energy Corporation (CEG) has received quite a bit of attention from Zacks.com users...",
+          "source": "Zacks· via Yahoo Finance",
+          "date": "2026-03-17T12:42:08+00:00"
+        },
+        {
+          "title": "Is Constellation Energy Corporation (CEG) A Good Stock To Buy Now?",
+          "link": "https://finance.yahoo.com/news/constellation-energy-corporation-ceg-good-200924094.html",
+          "snippet": "IsCEGa goodstockto buy? We came across a bullish thesis on Constellation Energy Corporation on X...",
+          "source": "Insider Monkey· via Yahoo Finance",
+          "date": "2026-03-15T14:42:08+00:00"
+        },
+        {
+          "title": "Constellation Energy Corporation (CEG) Registers a Bigger Fall Than the Market:...",
+          "link": "https://finance.yahoo.com/news/constellation-energy-corporation-ceg-registers-214504975.html",
+          "snippet": "Our research demonstrates that these adjustments in estimates directly associate with imminentstock...",
+          "source": "Zacks· via Yahoo Finance",
+          "date": "2026-03-11T14:42:08+00:00"
+        },
+        {
+          "title": "SMR Stock Plunges 14% in a Month: Should You Buy, Sell or Hold?",
+          "link": "https://finance.yahoo.com/news/smr-stock-plunges-14-month-131800138.html",
+          "snippet": "Thestockhas underperformed its industry peers, including BWX Technologies BWXT, Constellation...",
+          "source": "Zacks· via Yahoo Finance",
+          "date": "2026-03-11T14:42:08+00:00"
+        },
+        {
+          "title": "Is Constellation Energy Corporation (CEG) A Good Stock To Buy Now?",
+          "link": "https://www.msn.com/en-us/money/general/is-constellation-energy-corporation-ceg-a-good-stock-to-buy-now/ar-AA1YGsqA",
+          "snippet": "Is CEG a good stock to buy? We came across a bullish thesis on Constellation Energy Corporation on X.com by @MoneyShow. In this article, we will summarize the bulls' thesis on CEG. Constellation Energy Corporation's share was trading at $300.",
+          "source": "Insider Monkey",
+          "date": "2026-03-15T20:34:00+00:00"
+        },
+        {
+          "title": "Oracle Earnings Heated Up Its Stock—But Couldn't Spark an AI Rally",
+          "link": "https://www.investopedia.com/oracle-earnings-heated-up-its-stock-but-couldn-t-spark-an-ai-rally-orcl-11923904",
+          "snippet": "Shares of Oracle and chipmakers rose on Wednesday after a strong earnings report signaled AI demand remains healthy, but stocks remained under pressure from rising oil prices and geopolitical risk.",
+          "source": "Investopedia",
+          "date": "2026-03-11T20:27:00+00:00"
+        }
+      ],
+      "chart_path": "docs/website/public/daily/johnzhang/charts/2026-03-17/CEG_chart.png"
+    },
+    {
+      "ticker": "LRCX",
+      "current_price": 223.51499938964844,
+      "support": 118.09996260197647,
+      "resistance": 256.3728229508209,
+      "rsm_score": null,
+      "is_portfolio": false,
+      "bias": null,
+      "bias_score": 3,
+      "analysis": null,
+      "news": [
+        {
+          "title": "Is Lam Research Corporation (LRCX) A Good Stock To Buy Now?",
+          "link": "https://www.msn.com/en-us/money/savingandinvesting/is-lam-research-corporation-lrcx-a-good-stock-to-buy-now/ar-AA1YGGD0",
+          "snippet": "Is LRCX a good stock to buy? We came across a bullish thesis on Lam Research Corporation on Nikhs's Substack. In this article, we will summarize the bulls' thesis on LRCX. Lam Research Corporation's share was trading at $199.",
+          "source": "Insider Monkey",
+          "date": "2026-03-16T01:11:10+00:00"
+        },
+        {
+          "title": "LRCX Stock Soars 33% in Three Months: Is There More Room for Growth?",
+          "link": "https://finance.yahoo.com/news/lrcx-stock-soars-33-three-142000829.html",
+          "snippet": "LRCX jumps 33% in three months as strong earnings, AI chip demand and advanced packaging growth boost its outlook despite macro and geopolitical pressures.",
+          "source": "Yahoo Finance",
+          "date": "2026-03-12T16:28:00+00:00"
+        },
+        {
+          "title": "What Does DRAM Memory Spending Trend Mean for Lam Research (LRCX)",
+          "link": "https://www.msn.com/en-us/money/topstocks/what-does-dram-memory-spending-trend-mean-for-lam-research-lrcx/ar-AA1YL5Cs",
+          "snippet": "Lam Research (NASDAQ:LRCX) is one of the 15 AI stocks that are quietly making investors rich. On February 25, Morgan Stanley increased the firm's price target on Lam Research (NASDAQ:LRCX) to $254 from $244.",
+          "source": "Insider Monkey",
+          "date": "2026-03-16T18:33:15+00:00"
+        },
+        {
+          "title": "Lam Research Corporation (LRCX) Partners With IBM",
+          "link": "https://sg.finance.yahoo.com/news/lam-research-corporation-lrcx-partners-175746253.html",
+          "snippet": "Lam Research Corporation (NASDAQ:LRCX) is one of the Best AI Stocks That Will Make You A Millionaire. On March 10, Lam Research Corporation (NASDAQ:LRCX) and IBM announced a partnership to develop processes and materials for sub-1nm logic scaling.",
+          "source": "Yahoo Finance Singapore",
+          "date": "2026-03-12T17:58:00+00:00"
+        },
+        {
+          "title": "Assessing Lam Research (LRCX) Valuation After A Strong Year And Recent Pullback",
+          "link": "https://uk.finance.yahoo.com/news/assessing-lam-research-lrcx-valuation-151159283.html",
+          "snippet": "Lam Research stock after recent performance Lam Research (LRCX) has drawn attention after a mixed stretch in recent returns, with a roughly 0.1% gain year to date, a 26% rise over the past 3 months, and a 1-year total return near 190%.",
+          "source": "Yahoo Finance UK",
+          "date": "2026-03-10T15:11:00+00:00"
+        },
+        {
+          "title": "Prediction: This AI Stock Will Be Worth More Than AMD by the End of 2026",
+          "link": "https://www.msn.com/en-us/money/topstocks/prediction-this-ai-stock-will-be-worth-more-than-amd-by-the-end-of-2026/ar-AA1Xbziq",
+          "snippet": "AMD stock may remain under pressure this year despite its robust growth.",
+          "source": "The Motley Fool",
+          "date": "2026-02-27T09:45:00+00:00"
+        }
+      ],
+      "chart_path": "docs/website/public/daily/johnzhang/charts/2026-03-17/LRCX_chart.png"
+    }
+  ],
+  "global_summary": null,
+  "market_story": null
+}
