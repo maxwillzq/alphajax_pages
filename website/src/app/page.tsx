@@ -1,181 +1,78 @@
-import Link from 'next/link'
-import { getAllReports } from '@/lib/reports'
-import { Calendar, TrendingUp, BookOpen, Clock, ArrowRight, ShieldCheck, Zap } from 'lucide-react'
+import React from 'react';
 
 export default function Home() {
-  const dailyReports = getAllReports('daily').slice(0, 5)
-  const weeklyReports = getAllReports('weekly').slice(0, 3)
-  const latestReport = dailyReports[0]
-
   return (
-    <div className="min-h-screen bg-slate-50 dark:bg-slate-950 overflow-hidden">
-      {/* Decorative background elements */}
-      <div className="absolute top-0 left-1/2 -translate-x-1/2 w-full max-w-7xl h-[500px] pointer-events-none">
-        <div className="absolute top-[-100px] left-[-100px] w-[400px] h-[400px] bg-indigo-500/10 rounded-full blur-[120px] dark:bg-indigo-500/5" />
-        <div className="absolute top-[100px] right-[-100px] w-[400px] h-[400px] bg-emerald-500/10 rounded-full blur-[120px] dark:bg-emerald-500/5" />
-      </div>
-
-      <main className="relative mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-8">
-        {/* Hero Section */}
-        <div className="relative z-10 text-center mb-24">
-          <div className="inline-flex items-center gap-2 rounded-full border border-indigo-200 bg-indigo-50/50 px-4 py-1.5 text-sm font-semibold text-indigo-700 dark:border-indigo-500/20 dark:bg-indigo-500/10 dark:text-indigo-400 mb-8 animate-in fade-in slide-in-from-bottom-4 duration-1000">
-            <BookOpen className="h-4 w-4" />
-            <span>AlphaJAX | 个人量化思考</span>
-          </div>
-
-          <h1 className="text-5xl font-extrabold tracking-tight text-slate-900 dark:text-white sm:text-7xl mb-8 leading-[1.1]">
-            量化思维与 <br />
-            <span className="bg-gradient-to-r from-amber-500 to-emerald-500 bg-clip-text text-transparent">
-              市场洞察
-            </span>
+    <div className="min-h-screen bg-gradient-to-br from-slate-950 via-slate-900 to-slate-950 text-slate-100 flex flex-col items-center justify-center p-6">
+      <div className="max-w-4xl w-full bg-slate-900/60 backdrop-blur-xl rounded-2xl p-8 border border-slate-800 shadow-2xl relative overflow-hidden">
+        {/* Decorative background gradients */}
+        <div className="absolute -top-40 -right-40 w-80 h-80 bg-teal-500/10 rounded-full blur-3xl" />
+        <div className="absolute -bottom-40 -left-40 w-80 h-80 bg-emerald-500/10 rounded-full blur-3xl" />
+        
+        <div className="relative z-10">
+          <h1 className="text-4xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-teal-400 to-emerald-400 mb-4 text-center">
+            AlphaJAX 投资哲学
           </h1>
-
-          <p className="mx-auto max-w-2xl text-xl text-slate-600 dark:text-slate-400 leading-relaxed mb-10">
-            记录我使用量化模型与 AI 辅助进行市场分析的个人笔记。这里没有绝对的真理，只有持续的思考与复盘。
+          <p className="text-center text-slate-400 mb-10 max-w-2xl mx-auto text-base">
+            捕捉人工智能与半导体协议带来的跨周期结构性增长，聚焦“确定性”与“物理瓶颈”。
           </p>
-
-          <div className="flex items-center justify-center gap-4">
-            <Link
-              href={latestReport ? `/reports/daily/${latestReport.slug}` : "/"}
-              className="rounded-full bg-slate-900 px-8 py-4 text-lg font-bold text-white transition-all hover:bg-slate-800 hover:shadow-xl hover:-translate-y-1 active:scale-95 dark:bg-white dark:text-slate-900 dark:hover:bg-slate-100"
-            >
-              阅读最新笔记
-            </Link>
-            <div className="flex items-center gap-2 text-sm font-medium text-slate-500 dark:text-slate-400">
-              <ShieldCheck className="h-5 w-5 text-amber-500" />
-              独立研究 · 仅供参考
-            </div>
-          </div>
-        </div>
-
-        {/* Featured Analysis Section */}
-        {latestReport && (
-          <div className="mb-24">
-            <div className="flex items-center gap-2 mb-8">
-              <div className="h-px flex-1 bg-slate-200 dark:bg-slate-800" />
-              <h2 className="text-sm font-bold uppercase tracking-widest text-slate-400 dark:text-slate-500 px-4">
-                精选洞察
-              </h2>
-              <div className="h-px flex-1 bg-slate-200 dark:bg-slate-800" />
-            </div>
-
-            <Link
-              href={`/reports/daily/${latestReport.slug}`}
-              className="group relative block rounded-3xl border border-slate-200 bg-white p-8 transition-all hover:shadow-2xl hover:shadow-indigo-500/10 dark:border-slate-800 dark:bg-slate-900/50 backdrop-blur-sm sm:p-12 hover-scale"
-            >
-              <div className="lg:flex items-center justify-between gap-12">
-                <div className="flex-1">
-                  <div className="flex items-center gap-3 mb-6">
-                    <span className="rounded-full bg-indigo-100 px-3 py-1 text-xs font-bold text-indigo-700 dark:bg-indigo-900/40 dark:text-indigo-400 uppercase tracking-wider">
-                      最新分析
-                    </span>
-                    <span className="flex items-center gap-1.5 text-xs font-medium text-slate-500 dark:text-slate-400">
-                      <Clock className="h-3.5 w-3.5" />
-                      更新于 {latestReport.date}
-                    </span>
-                  </div>
-                  <h3 className="text-3xl font-bold text-slate-900 group-hover:text-indigo-600 dark:text-white dark:group-hover:text-indigo-400 transition-colors sm:text-4xl mb-6 leading-tight">
-                    {latestReport.title}
-                  </h3>
-                  <div className="flex items-center gap-4 text-indigo-600 dark:text-indigo-400 font-bold">
-                    了解更多 <ArrowRight className="h-5 w-5 transition-transform group-hover:translate-x-2" />
-                  </div>
-                </div>
-                <div className="hidden lg:block w-[400px] h-[240px] rounded-2xl bg-gradient-to-br from-indigo-50 to-slate-50 dark:from-slate-800 dark:to-slate-900 border border-slate-100 dark:border-slate-800 relative overflow-hidden">
-                  <div className="absolute inset-0 flex items-center justify-center opacity-20 transform -rotate-12">
-                    <TrendingUp className="w-64 h-64 text-indigo-500" />
-                  </div>
-                  <div className="absolute inset-0 bg-gradient-to-t from-white/80 via-transparent to-transparent dark:from-slate-900/80" />
-                </div>
+          
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            {/* Card 1 */}
+            <div className="bg-slate-800/40 backdrop-blur-md p-6 rounded-xl border border-slate-700/50 hover:border-teal-500/30 hover:bg-slate-800/60 transition-all duration-300 group">
+              <div className="flex items-center mb-3">
+                <span className="w-8 h-8 flex items-center justify-center rounded-lg bg-teal-500/20 text-teal-400 text-sm font-bold group-hover:scale-110 transition-transform">01</span>
+                <h2 className="text-lg font-bold text-teal-300 ml-3">底层制程垄断</h2>
               </div>
-            </Link>
+              <p className="text-slate-400 text-sm leading-relaxed">
+                布局处于全球半导体精密制造顶端的“工业母机”级别公司。寻找具备极高准入门槛的晶圆代工及前道设备供应商，作为全产业链最稳固的底座资产。
+              </p>
+              <span className="text-xs text-slate-600 mt-2 block">Foundry & WFE Moats</span>
+            </div>
+            
+            {/* Card 2 */}
+            <div className="bg-slate-800/40 backdrop-blur-md p-6 rounded-xl border border-slate-700/50 hover:border-teal-500/30 hover:bg-slate-800/60 transition-all duration-300 group">
+              <div className="flex items-center mb-3">
+                <span className="w-8 h-8 flex items-center justify-center rounded-lg bg-emerald-500/20 text-emerald-400 text-sm font-bold group-hover:scale-110 transition-transform">02</span>
+                <h2 className="text-lg font-bold text-emerald-300 ml-3">算力稀缺性与连接带宽</h2>
+              </div>
+              <p className="text-slate-400 text-sm leading-relaxed">
+                聚焦在高性能计算芯（HPC）及高带宽连接领域占据主导地位的标的。AI 的终极竞争是“规模”，寻找能有效解决数据交换瓶颈并提供核心推理/训练能力的算力巨头。
+              </p>
+              <span className="text-xs text-slate-600 mt-2 block">Compute & Interconnect Scarcity</span>
+            </div>
+            
+            {/* Card 3 */}
+            <div className="bg-slate-800/40 backdrop-blur-md p-6 rounded-xl border border-slate-700/50 hover:border-teal-500/30 hover:bg-slate-800/60 transition-all duration-300 group">
+              <div className="flex items-center mb-3">
+                <span className="w-8 h-8 flex items-center justify-center rounded-lg bg-teal-500/20 text-teal-400 text-sm font-bold group-hover:scale-110 transition-transform">03</span>
+                <h2 className="text-lg font-bold text-teal-300 ml-3">应用生态与数据霸权</h2>
+              </div>
+              <p className="text-slate-400 text-sm leading-relaxed">
+                布局拥有闭环生态、海量高质量私有数据及云基础设施的科技巨头。它们是 AI 商业化落地的最终守门人，拥有将技术转化为持续现金流的分配权。
+              </p>
+              <span className="text-xs text-slate-600 mt-2 block">Platform & Data Sovereignty</span>
+            </div>
+            
+            {/* Card 4 */}
+            <div className="bg-slate-800/40 backdrop-blur-md p-6 rounded-xl border border-slate-700/50 hover:border-teal-500/30 hover:bg-slate-800/60 transition-all duration-300 group">
+              <div className="flex items-center mb-3">
+                <span className="w-8 h-8 flex items-center justify-center rounded-lg bg-emerald-500/20 text-emerald-400 text-sm font-bold group-hover:scale-110 transition-transform">04</span>
+                <h2 className="text-lg font-bold text-emerald-300 ml-3">物理边界保障</h2>
+              </div>
+              <p className="text-slate-400 text-sm leading-relaxed">
+                关注 AI 扩张的“最终瓶颈”——电力供应与热能管理。重点布局为下一代超大规模数据中心提供高功率密度能源、液冷技术及电网扩容方案的能源基建商。
+              </p>
+              <span className="text-xs text-slate-600 mt-2 block">Power & Thermal Infrastructure</span>
+            </div>
           </div>
-        )}
-
-        <div className="grid gap-16 lg:grid-cols-2">
-          {/* Daily Reports Section */}
-          <section>
-            <div className="flex items-center justify-between mb-10 border-b border-slate-200 dark:border-slate-800 pb-4">
-              <h2 className="text-2xl font-bold flex items-center gap-3 text-slate-900 dark:text-white">
-                <Calendar className="h-6 w-6 text-amber-500" />
-                每日观察
-              </h2>
-              <Link href="/reports/daily" className="text-sm font-bold text-amber-600 hover:text-amber-500 dark:text-amber-400 flex items-center gap-1">
-                浏览存档 <ArrowRight className="h-4 w-4" />
-              </Link>
-            </div>
-
-            <div className="space-y-6 text-2xl">
-              {dailyReports.length > 0 ? (
-                dailyReports.map((report) => (
-                  <Link
-                    key={report.slug}
-                    href={`/reports/daily/${report.slug}`}
-                    className="group flex items-center justify-between rounded-2xl border border-transparent p-4 transition-all hover:bg-white hover:border-slate-100 hover:shadow-xl dark:hover:bg-slate-900 dark:hover:border-slate-800 hover-scale"
-                  >
-                    <div className="flex-1">
-                      <h3 className="text-lg font-bold text-slate-900 group-hover:text-indigo-600 dark:text-white dark:group-hover:text-indigo-400 transition-colors">
-                        {report.title}
-                      </h3>
-                      <div className="mt-1 flex items-center gap-3 text-sm text-slate-500 dark:text-slate-400 font-medium">
-                        <span>{report.date}</span>
-                        <span className="w-1 h-1 rounded-full bg-slate-300 dark:bg-slate-700" />
-                        <span>每日情报</span>
-                      </div>
-                    </div>
-                    <div className="rounded-xl bg-slate-100 p-2.5 text-slate-400 group-hover:bg-indigo-50 group-hover:text-indigo-600 dark:bg-slate-800 dark:group-hover:bg-indigo-900/30 transition-all">
-                      <Clock className="h-5 w-5" />
-                    </div>
-                  </Link>
-                ))
-              ) : (
-                <p className="text-slate-500 dark:text-slate-400 italic">暂无每日观察。</p>
-              )}
-            </div>
-          </section>
-
-          {/* Weekly Reports Section */}
-          <section>
-            <div className="flex items-center justify-between mb-10 border-b border-slate-200 dark:border-slate-800 pb-4">
-              <h2 className="text-2xl font-bold flex items-center gap-3 text-slate-900 dark:text-white">
-                <BookOpen className="h-6 w-6 text-emerald-500" />
-                每周深度
-              </h2>
-              <Link href="/reports/weekly" className="text-sm font-bold text-emerald-600 hover:text-emerald-500 dark:text-emerald-400 flex items-center gap-1">
-                浏览存档 <ArrowRight className="h-4 w-4" />
-              </Link>
-            </div>
-
-            <div className="space-y-6">
-              {weeklyReports.length > 0 ? (
-                weeklyReports.map((report) => (
-                  <Link
-                    key={report.slug}
-                    href={`/reports/weekly/${report.slug}`}
-                    className="group flex items-center justify-between rounded-2xl border border-transparent p-4 transition-all hover:bg-white hover:border-slate-100 hover:shadow-xl dark:hover:bg-slate-900 dark:hover:border-slate-800 hover-scale"
-                  >
-                    <div className="flex-1">
-                      <h3 className="text-lg font-bold text-slate-900 group-hover:text-emerald-600 dark:text-white dark:group-hover:text-emerald-400 transition-colors">
-                        {report.title}
-                      </h3>
-                      <div className="mt-1 flex items-center gap-3 text-sm text-slate-500 dark:text-slate-400 font-medium">
-                        <span>{report.date}</span>
-                        <span className="w-1 h-1 rounded-full bg-slate-300 dark:bg-slate-700" />
-                        <span>每周情报</span>
-                      </div>
-                    </div>
-                    <div className="rounded-xl bg-slate-100 p-2.5 text-slate-400 group-hover:bg-emerald-50 group-hover:text-emerald-600 dark:bg-slate-800 dark:group-hover:bg-emerald-900/30 transition-all">
-                      <TrendingUp className="h-5 w-5" />
-                    </div>
-                  </Link>
-                ))
-              ) : (
-                <p className="text-slate-500 dark:text-slate-400 italic">暂无每周深度。</p>
-              )}
-            </div>
-          </section>
+          
+          <div className="mt-8 pt-5 border-t border-slate-800 text-center">
+            <p className="text-xs text-slate-500">
+              <span className="font-bold text-emerald-400">风控策略</span>：利用 AlphaJAX 的量化动量评分（Quant Score）作为过滤器，结合 LLM 叙事审计捕捉“业绩超预期 + 叙事逻辑改善”的共振点。
+            </p>
+          </div>
         </div>
-      </main>
+      </div>
     </div>
-  )
+  );
 }
