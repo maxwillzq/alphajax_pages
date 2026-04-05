@@ -19,19 +19,19 @@ export default function Home() {
         {/* Hero Section */}
         <div className="relative z-10 text-center mb-24">
           <div className="inline-flex items-center gap-2 rounded-full border border-indigo-200 bg-indigo-50/50 px-4 py-1.5 text-sm font-semibold text-indigo-700 dark:border-indigo-500/20 dark:bg-indigo-500/10 dark:text-indigo-400 mb-8 animate-in fade-in slide-in-from-bottom-4 duration-1000">
-            <Zap className="h-4 w-4" />
-            <span>AlphaJAX 2.0 引擎已上线</span>
+            <BookOpen className="h-4 w-4" />
+            <span>AlphaJAX | 个人量化思考</span>
           </div>
 
           <h1 className="text-5xl font-extrabold tracking-tight text-slate-900 dark:text-white sm:text-7xl mb-8 leading-[1.1]">
-            机构级 <br />
-            <span className="bg-gradient-to-r from-indigo-600 to-emerald-500 bg-clip-text text-transparent">
-              市场情报分析
+            量化思维与 <br />
+            <span className="bg-gradient-to-r from-amber-500 to-emerald-500 bg-clip-text text-transparent">
+              市场洞察
             </span>
           </h1>
 
           <p className="mx-auto max-w-2xl text-xl text-slate-600 dark:text-slate-400 leading-relaxed mb-10">
-            利用高性能量化模型和先进的 AI 分析，在金融市场中获得专业优势。
+            记录我使用量化模型与 AI 辅助进行市场分析的个人笔记。这里没有绝对的真理，只有持续的思考与复盘。
           </p>
 
           <div className="flex items-center justify-center gap-4">
@@ -39,11 +39,11 @@ export default function Home() {
               href={latestReport ? `/reports/daily/${latestReport.slug}` : "/"}
               className="rounded-full bg-slate-900 px-8 py-4 text-lg font-bold text-white transition-all hover:bg-slate-800 hover:shadow-xl hover:-translate-y-1 active:scale-95 dark:bg-white dark:text-slate-900 dark:hover:bg-slate-100"
             >
-              最新报告
+              阅读最新笔记
             </Link>
             <div className="flex items-center gap-2 text-sm font-medium text-slate-500 dark:text-slate-400">
-              <ShieldCheck className="h-5 w-5 text-emerald-500" />
-              经认证的数据源
+              <ShieldCheck className="h-5 w-5 text-amber-500" />
+              独立研究 · 仅供参考
             </div>
           </div>
         </div>
@@ -97,10 +97,10 @@ export default function Home() {
           <section>
             <div className="flex items-center justify-between mb-10 border-b border-slate-200 dark:border-slate-800 pb-4">
               <h2 className="text-2xl font-bold flex items-center gap-3 text-slate-900 dark:text-white">
-                <Calendar className="h-6 w-6 text-indigo-500" />
-                每日复盘
+                <Calendar className="h-6 w-6 text-amber-500" />
+                每日观察
               </h2>
-              <Link href="/reports/daily" className="text-sm font-bold text-indigo-600 hover:text-indigo-500 dark:text-indigo-400 flex items-center gap-1">
+              <Link href="/reports/daily" className="text-sm font-bold text-amber-600 hover:text-amber-500 dark:text-amber-400 flex items-center gap-1">
                 浏览存档 <ArrowRight className="h-4 w-4" />
               </Link>
             </div>
@@ -129,7 +129,7 @@ export default function Home() {
                   </Link>
                 ))
               ) : (
-                <p className="text-slate-500 dark:text-slate-400 italic">暂无每日报告。</p>
+                <p className="text-slate-500 dark:text-slate-400 italic">暂无每日观察。</p>
               )}
             </div>
           </section>
@@ -139,10 +139,10 @@ export default function Home() {
             <div className="flex items-center justify-between mb-10 border-b border-slate-200 dark:border-slate-800 pb-4">
               <h2 className="text-2xl font-bold flex items-center gap-3 text-slate-900 dark:text-white">
                 <BookOpen className="h-6 w-6 text-emerald-500" />
-                高置信度
+                每周深度
               </h2>
               <Link href="/reports/weekly" className="text-sm font-bold text-emerald-600 hover:text-emerald-500 dark:text-emerald-400 flex items-center gap-1">
-                查看每周分析 <ArrowRight className="h-4 w-4" />
+                浏览存档 <ArrowRight className="h-4 w-4" />
               </Link>
             </div>
 
@@ -170,7 +170,7 @@ export default function Home() {
                   </Link>
                 ))
               ) : (
-                <p className="text-slate-500 dark:text-slate-400 italic">暂无每周分析。</p>
+                <p className="text-slate-500 dark:text-slate-400 italic">暂无每周深度。</p>
               )}
             </div>
           </section>
