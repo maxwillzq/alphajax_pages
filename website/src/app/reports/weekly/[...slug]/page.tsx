@@ -70,16 +70,6 @@ export default async function WeeklyReportPage({
         </div>
       </article>
 
-      <section className="mt-16 border-t pt-12">
-        <h2 className="mb-8 text-2xl font-bold text-slate-900 dark:text-white">
-          社区分析
-        </h2>
-        <div className="rounded-xl bg-slate-50 p-6 dark:bg-slate-900">
-          <p className="text-slate-600 dark:text-slate-400 italic">
-            社区反馈和评价功能即将上线。
-          </p>
-        </div>
-      </section>
     </div>
   )
 }
