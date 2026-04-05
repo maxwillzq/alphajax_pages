@@ -13,7 +13,7 @@ export default function Home() {
             AlphaJAX 投资哲学
           </h1>
           <p className="text-center text-slate-400 mb-10 max-w-2xl mx-auto text-base">
-            捕捉人工智能与半导体协议带来的跨周期结构性增长，聚焦“确定性”与“物理瓶颈”。
+            记录我使用 AI 辅助进行市场分析的个人笔记。这里没有绝对的真理，只有持续的思考与复盘。
           </p>
           
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
