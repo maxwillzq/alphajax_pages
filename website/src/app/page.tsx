@@ -61,7 +61,7 @@ export default function Home() {
 
             <Link
               href={`/reports/daily/${latestReport.slug}`}
-              className="group relative block rounded-3xl border border-slate-200 bg-white p-8 transition-all hover:shadow-2xl hover:shadow-indigo-500/10 dark:border-slate-800 dark:bg-slate-900/50 backdrop-blur-sm sm:p-12"
+              className="group relative block rounded-3xl border border-slate-200 bg-white p-8 transition-all hover:shadow-2xl hover:shadow-indigo-500/10 dark:border-slate-800 dark:bg-slate-900/50 backdrop-blur-sm sm:p-12 hover-scale"
             >
               <div className="lg:flex items-center justify-between gap-12">
                 <div className="flex-1">
@@ -111,7 +111,7 @@ export default function Home() {
                   <Link
                     key={report.slug}
                     href={`/reports/daily/${report.slug}`}
-                    className="group flex items-center justify-between rounded-2xl border border-transparent p-4 transition-all hover:bg-white hover:border-slate-100 hover:shadow-xl dark:hover:bg-slate-900 dark:hover:border-slate-800"
+                    className="group flex items-center justify-between rounded-2xl border border-transparent p-4 transition-all hover:bg-white hover:border-slate-100 hover:shadow-xl dark:hover:bg-slate-900 dark:hover:border-slate-800 hover-scale"
                   >
                     <div className="flex-1">
                       <h3 className="text-lg font-bold text-slate-900 group-hover:text-indigo-600 dark:text-white dark:group-hover:text-indigo-400 transition-colors">
@@ -152,7 +152,7 @@ export default function Home() {
                   <Link
                     key={report.slug}
                     href={`/reports/weekly/${report.slug}`}
-                    className="group flex items-center justify-between rounded-2xl border border-transparent p-4 transition-all hover:bg-white hover:border-slate-100 hover:shadow-xl dark:hover:bg-slate-900 dark:hover:border-slate-800"
+                    className="group flex items-center justify-between rounded-2xl border border-transparent p-4 transition-all hover:bg-white hover:border-slate-100 hover:shadow-xl dark:hover:bg-slate-900 dark:hover:border-slate-800 hover-scale"
                   >
                     <div className="flex-1">
                       <h3 className="text-lg font-bold text-slate-900 group-hover:text-emerald-600 dark:text-white dark:group-hover:text-emerald-400 transition-colors">

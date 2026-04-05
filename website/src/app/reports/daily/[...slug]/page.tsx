@@ -4,12 +4,33 @@ import { notFound } from 'next/navigation'
 import remarkGfm from 'remark-gfm'
 import remarkToc from 'remark-toc'
 import rehypeSlug from 'rehype-slug'
+import { Metadata } from 'next'
 
 export async function generateStaticParams() {
   const reports = getAllReports('daily')
   return reports.map((report) => ({
     slug: report.slug.split('/'),
   }))
+}
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ slug: string[] }>
+}): Promise<Metadata> {
+  const { slug } = await params
+  const report = getReportBySlug('daily', slug.join('/'))
+
+  if (!report) {
+    return {
+      title: 'Report Not Found',
+    }
+  }
+
+  return {
+    title: `${report.title} | AlphaJAX Daily Report`,
+    description: `AlphaJAX Daily Market Analysis for ${report.date}. ${report.title}`,
+  }
 }
 
 export default async function DailyReportPage({
@@ -67,7 +88,7 @@ export default async function DailyReportPage({
               }
             }}
           >
-            {report.content.replace(/\[TOC\]/gi, '## 目录')}
+            {report.content.replace(/^#\s+.+\n?/, '').replace(/\[TOC\]/gi, '## 目录')}
           </ReactMarkdown>
         </div>
       </article>
