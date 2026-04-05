@@ -27,6 +27,9 @@ export default function Navbar() {
               <Link href="/reports/weekly" className="text-sm font-medium text-slate-600 hover:text-indigo-600 dark:text-slate-400 dark:hover:text-indigo-400">
                 每周分析
               </Link>
+              <Link href="/philosophy" className="text-sm font-medium text-slate-600 hover:text-indigo-600 dark:text-slate-400 dark:hover:text-indigo-400">
+                投资哲学
+              </Link>
             </div>
           </div>
 
