@@ -1,0 +1,497 @@
+{
+  "generated_at": "2026-04-18 23:38:12",
+  "tickers": {
+    "HOOD": {
+      "price": 90.75,
+      "sma20": 73.05450019836425,
+      "sma50": 75.53459991455078,
+      "sma200": 107.35074977874756,
+      "ema20": 76.44205395334063,
+      "ema50": 80.27924094445582,
+      "ema200": 92.30035985706667,
+      "rsi": 84.97880494920246,
+      "macd": 2.0440439639531434,
+      "macd_signal": -0.8118867343608991,
+      "macd_hist": 2.8559306983140424,
+      "atr": 4.8092144557407925,
+      "fundamentals": {
+        "trailingPE": 44.268295,
+        "forwardPE": 33.699604,
+        "pegRatio": "N/A",
+        "recommendationMean": 1.92593,
+        "targetMeanPrice": 101.39625,
+        "currentPrice": 90.75,
+        "marketCap": 81702985728
+      },
+      "news": [
+        {
+          "title": "Robinhood stock surges after SEC removes limit on day trading activity",
+          "link": "https://finance.yahoo.com/news/robinhood-stock-surges-after-sec-removes-limit-on-day-trading-activity-133154498.html",
+          "snippet": "Robinhood (HOOD) stock jumped 8% on Wednesday, extending gains from the prior session after the...",
+          "source": "Yahoo Finance",
+          "date": "2026-04-15T06:38:14+00:00"
+        },
+        {
+          "title": "Here is What to Know Beyond Why Robinhood Markets, Inc. (HOOD) is a Trending Stock",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-robinhood-markets-130003316.html",
+          "snippet": "Robinhood Markets (HOOD) has received quite a bit of attention from Zacks.com users lately....",
+          "source": "Zacks",
+          "date": "2026-04-13T06:38:14+00:00"
+        },
+        {
+          "title": "Why Is Robinhood Stock Soaring Tuesday? - Robinhood Markets (NASDAQ:HOOD)",
+          "link": "https://www.benzinga.com/trading-ideas/movers/26/04/51807132/why-is-robinhood-stock-soaring-tuesday",
+          "snippet": "Robinhood (HOOD) shares climb on bullish analyst views and crypto gains. Explore key support levels,...",
+          "source": "Benzinga",
+          "date": "2026-04-14T06:38:14+00:00"
+        },
+        {
+          "title": "John Arnold Criticism Puts Robinhood Betting Pivot And Valuation In Focus",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/john-arnold-criticism-puts-robinhood-200257152.html",
+          "snippet": "Billionaire investor John Arnold has publicly criticized Robinhood Markets' move into prediction and...",
+          "source": "Simply Wall St.",
+          "date": "2026-04-18T06:38:14+00:00"
+        },
+        {
+          "title": "Robinhood stock surges on latest SEC move",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/robinhood-stock-surges-latest-sec-185200499.html",
+          "snippet": "The Robinhood Markets (Nasdaq: HOOD) stock surged following the latest move by the U.S. Securities and Exchange Commissi...",
+          "source": "TheStreet",
+          "date": "2026-04-16T06:38:14+00:00"
+        }
+      ],
+      "chart_path": "/Users/johnqiangzhang/.gemini/jetski/brain/ee2d02cb-6a98-4cf6-a99a-9790660b2dd8/charts/HOOD_chart.png"
+    },
+    "AMD": {
+      "price": 278.3900146484375,
+      "sma20": 226.7235008239746,
+      "sma50": 212.13480041503905,
+      "sma200": 202.45235000610353,
+      "ema20": 235.21020603117944,
+      "ema50": 221.75198186250327,
+      "ema200": 196.5722028446721,
+      "rsi": 93.26159689128644,
+      "macd": 16.650397710350177,
+      "macd_signal": 10.052781122161385,
+      "macd_hist": 6.597616588188792,
+      "atr": 10.552142551967076,
+      "fundamentals": {
+        "trailingPE": 106.25574,
+        "forwardPE": 25.39617,
+        "pegRatio": 0.83,
+        "recommendationMean": 1.60417,
+        "targetMeanPrice": 291.52173,
+        "currentPrice": 278.39,
+        "marketCap": 453890113536
+      },
+      "news": [
+        {
+          "title": "Bank of America revamps AMD stock price target",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-revamps-amd-stock-211700246.html",
+          "snippet": "Advanced Micro Devices (AMD) has gained about 42% in the past month, according to Yahoo Finance at the time of writing, ...",
+          "source": "Yahoo Finance",
+          "date": "2026-04-10T06:38:15+00:00"
+        },
+        {
+          "title": "Broadcom vs. AMD: Which AI Chipmaker Is the Better Buy?",
+          "link": "https://www.aol.com/articles/broadcom-vs-amd-ai-chipmaker-165000943.html",
+          "snippet": "Broadcom and AMD both have excellent business models and are at the center of the AI chip boom, making this a tough race to ...",
+          "source": "AOL",
+          "date": "2026-04-13T06:38:15+00:00"
+        },
+        {
+          "title": "Nvidia Stock Slaughters Rivals AMD & Intel as the as Blackwell Ultra Racks ‘Lead the Market by Two Generations’",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-slaughters-rivals-amd-132028107.html",
+          "snippet": "While the stock market fixates on a temporary surge from its competitors, the king of artificial intelligence is quietly ...",
+          "source": "Yahoo Finance",
+          "date": "2026-04-02T06:38:15+00:00"
+        },
+        {
+          "title": "Jim Cramer Says “Go Buy AMD and Intel Like Everyone Else” During CPU Supply Shortage",
+          "link": "https://www.insidermonkey.com/blog/jim-cramer-says-go-buy-amd-and-intel-like-everyone-else-during-cpu-supply-shortage-1740926/",
+          "snippet": "Advanced Micro Devices, Inc. (NASDAQ:AMD) was among Jim Cramer’s stock calls, as he discussed the rising market speculation.",
+          "source": "Insider Monkey",
+          "date": "2026-04-08T06:38:15+00:00"
+        },
+        {
+          "title": "Advanced Micro Devices Inc. (AMD) to Deepen Collaboration with France to Support AI Strategy",
+          "link": "https://www.insidermonkey.com/blog/advanced-micro-devices-inc-amd-to-deepen-collaboration-with-france-to-support-ai-strategy-1740753/",
+          "snippet": "Advanced Micro Devices Inc. (NASDAQ:AMD) is a leading semiconductor company specializing in high-performance computing and ...",
+          "source": "Insider Monkey",
+          "date": "2026-03-29T06:38:15+00:00"
+        }
+      ],
+      "chart_path": "/Users/johnqiangzhang/.gemini/jetski/brain/ee2d02cb-6a98-4cf6-a99a-9790660b2dd8/charts/AMD_chart.png"
+    },
+    "VST": {
+      "price": 163.4600067138672,
+      "sma20": 154.75349884033204,
+      "sma50": 160.57259979248047,
+      "sma200": 179.13103775024413,
+      "ema20": 158.3268074899872,
+      "ema50": 159.99952383236143,
+      "ema200": 164.714154422669,
+      "rsi": 59.52268059257964,
+      "macd": 0.7611727209200296,
+      "macd_signal": -0.9812944254430875,
+      "macd_hist": 1.7424671463631172,
+      "atr": 6.602502005440848,
+      "fundamentals": {
+        "trailingPE": 75.32719,
+        "forwardPE": 14.549669,
+        "pegRatio": 1.42,
+        "recommendationMean": 1.4,
+        "targetMeanPrice": 234.26315,
+        "currentPrice": 163.46,
+        "marketCap": 55339266048
+      },
+      "news": [
+        {
+          "title": "Vistra Corp (VST) Receives a Buy from TD Cowen",
+          "link": "https://www.theglobeandmail.com/investing/markets/stocks/VST/pressreleases/1383613/vistra-corp-vst-receives-a-buy-from-td-cowen/",
+          "snippet": "Detailed price information for Vistra Energy Corp (VST-N) from The Globe and Mail including charting and trades.",
+          "source": "The Globe and Mail",
+          "date": "2026-04-03T06:38:17+00:00"
+        },
+        {
+          "title": "Jim Cramer on Vistra (VST): “I’d Buy It”",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-vistra-vst-d-185446510.html",
+          "snippet": "Vistra Corp. (NYSE:VST) was among Jim Cramer’s stock calls, as he discussed the rising market speculation. Cramer noted ...",
+          "source": "Insider Monkey",
+          "date": "2026-04-18T18:38:17+00:00"
+        },
+        {
+          "title": "Vistra Corp. (VST) Is a Trending Stock: Facts to Know Before Betting on It",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-trending-stock-130006783.html",
+          "snippet": "Vistra Corp. (VST) has been one of the most searched-for stocks on Zacks.com lately. So, you might...",
+          "source": "Zacks",
+          "date": "2026-04-15T06:38:17+00:00"
+        },
+        {
+          "title": "Vistra Corp. (VST) Surpasses Market Returns: Some Facts Worth Knowing",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-surpasses-market-214505344.html",
+          "snippet": "In the latest close session, Vistra Corp. (VST) was up +1.59% at $165.53. The stock exceeded the S&P...",
+          "source": "Zacks",
+          "date": "2026-04-17T06:38:17+00:00"
+        },
+        {
+          "title": "Vistra (VST) Prices $4 Billion Private Offering of Senior Notes to Repay Existing Debt",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/vistra-vst-prices-4-billion-203408626.html",
+          "snippet": "Vistra Corp. (NYSE:VST) is one of the best AI energy stocks to buy in 2026. On April 8, 2026, Vistra...",
+          "source": "Insider Monkey",
+          "date": "2026-04-15T06:38:17+00:00"
+        }
+      ],
+      "chart_path": "/Users/johnqiangzhang/.gemini/jetski/brain/ee2d02cb-6a98-4cf6-a99a-9790660b2dd8/charts/VST_chart.png"
+    },
+    "GOOGL": {
+      "price": 341.67999267578125,
+      "sma20": 306.07249755859374,
+      "sma50": 307.78056579589844,
+      "sma200": 272.23339553833006,
+      "ema20": 315.16272454371955,
+      "ema50": 310.28794117117474,
+      "ema200": 274.7522683835871,
+      "rsi": 93.74996778129507,
+      "macd": 8.796076745627829,
+      "macd_signal": 3.532644011631463,
+      "macd_hist": 5.263432733996366,
+      "atr": 8.677858625139509,
+      "fundamentals": {
+        "trailingPE": 31.637035,
+        "forwardPE": 25.396692,
+        "pegRatio": 2.3,
+        "recommendationMean": 1.37313,
+        "targetMeanPrice": 376.0575,
+        "currentPrice": 341.68,
+        "marketCap": 4133303091200
+      },
+      "news": [
+        {
+          "title": "Alphabet director Hennessy sells $348k in GOOGL stock By Investing.com",
+          "link": "https://www.investing.com/news/insider-trading-news/alphabet-director-hennessy-sells-348k-in-googl-stock-93CH-4622089",
+          "snippet": "Alphabet director Hennessy sells $348k in GOOGL stock",
+          "source": "Investing.com",
+          "date": "2026-04-18T06:38:19+00:00"
+        },
+        {
+          "title": "Forget Timing the Market: Just Buy These 3 Growth Stocks and Hold Forever",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/forget-timing-market-just-buy-042000993.html",
+          "snippet": "If the stock market has (re)taught anything just since the end of February, it's that it's still...",
+          "source": "Motley Fool",
+          "date": "2026-04-19T04:38:19+00:00"
+        },
+        {
+          "title": "Wall Street Bullish on Alphabet Inc. (GOOGL), But Stifel Lowered PT, Here’s Why",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-alphabet-inc-094228587.html",
+          "snippet": "Alphabet Inc. (NASDAQ:GOOGL) is one of the Unstoppable Growth Stocks to Invest In According to...",
+          "source": "Insider Monkey",
+          "date": "2026-04-18T09:38:19+00:00"
+        },
+        {
+          "title": "Is Alphabet (GOOGL) Still an Undervalued AI Stock to Buy Now?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-still-undervalued-ai-130002935.html",
+          "snippet": "We just covered the 10 Best Stocks to Buy According to AI Bull Brad Gerstner. Alphabet...",
+          "source": "Insider Monkey",
+          "date": "2026-04-16T06:38:19+00:00"
+        },
+        {
+          "title": "What Makes Alphabet (GOOGL) a New Buy Stock",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/makes-alphabet-googl-buy-stock-160004085.html",
+          "snippet": "Alphabet (GOOGL) could be a solid choice for investors given its recent upgrade to a Zacks Rank #2 (Buy). An upward...",
+          "source": "Zacks",
+          "date": "2026-04-13T06:38:19+00:00"
+        }
+      ],
+      "chart_path": "/Users/johnqiangzhang/.gemini/jetski/brain/ee2d02cb-6a98-4cf6-a99a-9790660b2dd8/charts/GOOGL_chart.png"
+    },
+    "MSFT": {
+      "price": 422.7900085449219,
+      "sma20": 379.9269989013672,
+      "sma50": 392.10246704101564,
+      "sma200": 470.4445182800293,
+      "ema20": 389.9187030805543,
+      "ema50": 399.8231331581802,
+      "ema200": 437.64405343678095,
+      "rsi": 92.93705472045932,
+      "macd": 3.8610739400218677,
+      "macd_signal": -3.5334832632517266,
+      "macd_hist": 7.394557203273594,
+      "atr": 10.107145036969866,
+      "fundamentals": {
+        "trailingPE": 26.457449,
+        "forwardPE": 22.363321,
+        "pegRatio": 1.33,
+        "recommendationMean": 1.28571,
+        "targetMeanPrice": 579.5731,
+        "currentPrice": 422.79,
+        "marketCap": 3142335070208
+      },
+      "news": [
+        {
+          "title": "“Where is Microsoft (MSFT)?” Wonders Jim Cramer",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/where-microsoft-msft-wonders-jim-042828637.html",
+          "snippet": "We recently published Jim Cramer Discussed AI “Mojo” & Commented On These 13 Stocks. Microsoft Corporation (NASDAQ:MSFT)...",
+          "source": "Insider Monkey",
+          "date": "2026-04-19T04:38:20+00:00"
+        },
+        {
+          "title": "Is Microsoft (MSFT) One of the Best Unrivaled Stocks of the Next 5 Years?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-one-best-unrivaled-184144197.html",
+          "snippet": "Microsoft Corporation (NASDAQ:MSFT) is one of the 10 Unrivaled Stocks of the Next 5 Years. On April...",
+          "source": "Insider Monkey",
+          "date": "2026-04-18T18:38:20+00:00"
+        },
+        {
+          "title": "Microsoft (MSFT) Stock Is Up, What You Need To Know",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-stock-know-050801979.html",
+          "snippet": "Shares of technology giant Microsoft (NASDAQ:MSFT) jumped 3% in the afternoon session after Bernstein analysts pushed...",
+          "source": "StockStory",
+          "date": "2026-04-14T06:38:20+00:00"
+        },
+        {
+          "title": "Goldman Sachs Maintains Bullish Stance on Microsoft (MSFT) Stock",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-maintains-bullish-stance-210330588.html",
+          "snippet": "Microsoft Corporation (NASDAQ:MSFT) is one of the Best Long Term Growth Stocks to Invest In...",
+          "source": "Insider Monkey",
+          "date": "2026-04-13T06:38:20+00:00"
+        },
+        {
+          "title": "The Great Rotation Has Crushed Growth Stocks. History Says That's Usually When You Should Be Buying...",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/great-rotation-crushed-growth-stocks-203000521.html",
+          "snippet": "Leading tech companies like Nvidia (NASDAQ: NVDA), Microsoft (NASDAQ: MSFT), and Alphabet (NASDAQ:...",
+          "source": "Motley Fool",
+          "date": "2026-04-18T20:38:20+00:00"
+        }
+      ],
+      "chart_path": "/Users/johnqiangzhang/.gemini/jetski/brain/ee2d02cb-6a98-4cf6-a99a-9790660b2dd8/charts/MSFT_chart.png"
+    },
+    "NVDA": {
+      "price": 201.67999267578125,
+      "sma20": 181.4384994506836,
+      "sma50": 183.2919857788086,
+      "sma200": 181.7573282623291,
+      "ema20": 186.37543950306102,
+      "ema50": 183.8549550409327,
+      "ema200": 173.45998602661274,
+      "rsi": 92.80702593039464,
+      "macd": 4.723555157134172,
+      "macd_signal": 1.7096911709262383,
+      "macd_hist": 3.0138639862079333,
+      "atr": 5.014283316476004,
+      "fundamentals": {
+        "trailingPE": 41.15918,
+        "forwardPE": 17.94437,
+        "pegRatio": 0.72,
+        "recommendationMean": 1.28814,
+        "targetMeanPrice": 268.6148,
+        "currentPrice": 201.68,
+        "marketCap": 4901832228864
+      },
+      "news": [
+        {
+          "title": "Prediction: This Under-the-Radar AI Stock Will Be the Surprise Winner of 2026",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-under-radar-ai-stock-153500312.html",
+          "snippet": "These AI stocks have already gained greater recognition among investors than they were a few years ago. While each of these ...",
+          "source": "Yahoo Finance",
+          "date": "2026-04-06T06:38:22+00:00"
+        },
+        {
+          "title": "Nvidia's New AI Models Spark a Surge in Quantum Computing Stocks",
+          "link": "https://www.technobezz.com/news/nvidias-new-ai-models-spark-a-surge-in-quantum-computing-stocks",
+          "snippet": "Nvidia's new AI models for quantum error correction spark a surge in quantum computing stocks, with several companies seeing ...",
+          "source": "Technobezz",
+          "date": "2026-04-13T06:38:22+00:00"
+        },
+        {
+          "title": "1 Growth Stock I Think Will Outperform Nvidia Stock Over the Next Decade",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-think-outperform-024100157.html",
+          "snippet": "It's been a phenomenal run for investors holding shares of AI chipmaker Nvidia (NASDAQ: NVDA). The...",
+          "source": "Motley Fool",
+          "date": "2026-04-19T02:38:22+00:00"
+        },
+        {
+          "title": "NVIDIA (NVDA) Introduces Ising Quantum AI Family",
+          "link": "https://tech.yahoo.com/ai/articles/nvidia-nvda-introduces-ising-quantum-184243328.html",
+          "snippet": "NVIDIA Corporation (NASDAQ:NVDA) is one of the 10 Unrivaled Stocks of the Next 5 Years. On April 14, NVIDIA Corporation ...",
+          "source": "Insider Monkey",
+          "date": "2026-04-18T18:38:22+00:00"
+        },
+        {
+          "title": "NVIDIA: AI Dominance Overshadows Gaming Legacy (NVDA)",
+          "link": "https://www.gurufocus.com/news/8802318/nvidia-ai-dominance-overshadows-gaming-legacy-nvda",
+          "snippet": "On April 18, 2026, NVIDIA Corp (NVDA) has made headlines as it continues to pivot from its...",
+          "source": "Guru Focus",
+          "date": "2026-04-19T01:38:22+00:00"
+        }
+      ],
+      "chart_path": "/Users/johnqiangzhang/.gemini/jetski/brain/ee2d02cb-6a98-4cf6-a99a-9790660b2dd8/charts/NVDA_chart.png"
+    },
+    "ASML": {
+      "price": 1459.800048828125,
+      "sma20": 1384.6630004882813,
+      "sma50": 1398.8173486328126,
+      "sma200": 1082.6044802856445,
+      "ema20": 1410.0451526505685,
+      "ema50": 1374.2314407360057,
+      "ema200": 1138.9371632291375,
+      "rsi": 63.54448263642657,
+      "macd": 26.58341142266795,
+      "macd_signal": 14.371930141982626,
+      "macd_hist": 12.211481280685325,
+      "atr": 62.78788539341518,
+      "fundamentals": {
+        "trailingPE": 47.846607,
+        "forwardPE": 30.525225,
+        "pegRatio": 2.16,
+        "recommendationMean": 1.45455,
+        "targetMeanPrice": 1645.2518,
+        "currentPrice": 1459.8,
+        "marketCap": 573203152896
+      },
+      "news": [
+        {
+          "title": "Is ASML Holding (ASML) the Best Stock to Buy for the Next Decade?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/asml-holding-asml-best-stock-050521629.html",
+          "snippet": "ASML Holding N.V. (NASDAQ:ASML) is one of the 10 Best Stocks to Buy for the Next Decade. On April...",
+          "source": "Insider Monkey",
+          "date": "2026-04-19T04:38:24+00:00"
+        },
+        {
+          "title": "ASML Stock: Lower Margins Are The Best News Investors Could Get (NASDAQ:ASML)",
+          "link": "https://seekingalpha.com/article/4891773-asml-lower-margins-best-news-investors-could-get",
+          "snippet": "ASML Q1 2026 results met guidance, revenue outlook raised to €36–€40B as margins lag on ramp costs. ...",
+          "source": "Seeking Alpha",
+          "date": "2026-04-18T10:38:24+00:00"
+        },
+        {
+          "title": "Why ASML Stock Is Sinking Today",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/why-asml-stock-sinking-today-155508056.html",
+          "snippet": "ASML (NASDAQ: ASML) stock is heading lower in Wednesday's trading following the company's recent quarterly release. The...",
+          "source": "Motley Fool",
+          "date": "2026-04-15T06:38:24+00:00"
+        },
+        {
+          "title": "ASML vs. AAOI: Which Stock Leads the Data Center Supply Chain?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/asml-vs-aaoi-stock-leads-151800655.html",
+          "snippet": "ASML Holding's EUV dominance, rising chip demand and strong 2026 outlook position it ahead of...",
+          "source": "Zacks",
+          "date": "2026-04-17T06:38:24+00:00"
+        },
+        {
+          "title": "Goldman Sachs raises ASML stock price target to €1,570 on strong results By Investing.com",
+          "link": "https://uk.investing.com/news/stock-market-news/goldman-sachs-raises-asml-stock-price-target-to-1570-on-strong-results-93CH-4611119",
+          "snippet": "Goldman Sachs raises ASML stock price target to €1,570 on strong results",
+          "source": "Investing.com",
+          "date": "2026-04-16T06:38:24+00:00"
+        }
+      ],
+      "chart_path": "/Users/johnqiangzhang/.gemini/jetski/brain/ee2d02cb-6a98-4cf6-a99a-9790660b2dd8/charts/ASML_chart.png"
+    },
+    "META": {
+      "price": 688.5499877929688,
+      "sma20": 603.6874969482421,
+      "sma50": 629.5602673339844,
+      "sma200": 680.2621295166016,
+      "ema20": 626.9928851880471,
+      "ema50": 628.3599677669796,
+      "ema200": 642.4002979391718,
+      "rsi": 96.4565117830108,
+      "macd": 13.860628348486216,
+      "macd_signal": -0.36938160243464574,
+      "macd_hist": 14.230009950920861,
+      "atr": 20.795710972377233,
+      "fundamentals": {
+        "trailingPE": 29.324957,
+        "forwardPE": 19.332428,
+        "pegRatio": 1.11,
+        "recommendationMean": 1.35385,
+        "targetMeanPrice": 855.9293,
+        "currentPrice": 688.55,
+        "marketCap": 1747831357440
+      },
+      "news": [
+        {
+          "title": "Meta's Earnings Report Is Coming Up. Is It Time to Buy the Growth Stock?",
+          "link": "https://www.aol.com/finance/metas-earnings-report-coming-time-182700504.html",
+          "snippet": "With the social media company's next quarterly update on the horizon, investors are weighing the company's strong top-line ...",
+          "source": "AOL",
+          "date": "2026-04-14T06:38:25+00:00"
+        },
+        {
+          "title": "Avery Dennison Corp.DL-Notes 2020(20/30) Bond",
+          "link": "https://markets.businessinsider.com/bonds/avery_dennison_corpdl-notes_202020-30-bond-2030-us053611ak55",
+          "snippet": "More Bonds of Avery Dennison Corp. Moody’s Daily Credit Risk Score About the Avery Dennison Corp.-Bond (US053611AK55) The Avery Dennison Corp.-Bond has a maturity date of 4/30/2030 and offers a coupon ...",
+          "source": "Markets Insider",
+          "date": "2026-04-10T06:38:25+00:00"
+        },
+        {
+          "title": "Energy Transfer L.P.DL-FLR Notes 2025(36/56) Bond",
+          "link": "https://markets.businessinsider.com/bonds/energy_transfer_lpdl-flr_notes_202536-56-bond-2056-us29273vbh24",
+          "snippet": "More Bonds of Energy Transfer L.P. Moody’s Daily Credit Risk Score About the Energy Transfer L.P.-Bond (US29273VBH24) The Energy Transfer L.P.-Bond has a maturity date of 2/15/2056 and offers a coupon ...",
+          "source": "Markets Insider",
+          "date": "2026-04-07T06:38:25+00:00"
+        },
+        {
+          "title": "Deutsche Bank AGFLR-MTN v.25(27/28) Bond",
+          "link": "https://markets.businessinsider.com/bonds/deutsche_bankflr-mtn_v2527-28-bond-2028-de000a4dfsk4",
+          "snippet": "The Deutsche Bank AG-Bond has a maturity date of 8/13/2028 and offers a coupon of 2.6250%. The payment of the coupon will take place 1,0 times per Year on the 13.08.. At the current price of 99.582 ...",
+          "source": "Markets Insider",
+          "date": "2026-04-10T06:38:25+00:00"
+        },
+        {
+          "title": "Europäische UnionEO-Medium-Term Notes 2023(28) Bond",
+          "link": "https://markets.businessinsider.com/bonds/europaeische_unioneo-medium-term_notes_202328-bond-2028-eu000a3k4en5",
+          "snippet": "The Europäische Union-Bond has a maturity date of 12/5/2028 and offers a coupon of 3.1250%. The payment of the coupon will take place 1,0 times per Year on the 05.12.. At the current price of 101.505 ...",
+          "source": "Markets Insider",
+          "date": "2026-04-05T06:38:25+00:00"
+        }
+      ],
+      "chart_path": "/Users/johnqiangzhang/.gemini/jetski/brain/ee2d02cb-6a98-4cf6-a99a-9790660b2dd8/charts/META_chart.png"
+    }
+  },
+  "review_data": {
+    "last_week_date": "N/A",
+    "results": []
+  }
+}
