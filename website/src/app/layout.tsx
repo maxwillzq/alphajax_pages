@@ -7,8 +7,8 @@ import { Providers } from '@/components/Providers'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'AlphaJAX 智能分析 | 专业股票分析平台',
-  description: '由量化引擎和 AI 驱动的机构级市场分析报告。',
+  title: 'Personal Homepage | Investing',
+  description: 'Personal investment notes and thoughts.',
 }
 
 export default function RootLayout({
@@ -30,10 +30,7 @@ export default function RootLayout({
             <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
               <div className="text-center">
                 <p className="text-sm text-slate-500 dark:text-slate-400">
-                  © {new Date().getFullYear()} AlphaJAX 市场智能. 保留所有权利。
-                </p>
-                <p className="mt-2 text-xs text-slate-400 dark:text-slate-500">
-                  量化数据和 AI 分析仅供参考，不构成投资建议。
+                  © {new Date().getFullYear()} 个人主页. 保留所有权利。
                 </p>
               </div>
             </div>

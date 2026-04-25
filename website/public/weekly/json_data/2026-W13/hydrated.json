@@ -1,9 +1,0 @@
-{
-  "candidates": [
-    {"ticker": "APA", "rank": 1},
-    {"ticker": "DOW", "rank": 2},
-    {"ticker": "DVN", "rank": 3},
-    {"ticker": "FANG", "rank": 4},
-    {"ticker": "CTRA", "rank": 5}
-  ]
-}

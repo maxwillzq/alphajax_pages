@@ -17,19 +17,19 @@ export default function Navbar() {
                 <TrendingUp className="h-5 w-5" />
               </div>
               <span className="text-xl font-bold tracking-tight text-slate-900 dark:text-white">
-                AlphaJAX
+                Homepage
               </span>
             </Link>
 
             <div className="hidden md:flex items-center gap-6">
-              <Link href="/reports/daily" className="text-sm font-medium text-slate-600 hover:text-indigo-600 dark:text-slate-400 dark:hover:text-indigo-400">
-                每日报告
+              {/* Investing */}
+              <Link href="/tang-gu-lun-jin" className="text-sm font-medium text-slate-600 hover:text-indigo-600 dark:text-slate-400 dark:hover:text-indigo-400">
+                Investing
               </Link>
-              <Link href="/reports/weekly" className="text-sm font-medium text-slate-600 hover:text-indigo-600 dark:text-slate-400 dark:hover:text-indigo-400">
-                每周分析
-              </Link>
-              <Link href="/" className="text-sm font-medium text-slate-600 hover:text-indigo-600 dark:text-slate-400 dark:hover:text-indigo-400">
-                投资哲学
+
+              {/* Research */}
+              <Link href="/ge-wu-zhi-zhi" className="text-sm font-medium text-slate-600 hover:text-indigo-600 dark:text-slate-400 dark:hover:text-indigo-400">
+                Research
               </Link>
             </div>
           </div>
@@ -56,25 +56,19 @@ export default function Navbar() {
         <div className="md:hidden">
           <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3 border-t border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-950">
             <Link 
-              href="/reports/daily" 
+              href="/tang-gu-lun-jin" 
               className="block px-3 py-2 rounded-md text-base font-medium text-slate-600 hover:text-indigo-600 dark:text-slate-400 dark:hover:text-indigo-400"
               onClick={() => setIsOpen(false)}
             >
-              每日报告
+              Investing
             </Link>
+
             <Link 
-              href="/reports/weekly" 
+              href="/ge-wu-zhi-zhi" 
               className="block px-3 py-2 rounded-md text-base font-medium text-slate-600 hover:text-indigo-600 dark:text-slate-400 dark:hover:text-indigo-400"
               onClick={() => setIsOpen(false)}
             >
-              每周分析
-            </Link>
-            <Link 
-              href="/" 
-              className="block px-3 py-2 rounded-md text-base font-medium text-slate-600 hover:text-indigo-600 dark:text-slate-400 dark:hover:text-indigo-400"
-              onClick={() => setIsOpen(false)}
-            >
-              投资哲学
+              Research
             </Link>
           </div>
         </div>
