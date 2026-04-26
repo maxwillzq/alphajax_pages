@@ -13,6 +13,8 @@ export const authOptions = {
       async authorize(credentials) {
         if (credentials?.username === "admin" && credentials?.password === process.env.ADMIN_PASSWORD) {
           return { id: "1", name: "Admin User", email: "admin@alphajax.pro" }
+        } else if (credentials?.username === "guest" && credentials?.password === process.env.GUEST_PASSWORD) {
+          return { id: "2", name: "Guest User", email: "guest@alphajax.pro" }
         }
         return null
       }
