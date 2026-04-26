@@ -7,7 +7,7 @@ const DOCS_PATH = path.join(process.cwd(), 'public')
 export interface Report {
   slug: string
   date: string
-  type: 'daily' | 'weekly'
+  type: 'investing'
   content: string
   title: string
 }
@@ -30,7 +30,7 @@ function getFilesRecursively(dir: string, baseDir: string): string[] {
   return results
 }
 
-export function getReportBySlug(type: 'daily' | 'weekly', slug: string): Report | null {
+export function getReportBySlug(type: 'investing', slug: string): Report | null {
   try {
     const fullPath = path.join(DOCS_PATH, type, `${slug}.md`)
     if (!fs.existsSync(fullPath)) return null
@@ -49,14 +49,14 @@ export function getReportBySlug(type: 'daily' | 'weekly', slug: string): Report 
       date: data.date || fallbackDate,
       type,
       content,
-      title: data.title || `${type === 'daily' ? 'Daily' : 'Weekly'} Report - ${filename}`
+      title: data.title || `Investing Report - ${filename}`
     }
   } catch (e) {
     return null
   }
 }
 
-export function getAllReports(type: 'daily' | 'weekly') {
+export function getAllReports(type: 'investing') {
   const reportsPath = path.join(DOCS_PATH, type)
   const slugs = getFilesRecursively(reportsPath, reportsPath)
 

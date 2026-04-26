@@ -31,6 +31,11 @@ export default function Navbar() {
               <Link href="/ge-wu-zhi-zhi" className="text-sm font-medium text-slate-600 hover:text-indigo-600 dark:text-slate-400 dark:hover:text-indigo-400">
                 Research
               </Link>
+
+              {/* Calendar */}
+              <Link href="/calendar" className="text-sm font-medium text-slate-600 hover:text-indigo-600 dark:text-slate-400 dark:hover:text-indigo-400">
+                Calendar
+              </Link>
             </div>
           </div>
 
@@ -69,6 +74,14 @@ export default function Navbar() {
               onClick={() => setIsOpen(false)}
             >
               Research
+            </Link>
+
+            <Link 
+              href="/calendar" 
+              className="block px-3 py-2 rounded-md text-base font-medium text-slate-600 hover:text-indigo-600 dark:text-slate-400 dark:hover:text-indigo-400"
+              onClick={() => setIsOpen(false)}
+            >
+              Calendar
             </Link>
           </div>
         </div>

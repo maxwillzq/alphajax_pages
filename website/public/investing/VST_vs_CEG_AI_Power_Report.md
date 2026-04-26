@@ -1,3 +1,8 @@
+---
+title: AI 算力时代的能源双雄：VST vs CEG 深度解析报告
+date: 2026-04-25
+---
+
 # AI 算力时代的能源双雄：VST vs CEG 深度解析报告
 
 在人工智能（AI）军备竞赛中，算力是核心，而电力则是算力的终极瓶颈。科技巨头（Hyperscalers）正在不惜代价锁定稳定、零碳的基荷电力。在美股市场中，**Constellation Energy (CEG)** 和 **Vistra Corp (VST)** 成为了这一趋势下最受瞩目的两家能源巨头。
