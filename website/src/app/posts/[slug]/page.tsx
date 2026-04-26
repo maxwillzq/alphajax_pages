@@ -8,6 +8,7 @@ import Link from 'next/link';
 import { ArrowLeft } from 'lucide-react';
 import matter from 'gray-matter';
 import 'katex/dist/katex.min.css';
+import Script from 'next/script';
 
 export default async function PostPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
@@ -60,6 +61,28 @@ export default async function PostPage({ params }: { params: Promise<{ slug: str
             {content}
           </ReactMarkdown>
         </article>
+        
+        {/* Giscus 评论区 */}
+        <div className="mt-12 pt-6 border-t border-slate-200 dark:border-slate-800">
+          <div className="giscus" />
+          <Script
+            src="https://giscus.app/client.js"
+            data-repo="maxwillzq/alphajax_pages"
+            data-repo-id="R_kgDORb8qRg"
+            data-category="General"
+            data-category-id="DIC_kwDORb8qRs4C7u_J"
+            data-mapping="pathname"
+            data-strict="0"
+            data-reactions-enabled="1"
+            data-emit-metadata="0"
+            data-input-position="top"
+            data-theme="preferred_color_scheme"
+            data-lang="en"
+            data-loading="lazy"
+            crossOrigin="anonymous"
+            async
+          />
+        </div>
       </div>
     </div>
   );
