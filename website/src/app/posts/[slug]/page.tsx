@@ -33,7 +33,7 @@ export default async function PostPage({ params }: { params: Promise<{ slug: str
   }
   
   const fileContent = fs.readFileSync(filePath, 'utf8');
-  const { content } = matter(fileContent); // Strip frontmatter
+  const { data, content } = matter(fileContent);
   
   return (
     <div className="min-h-screen bg-white text-slate-900 p-6 font-sans">
@@ -45,6 +45,12 @@ export default async function PostPage({ params }: { params: Promise<{ slug: str
         </Link>
         
         {/* No manual header here, let markdown render the title in the content */}
+        
+        {data.date && (
+          <div className="text-sm text-slate-500 mb-6">
+            <span className="font-medium">Date:</span> {data.date}
+          </div>
+        )}
         
         <article className="prose prose-slate max-w-none">
           <ReactMarkdown 
