@@ -2,12 +2,10 @@
 
 import Link from 'next/link'
 import { TrendingUp, Menu, X } from 'lucide-react'
-import { useSession, signOut, signIn } from "next-auth/react"
 import { useState } from 'react'
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
-  const { data: session } = useSession();
 
   return (
     <nav className="sticky top-0 z-50 border-b border-slate-200 bg-white/80 backdrop-blur-md dark:border-slate-800 dark:bg-slate-950/80">
@@ -39,30 +37,6 @@ export default function Navbar() {
                 Calendar
               </Link>
             </div>
-          </div>
-
-          {/* Desktop Right Side (Auth) */}
-          <div className="hidden md:flex items-center gap-4">
-            {session?.user ? (
-              <>
-                <span className="text-sm font-medium text-slate-700 dark:text-slate-300">
-                  {session.user.name || session.user.email}
-                </span>
-                <button
-                  onClick={() => signOut()}
-                  className="text-sm font-medium text-slate-600 hover:text-red-600 dark:text-slate-400 dark:hover:text-red-400 transition-colors"
-                >
-                  Sign Out
-                </button>
-              </>
-            ) : (
-              <button
-                onClick={() => signIn()}
-                className="text-sm font-medium text-indigo-600 hover:text-indigo-700 dark:text-indigo-400 dark:hover:text-indigo-300"
-              >
-                Sign In
-              </button>
-            )}
           </div>
 
           {/* Mobile menu button */}
@@ -110,23 +84,6 @@ export default function Navbar() {
               Calendar
             </Link>
 
-            {session?.user && (
-              <div className="pt-4 pb-3 border-t border-slate-200 dark:border-slate-800">
-                <div className="px-3">
-                  <div className="text-base font-medium text-slate-800 dark:text-white">
-                    {session.user.name || session.user.email}
-                  </div>
-                </div>
-                <div className="mt-3 space-y-1">
-                  <button
-                    onClick={() => signOut()}
-                    className="block w-full text-left px-3 py-2 rounded-md text-base font-medium text-slate-600 hover:text-red-600 dark:text-slate-400 dark:hover:text-red-400"
-                  >
-                    Sign Out
-                  </button>
-                </div>
-              </div>
-            )}
           </div>
         </div>
       )}
