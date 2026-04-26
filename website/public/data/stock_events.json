@@ -1,0 +1,38 @@
+[
+  {
+    "Ticker": "NVDA",
+    "Type": "Earnings",
+    "Date": "2026-05-20",
+    "Details": "Quarterly Earnings Release"
+  },
+  {
+    "Ticker": "AMD",
+    "Type": "Earnings",
+    "Date": "2026-05-05",
+    "Details": "Quarterly Earnings Release"
+  },
+  {
+    "Ticker": "GOOGL",
+    "Type": "Earnings",
+    "Date": "2026-04-29",
+    "Details": "Quarterly Earnings Release"
+  },
+  {
+    "Ticker": "VST",
+    "Type": "Earnings",
+    "Date": "2026-05-07",
+    "Details": "Quarterly Earnings Release"
+  },
+  {
+    "Ticker": "HOOD",
+    "Type": "Earnings",
+    "Date": "2026-04-28",
+    "Details": "Quarterly Earnings Release"
+  },
+  {
+    "Ticker": "NKE",
+    "Type": "Earnings",
+    "Date": "2026-06-25",
+    "Details": "Quarterly Earnings Release"
+  }
+]
