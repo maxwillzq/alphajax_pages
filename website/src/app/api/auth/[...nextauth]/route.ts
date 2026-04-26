@@ -11,7 +11,7 @@ export const authOptions = {
         password: { label: "Password", type: "password" }
       },
       async authorize(credentials) {
-        if (credentials?.username === "admin" && credentials?.password === "alphajax2026") {
+        if (credentials?.username === "admin" && credentials?.password === process.env.ADMIN_PASSWORD) {
           return { id: "1", name: "Admin User", email: "admin@alphajax.pro" }
         }
         return null
