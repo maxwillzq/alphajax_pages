@@ -40,5 +40,41 @@
     "Type": "Earnings",
     "Date": "2026-04-29",
     "Details": "Quarterly Earnings Release"
+  },
+  {
+    "Ticker": "QCOM",
+    "Type": "Earnings",
+    "Date": "2026-04-29",
+    "Details": "Quarterly Earnings Release"
+  },
+  {
+    "Ticker": "AMKR",
+    "Type": "Earnings",
+    "Date": "2026-04-27",
+    "Details": "Quarterly Earnings Release"
+  },
+  {
+    "Ticker": "META",
+    "Type": "Earnings",
+    "Date": "2026-04-29",
+    "Details": "Quarterly Earnings Release"
+  },
+  {
+    "Ticker": "AMZN",
+    "Type": "Earnings",
+    "Date": "2026-04-29",
+    "Details": "Quarterly Earnings Release"
+  },
+  {
+    "Ticker": "MSFT",
+    "Type": "Earnings",
+    "Date": "2026-04-29",
+    "Details": "Quarterly Earnings Release"
+  },
+  {
+    "Ticker": "CEG",
+    "Type": "Earnings",
+    "Date": "2026-05-05",
+    "Details": "Quarterly Earnings Release"
   }
 ]
