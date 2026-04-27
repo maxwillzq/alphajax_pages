@@ -1,6 +1,7 @@
 ---
 title: Vistra Corp (VST) 定量基本面深度分析报告
 date: "2026-04-26"
+excerpt: 本报告对 Vistra Corp (VST) 进行深度量化分析，揭示其在 AI 衍生电力需求下的爆发潜力，分析 5月15日大单期权异动，并提供具体的 Short Put 策略。
 ---
 
 # Vistra Corp (VST) 定量基本面深度分析报告
