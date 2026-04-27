@@ -34,5 +34,11 @@
     "Type": "Earnings",
     "Date": "2026-06-25",
     "Details": "Quarterly Earnings Release"
+  },
+  {
+    "Ticker": "QCOM",
+    "Type": "Earnings",
+    "Date": "2026-04-29",
+    "Details": "Quarterly Earnings Release"
   }
 ]
