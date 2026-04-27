@@ -1,6 +1,7 @@
 ---
 title: Meta Platforms (META) 定量基本面深度分析报告
 date: "2026-04-26"
+description: 本报告对 Meta Platforms (META) 进行深度分析，揭示财报前夕 $680 和 $700 Call 的天量异动，并结合 200日均线压制的技术形态，提供多空辩论与策略。
 ---
 
 # Meta Platforms (META) 定量基本面深度分析报告

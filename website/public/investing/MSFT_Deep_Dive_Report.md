@@ -1,6 +1,7 @@
 ---
 title: Microsoft (MSFT) 定量基本面深度分析报告
 date: "2026-04-26"
+description: 本报告对微软（MSFT）进行全量填充的深度分析，揭示财报前夕 $425 Call 破 2 万张的天量异动，并结合 Azure 与 AI 的强劲变现，提供实战交易策略。
 ---
 
 # Microsoft (MSFT) 定量基本面深度分析报告

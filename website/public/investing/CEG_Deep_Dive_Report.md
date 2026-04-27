@@ -1,6 +1,7 @@
 ---
 title: Constellation Energy (CEG) 定量基本面深度分析报告
 date: "2026-04-26"
+description: 本报告对 Constellation Energy (CEG) 进行全方位量化基本面分析，结合 10-K 财报与期权异动，探讨其在核电与数据中心 PPA 整合中的龙头地位与交易策略。
 ---
 
 # Constellation Energy (CEG) 定量基本面深度分析报告
