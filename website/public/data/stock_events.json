@@ -42,15 +42,9 @@
     "Details": "Quarterly Earnings Release"
   },
   {
-    "Ticker": "QCOM",
-    "Type": "Earnings",
-    "Date": "2026-04-29",
-    "Details": "Quarterly Earnings Release"
-  },
-  {
     "Ticker": "AMKR",
     "Type": "Earnings",
-    "Date": "2026-04-27",
+    "Date": "2026-07-27",
     "Details": "Quarterly Earnings Release"
   },
   {
@@ -74,7 +68,49 @@
   {
     "Ticker": "CEG",
     "Type": "Earnings",
+    "Date": "2026-05-11",
+    "Details": "Quarterly Earnings Release"
+  },
+  {
+    "Ticker": "AVGO",
+    "Type": "Earnings",
+    "Date": "2026-06-03",
+    "Details": "Quarterly Earnings Release"
+  },
+  {
+    "Ticker": "TSLA",
+    "Type": "Earnings",
+    "Date": "2026-07-22",
+    "Details": "Quarterly Earnings Release"
+  },
+  {
+    "Ticker": "PLTR",
+    "Type": "Earnings",
+    "Date": "2026-05-04",
+    "Details": "Quarterly Earnings Release"
+  },
+  {
+    "Ticker": "SMCI",
+    "Type": "Earnings",
     "Date": "2026-05-05",
+    "Details": "Quarterly Earnings Release"
+  },
+  {
+    "Ticker": "INTC",
+    "Type": "Earnings",
+    "Date": "2026-07-23",
+    "Details": "Quarterly Earnings Release"
+  },
+  {
+    "Ticker": "ASML",
+    "Type": "Earnings",
+    "Date": "2026-07-15",
+    "Details": "Quarterly Earnings Release"
+  },
+  {
+    "Ticker": "TSM",
+    "Type": "Earnings",
+    "Date": "2026-07-16",
     "Details": "Quarterly Earnings Release"
   }
 ]
