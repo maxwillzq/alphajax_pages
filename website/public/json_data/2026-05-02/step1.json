@@ -1,0 +1,20 @@
+{
+  "username": "default",
+  "timestamp": "2026-05-02T16:15:15.898063",
+  "portfolio_data": {},
+  "available_cash": 0.0,
+  "candidates": [
+    {
+      "ticker": "LITE",
+      "current_price": 949.9299926757812,
+      "support": 245.4777500152588,
+      "resistance": 985.1300048828125,
+      "is_portfolio": false,
+      "news": [],
+      "chart_path": "docs/website/public/daily/charts/2026-05-02/LITE_chart.png",
+      "analysis": null,
+      "bias": null,
+      "bias_score": 3
+    }
+  ]
+}
