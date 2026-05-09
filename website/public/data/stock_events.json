@@ -1,20 +1,8 @@
 [
   {
-    "Ticker": "NVDA",
+    "Ticker": "RBLX",
     "Type": "Earnings",
-    "Date": "2026-05-20",
-    "Details": "Quarterly Earnings Release"
-  },
-  {
-    "Ticker": "AMD",
-    "Type": "Earnings",
-    "Date": "2026-05-05",
-    "Details": "Quarterly Earnings Release"
-  },
-  {
-    "Ticker": "GOOGL",
-    "Type": "Earnings",
-    "Date": "2026-04-29",
+    "Date": "2026-07-30",
     "Details": "Quarterly Earnings Release"
   },
   {
@@ -24,93 +12,33 @@
     "Details": "Quarterly Earnings Release"
   },
   {
-    "Ticker": "HOOD",
-    "Type": "Earnings",
-    "Date": "2026-04-28",
-    "Details": "Quarterly Earnings Release"
-  },
-  {
-    "Ticker": "NKE",
-    "Type": "Earnings",
-    "Date": "2026-06-25",
-    "Details": "Quarterly Earnings Release"
-  },
-  {
-    "Ticker": "QCOM",
-    "Type": "Earnings",
-    "Date": "2026-04-29",
-    "Details": "Quarterly Earnings Release"
-  },
-  {
-    "Ticker": "AMKR",
-    "Type": "Earnings",
-    "Date": "2026-07-27",
-    "Details": "Quarterly Earnings Release"
-  },
-  {
-    "Ticker": "META",
-    "Type": "Earnings",
-    "Date": "2026-04-29",
-    "Details": "Quarterly Earnings Release"
-  },
-  {
-    "Ticker": "AMZN",
-    "Type": "Earnings",
-    "Date": "2026-04-29",
-    "Details": "Quarterly Earnings Release"
-  },
-  {
-    "Ticker": "MSFT",
-    "Type": "Earnings",
-    "Date": "2026-04-29",
-    "Details": "Quarterly Earnings Release"
-  },
-  {
     "Ticker": "CEG",
     "Type": "Earnings",
     "Date": "2026-05-11",
     "Details": "Quarterly Earnings Release"
   },
   {
-    "Ticker": "AVGO",
-    "Type": "Earnings",
-    "Date": "2026-06-03",
-    "Details": "Quarterly Earnings Release"
-  },
-  {
-    "Ticker": "TSLA",
-    "Type": "Earnings",
-    "Date": "2026-07-22",
-    "Details": "Quarterly Earnings Release"
-  },
-  {
-    "Ticker": "PLTR",
-    "Type": "Earnings",
-    "Date": "2026-05-04",
-    "Details": "Quarterly Earnings Release"
-  },
-  {
-    "Ticker": "SMCI",
+    "Ticker": "AMD",
     "Type": "Earnings",
     "Date": "2026-05-05",
     "Details": "Quarterly Earnings Release"
   },
   {
-    "Ticker": "INTC",
+    "Ticker": "CSCO",
     "Type": "Earnings",
-    "Date": "2026-07-23",
-    "Details": "Quarterly Earnings Release"
+    "Date": "2026-05-13",
+    "Details": "思科财报 (盘后)"
   },
   {
-    "Ticker": "ASML",
+    "Ticker": "GOLD",
     "Type": "Earnings",
-    "Date": "2026-07-15",
-    "Details": "Quarterly Earnings Release"
+    "Date": "2026-05-11",
+    "Details": "巴里克黄金财报 (盘前)"
   },
   {
-    "Ticker": "TSM",
+    "Ticker": "MARA",
     "Type": "Earnings",
-    "Date": "2026-07-16",
-    "Details": "Quarterly Earnings Release"
+    "Date": "2026-05-13",
+    "Details": "Marathon Digital财报 (盘后)"
   }
 ]
